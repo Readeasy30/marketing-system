@@ -8,6 +8,7 @@ This repository organizes marketing for all current and future projects.
 - MathEasy30
 - PetNeeds.ai
 - Resturants.ai
+- SlotsFreeUSA
 
 ## Project Repositories
 
@@ -15,6 +16,7 @@ This repository organizes marketing for all current and future projects.
 - MathEasy30: website code stays in its own repo
 - PetNeeds.ai: website code stays in its own repo
 - Resturants.ai: website code stays in its own repo and deploys to `resturants.ai`
+- SlotsFreeUSA: website code stays in `slotsfreeusa.com` and deploys to `slotsfreeusa.com`
 
 ## Purpose
 
@@ -57,9 +59,19 @@ Resturants.ai direction should feel:
 - mobile-first
 - AI-assisted but easy to use
 
+SlotsFreeUSA direction should feel:
+
+- entertaining
+- trustworthy
+- clear
+- mobile-first
+- adult-focused
+- honest about risk
+- simple enough for beginners
+
 ## Domain Rule
 
-The live working domain is `resturants.ai`.
+The live restaurant domain is `resturants.ai`.
 
 Use this spelling consistently in marketing, Cloudflare, launch notes, social media, Canva assets, SEO pages, and deployment settings.
 
@@ -68,6 +80,8 @@ Avoid older misspellings:
 - reasturant.ai
 - restaurant.ai
 - resturant.ai
+
+The live slots project domain is `slotsfreeusa.com`.
 
 ## Workflow
 
