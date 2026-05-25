@@ -7,14 +7,14 @@ This repository organizes marketing for all current and future projects.
 - ReadEasy30
 - MathEasy30
 - PetNeeds.ai
-- Resturant.ai
+- Resturants.ai
 
 ## Project Repositories
 
 - ReadEasy30: website code stays in its own repo
 - MathEasy30: website code stays in its own repo
 - PetNeeds.ai: website code stays in its own repo
-- Resturant.ai: website code repo should be renamed to `Wholelychit/resturant.ai`
+- Resturants.ai: website code stays in its own repo and deploys to `resturants.ai`
 
 ## Purpose
 
@@ -47,7 +47,7 @@ All education projects should feel:
 - practical
 - emotionally safe
 
-Resturant.ai direction should feel:
+Resturants.ai direction should feel:
 
 - local
 - trustworthy
@@ -59,9 +59,15 @@ Resturant.ai direction should feel:
 
 ## Domain Rule
 
-The owned domain is `resturant.ai`.
+The live working domain is `resturants.ai`.
 
-Use this spelling consistently in marketing, Cloudflare, launch notes, and deployment settings.
+Use this spelling consistently in marketing, Cloudflare, launch notes, social media, Canva assets, SEO pages, and deployment settings.
+
+Avoid older misspellings:
+
+- reasturant.ai
+- restaurant.ai
+- resturant.ai
 
 ## Workflow
 
