@@ -1,76 +1,65 @@
 # Wholelychit Repository Master Map
 
-This file keeps the business websites, support repositories, tools, and next actions organized in one place.
+This file is the master control map for all Wholelychit websites, support repositories, and production workflows.
 
-## Rule
+## Command center rule
+
+`marketing-system` is the command center. It is not a public website unless one already exists here or Gerry clearly requests that later.
 
 Website code stays inside each website repository.
 
-Marketing, launch planning, SEO planning, content calendars, monetization ideas, reusable checklists, and cross-site review systems live in `marketing-system`.
+Marketing strategy, SEO planning, launch planning, content calendars, monetization ideas, reusable prompts, Codex production rules, and cross-site review systems live here.
 
-## Default Review System
+## Active business website repositories
 
-Use `REVIEW-FIX-LOOP.md` as the standing operating system for AI and Codex.
+| Priority | Repository | Brand / Domain | Purpose | Current direction |
+|---:|---|---|---|---|
+| 1 | `readeasy30.com` | ReadEasy30 | Reading practice for children, adults, ESL learners, and struggling readers | Protect stable non-React version, improve lessons, add assessment/progression, build parent/helper trust pages, prepare printable resources. |
+| 2 | `matheasy30.com` | MathEasy30 | Calm 30-day math learning companion | Follow ReadEasy30 discipline: simple stack, clear lessons, mobile-first, worksheets later. |
+| 3 | `my-petneeds` | PetNeeds.ai | Pet information, pet categories, community content, local pet resources | Build trustworthy pet portal, common Q&A, rare/usable pet sections, photo/category concept, safe AI guidance, affiliate/local ad planning. |
+| 4 | `restaurantaibot.com` | Resturants.ai | Restaurant discovery and AI restaurant growth platform | Build owner value, local pages, lead capture, menu/AI assistant ideas, restaurant marketing assets, local ad planning. |
+| 5 | `slotsfreeusa.com` | SlotsFreeUSA | Free slots entertainment and review content | Build compliance, honest risk language, beginner guides, Lucky Lou character content, ad/affiliate planning with disclosure. |
+| 6 | `marketing-system` | Wholelychit Marketing System | Command center | Keep planning, prompts, production workflows, launch rules, SEO systems, monetization plans, and blocker logs organized. |
 
-Default behavior:
+## Support / tool repositories
 
-1. Review files.
-2. Fix safe issues directly.
-3. Commit useful changes.
-4. Record blockers.
-5. Continue to the next safe fix.
-
-AI and Codex should not send file creation, paste work, or file updates back to Gerry.
-
-## Active Business Website Repositories
-
-| Repository | Purpose | Status | Next Work |
-|---|---|---|---|
-| `readeasy30.com` | Reading practice website for children and struggling readers | Active | Protect stable non-React version, improve lessons, add placement/assessment, then build parent/helper resources |
-| `my-petneeds` | Pet information, questions, photos, local pet resources, affiliate/ad model | Active | Build category structure, photo/community idea, local ad plan, pet FAQ pages, product affiliate paths |
-| `restaurantaibot.com` | Restaurant discovery and AI restaurant growth platform | Active | Build search/local landing pages, restaurant owner pages, lead capture, menu/AI assistant ideas |
-| `slotsfreeusa.com` | Free slots information/reviews and entertainment content | Active | Add compliance pages, Lucky Lou character assets, honest risk messaging, SEO review pages, affiliate/ad plan |
-| `matheasy30.com` | Math learning companion site | Active | Follow ReadEasy30 structure, improve 30-day math app, parent resources, and worksheets later |
-| `spx-tastytrade-autotrader` | Private SPX/Tastytrade automation research | Private/high risk | Keep private; focus on research, logging, paper trading, safety limits, no live trading until tested |
-
-## Support / Tool Repositories
-
-| Repository | Purpose | Keep / Use For |
+| Repository | Purpose | Use rule |
 |---|---|---|
-| `marketing-system` | Central command center for all sites | Master checklists, SEO plan, launch plan, content calendar, social templates, monetization roadmap, review/fix loop |
-| `bubbles-ai-guide` | Bubbles reading coach guide/personality | Use for ReadEasy30 coaching tone, answer rules, learner safety, future AI prompt rules |
-| `my-ozarkwebmasters` | Possible agency/local web services brand | Keep as possible local business services site; not primary now |
-| `llm-chat-app-template` | AI chat app starter/template | Keep as reference only; do not use to convert ReadEasy30 unless intentionally rebuilding later |
-| `chanfana-openapi-template` | Cloudflare/OpenAPI template | Keep as API reference; do not mix into simple static sites unless an API is needed |
+| `bubbles-ai-guide` | Bubbles reading coach guide/personality | Use for ReadEasy30 coaching tone, answer rules, learner safety, and future AI prompt rules. |
+| `my-ozarkwebmasters` | Possible local web services / agency brand | Keep as possible service business. Not primary until core sites stabilize. |
+| `llm-chat-app-template` | AI chat app starter/template | Reference only. Do not use to convert simple static sites unless intentionally rebuilding later. |
+| `chanfana-openapi-template` | Cloudflare/OpenAPI template | Reference only. Use only when an API is actually needed. |
+| `spx-tastytrade-autotrader` | Private trading automation research | Keep private and safety-first. No live trading until tested, logged, and risk-limited. |
 
-## Standard Files For Every Public Website
+## Standard files for every public website repo
 
-Add or verify these for every active public site:
+Every public site should eventually include or verify:
 
-1. `README.md` with purpose, tech stack, live domain, and next actions.
-2. `AGENTS.md` with AI/Codex file-work rules.
-3. `AGENT-INSTRUCTIONS.md` so AI tools do not redesign or break the site.
-4. `FILE-MANAGEMENT.md` when the repo starts growing.
-5. `SEO-CHECKLIST.md` or site checklist.
-6. `LAUNCH-CHECKLIST.md`.
-7. `CONTENT-PLAN.md`.
-8. `STYLE-GUIDE.md` when branding becomes important.
-9. Privacy policy, terms page, contact page, and affiliate/ad disclosure when monetized.
+1. `README.md` — purpose, tech stack, live domain, next actions.
+2. `AGENTS.md` — AI/Codex file-work rules.
+3. `AGENT-INSTRUCTIONS.md` — repo-specific guardrails.
+4. `LOCKED-CHECKPOINT.md` — stable state when the repo has fragile working progress.
+5. `FILE-MANAGEMENT.md` — file rules when the repo grows.
+6. `PROJECT-STATUS.md` — current state, blockers, next queue.
+7. `CONTENT-PLAN.md` — page/content roadmap.
+8. `SEO-CHECKLIST.md` — title, meta, internal links, schema, sitemap, robots.
+9. `LAUNCH-CHECKLIST.md` — public launch readiness.
+10. Legal pages and footer links before public promotion.
 
-## Standard Tools For Every Public Website
+## Standard launch checks for every public website
 
-Add or verify these when each site is ready:
+1. Homepage title is clear.
+2. Meta description exists and fits the site promise.
+3. Canonical URL is correct.
+4. Navigation is simple and working.
+5. Footer includes Terms, Privacy, Advertising/Affiliate disclosure, AI Disclaimer where needed, and Community Rules where needed.
+6. `robots.txt` exists.
+7. `sitemap.xml` exists.
+8. Mobile layout works.
+9. Main user action works.
+10. No private keys, tokens, payment setup, live ads, or tracking scripts are added without explicit approval.
 
-1. Google Search Console.
-2. Bing Webmaster Tools.
-3. Google Analytics 4 only when tracking is approved.
-4. Microsoft Clarity only when tracking is approved.
-5. PageSpeed Insights testing.
-6. Schema markup testing.
-7. Canva folder for brand graphics and social assets.
-8. Social posting plan for YouTube, Facebook, Instagram, TikTok, Pinterest, Reddit, LinkedIn, and X.
-
-## Performance Rules
+## Performance rules
 
 Use these rules on all website repositories:
 
@@ -80,59 +69,42 @@ Use these rules on all website repositories:
 4. Compress images before upload.
 5. Use clear page titles and meta descriptions.
 6. Add internal links between related pages.
-7. Keep pages readable at a 7th to 9th grade level for consumer sites.
-8. Test home page, mobile layout, navigation, and contact paths after each major change.
+7. Keep consumer language around a 7th to 9th grade reading level.
+8. Test homepage, mobile layout, navigation, footer links, and core user action after each major change.
 
-## File Management Rules
+## Monetization map
 
-1. AI and Codex do file work directly.
-2. Do not send file creation, paste work, or file updates back to Gerry.
-3. Check existing files before creating new files.
-4. Avoid duplicate style files.
-5. Avoid duplicate planning files.
-6. Prefer full-file updates when small patches are fragile.
-7. Commit useful safe changes with clear messages.
-8. Record blocked work instead of stopping the whole project.
+| Site | Best first monetization | Later monetization |
+|---|---|---|
+| ReadEasy30 | Printable resources, parent guides, tutor/school outreach | Subscription, assessment reports, sponsored education resources. |
+| MathEasy30 | Printable worksheets, parent guides | Subscription, school/tutor partnerships. |
+| PetNeeds.ai | Affiliate product paths, local vet/store listings, sponsored guides | Display ads, newsletter, local marketplace. |
+| Resturants.ai | Restaurant lead generation, owner pages, monthly AI marketing service | Sponsored listings, menu/content services, local ads. |
+| SlotsFreeUSA | Display ads, compliant affiliate offers, email list | Sponsored reviews where legal and disclosed. |
 
-## Time Management Rules
-
-1. Do not spend the session repeating plans.
-2. Review files, fix safe issues, commit, and continue.
-3. Work in useful batches.
-4. Report after several useful commits.
-5. Stop only for blocked writes, major code deletion, framework changes, private keys, payment setup, live tracking, live ads, or unclear repo state.
-
-## Monetization Map
-
-| Site | Best First Monetization |
-|---|---|
-| ReadEasy30 | Printable resources, parent guides, future subscription, school/tutor partnerships |
-| PetNeeds | Affiliate products, local vet/store ads, sponsored listings, pet guides, display ads |
-| RestaurantAIbot | Lead generation for restaurants, local business pages, monthly AI marketing service, sponsored listings |
-| SlotsFreeUSA | Affiliate offers where legal/compliant, display ads, email list, beginner guides |
-| MathEasy30 | Printable worksheets, parent guides, future subscription |
-
-## Build Priority
-
-1. Run review/fix loop across active repos.
-2. Stabilize ReadEasy30.
-3. Continue MathEasy30 using the ReadEasy30 pattern.
-4. Build marketing-system into the control center.
-5. Improve PetNeeds into a useful pet portal.
-6. Improve RestaurantAIbot into a lead-generation platform.
-7. Finish SlotsFreeUSA compliance/content system.
-8. Keep SPX autotrader private and safety-first.
-
-## Do Not Repeat Work Rule
+## Do-not-repeat rule
 
 Before editing any site, check:
 
-1. README.
+1. README.md.
 2. AGENTS.md.
-3. AGENT-INSTRUCTIONS.md.
-4. FILE-MANAGEMENT.md when present.
-5. Latest stable checkpoint when present.
-6. Current live page if available.
-7. The exact file being changed.
+3. AGENT-INSTRUCTIONS.md if present.
+4. LOCKED-CHECKPOINT.md if present.
+5. FILE-MANAGEMENT.md if present.
+6. PROJECT-STATUS.md if present.
+7. Current homepage and core files.
+8. The exact file being changed.
 
 Then make the smallest safe improvement that moves the business forward.
+
+## Current command-center files
+
+- `REPOSITORY-MASTER-MAP.md` — all repos and boundaries.
+- `CODEX-PRODUCTION-WORKFLOW.md` — how Codex should work across repos.
+- `FILE-MANAGEMENT.md` — direct-file rules and anti-duplication system.
+- `TIME-MANAGEMENT.md` — how sessions should avoid wasted loops.
+- `WEBSITE-PRIORITY-LIST.md` — current build order.
+- `PROMPT-LIBRARY.md` — reusable prompts for review/build work.
+- `CROSS-SITE-LAUNCH-CHECKLIST.md` — launch checks before promotion.
+- `REVIEW-FIX-LOOP.md` — standing review/fix process.
+- `LEGAL-PAGE-INSTRUCTIONS.md` — shared legal/footer guidance.
