@@ -16,6 +16,14 @@ This folder holds reusable marketing campaigns for Wholelychit projects.
 |---|---|---|---|
 | `monday-promotion-launch.md` | ReadEasy30 + MathEasy30 | Start the Monday promotion push and daily campaign rhythm | Starts Monday 2026-06-01 |
 
+## Monday Promotion Assets
+
+| File | Purpose | Status |
+|---|---|---|
+| `education-7-day-social-post-batch.md` | 7 days of manual social posts for ReadEasy30 + MathEasy30 | Ready |
+| `education-10-shorts-scripts.md` | 10 short-video scripts for YouTube Shorts, Reels, TikTok, and Pinterest | Ready |
+| `education-canva-asset-prompts.md` | Canva prompt notes and asset list for launch graphics | Ready |
+
 ## Education Campaigns
 
 | Campaign | Projects | Purpose | Status |
