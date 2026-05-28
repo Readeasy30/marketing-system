@@ -15,6 +15,8 @@ This folder holds reusable marketing campaigns for Wholelychit projects.
 | Campaign | Projects | Purpose | Status |
 |---|---|---|---|
 | `readeasy30-matheasy30-confidence-campaign.md` | ReadEasy30 + MathEasy30 | Launch shared education message around calm daily practice | Active first campaign |
+| `parent-helper-week.md` | ReadEasy30 + MathEasy30 | Help parents and helpers support learners without pressure | Ready |
+| `adult-learner-confidence.md` | ReadEasy30 + MathEasy30 | Reach adults rebuilding reading or math confidence | Ready |
 
 ## Campaign File Template
 
@@ -33,8 +35,8 @@ Use this structure for future campaign files:
 
 ## Next Campaign Ideas
 
-- Parent helper week.
-- Adult learner confidence week.
 - ESL learner practice week.
 - 30-day back-to-basics challenge.
 - Library/community group outreach.
+- Printable tracker launch.
+- Parent/tutor worksheet preview.
