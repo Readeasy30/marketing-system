@@ -62,6 +62,7 @@ Ready education promotion asset files:
 - `CAMPAIGNS/education-reddit-safe-posts.md`
 - `CAMPAIGNS/education-professional-post-topics.md`
 - `CAMPAIGNS/education-facebook-parent-helper-posts.md`
+- `CAMPAIGNS/education-manual-posting-log.md`
 
 Launch focus:
 
@@ -108,7 +109,8 @@ Current SlotsFreeUSA focus:
 - Added `CAMPAIGNS/education-reddit-safe-posts.md`.
 - Added `CAMPAIGNS/education-professional-post-topics.md` as the safe professional-networking substitute for LinkedIn-specific copy.
 - Added `CAMPAIGNS/education-facebook-parent-helper-posts.md`.
-- Updated `CAMPAIGNS/README.md` to index platform promotion batches.
+- Added `CAMPAIGNS/education-manual-posting-log.md`.
+- Updated `CAMPAIGNS/README.md` to index the posting log.
 - Added `MARKETING-FORMULA.md` as the reusable marketing formula for all Wholelychit websites.
 - Added `SLOTSFREEUSA-MARKETING-PLAN.md`.
 - Added `SLOTSFREEUSA-30-DAY-MARKETING-CALENDAR.md`.
@@ -129,10 +131,11 @@ Current SlotsFreeUSA focus:
 4. Build reusable systems instead of scattered one-off notes.
 5. Use `MARKETING-FORMULA.md` as the shared formula for all sites.
 6. Use the education campaign files for Monday manual promotion.
-7. Use SlotsFreeUSA marketing files for casino/social-casino outreach and content execution.
-8. Use `EDUCATION-GROWTH-PLAN.md` as the shared ReadEasy30 + MathEasy30 plan.
-9. Use `CAMPAIGNS/README.md` as the campaign index.
-10. Record blockers instead of stopping.
+7. Use `CAMPAIGNS/education-manual-posting-log.md` to track Monday promotion.
+8. Use SlotsFreeUSA marketing files for casino/social-casino outreach and content execution.
+9. Use `EDUCATION-GROWTH-PLAN.md` as the shared ReadEasy30 + MathEasy30 plan.
+10. Use `CAMPAIGNS/README.md` as the campaign index.
+11. Record blockers instead of stopping.
 
 ## Safe Work Allowed
 
@@ -164,11 +167,10 @@ Current SlotsFreeUSA focus:
 
 ## Next Safe Build Queue
 
-1. Create a manual posting log for education promotions.
-2. Create first SEO article draft from the education campaign.
-3. Create first Canva production checklist.
-4. Update README links as files are added.
-5. Build future starter/template repo plan with `AGENTS.md`, `PROJECT-STATUS.md`, `CODEX-WORKFLOW.md`, `README.md`, `robots.txt`, `sitemap.xml`, and basic SEO checklists.
+1. Create first SEO article draft from the education campaign.
+2. Create first Canva production checklist.
+3. Update README links as files are added.
+4. Build future starter/template repo plan with `AGENTS.md`, `PROJECT-STATUS.md`, `CODEX-WORKFLOW.md`, `README.md`, `robots.txt`, `sitemap.xml`, and basic SEO checklists.
 
 ## Blockers
 
