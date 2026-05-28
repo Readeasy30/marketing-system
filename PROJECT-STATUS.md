@@ -4,6 +4,14 @@ Last updated: 2026-05-28
 
 This file tracks the safe marketing-system queue for Wholelychit projects.
 
+## Current Workflow Decision
+
+Codex is the primary workflow for routine repository edits.
+
+The ChatGPT GitHub connector is secondary and should be used only for small reads, checks, reviews, or emergency single-file edits when Codex is unavailable.
+
+Reason: the ChatGPT GitHub connector may show internal write-action names like `create_file` or `update_file`, which can confuse the owner and make it look like manual file creation is required.
+
 ## Main Rule
 
 This repo controls marketing systems, content plans, SEO direction, social templates, launch checklists, campaign files, and review notes.
@@ -41,17 +49,20 @@ Report only after several useful commits or a real blocker.
 - Added campaigns folder index.
 - Added first ReadEasy30 + MathEasy30 confidence campaign.
 - Updated README to point future work to the new education plan and campaign files.
+- Added `CODEX-WORKFLOW.md` to document Codex-first repo editing.
 
-## Current Queue
+## Current Safe Queue
 
 1. Keep this repo as the marketing control center.
-2. Build reusable systems instead of scattered one-off notes.
-3. Use `EDUCATION-GROWTH-PLAN.md` as the shared ReadEasy30 + MathEasy30 plan.
-4. Use `CAMPAIGNS/README.md` as the campaign index.
-5. Use `CAMPAIGNS/readeasy30-matheasy30-confidence-campaign.md` as the first education campaign.
-6. Review ReadEasy30 repo for safe homepage/cross-link alignment.
-7. Review MathEasy30 repo for safe homepage/cross-link alignment.
-8. Record blockers instead of stopping.
+2. Keep Codex as the main repo-editing workflow.
+3. Use the ChatGPT GitHub connector only for reads, checks, or emergency edits.
+4. Build reusable systems instead of scattered one-off notes.
+5. Use `EDUCATION-GROWTH-PLAN.md` as the shared ReadEasy30 + MathEasy30 plan.
+6. Use `CAMPAIGNS/README.md` as the campaign index.
+7. Use `CAMPAIGNS/readeasy30-matheasy30-confidence-campaign.md` as the first education campaign.
+8. Review ReadEasy30 repo for safe homepage/cross-link alignment.
+9. Review MathEasy30 repo for safe homepage/cross-link alignment.
+10. Record blockers instead of stopping.
 
 ## Safe Work Allowed
 
@@ -66,6 +77,7 @@ Report only after several useful commits or a real blocker.
 - Review checklists
 - Blocker logs
 - Monetization planning before live setup
+- Documentation for Codex-first workflow
 
 ## Not Allowed Without Direct Approval
 
@@ -88,10 +100,11 @@ Report only after several useful commits or a real blocker.
 6. Create education social-post batch.
 7. Create education short-video script batch.
 8. Update README links as files are added.
+9. Build future starter/template repo plan with `AGENTS.md`, `PROJECT-STATUS.md`, `CODEX-WORKFLOW.md`, `README.md`, `robots.txt`, `sitemap.xml`, and basic SEO checklists.
 
 ## Blockers
 
-None right now.
+- Large direct replacement of `AGENTS.md` through the ChatGPT GitHub connector was blocked by tool safety checks. Codex should handle broader instruction-file replacements directly.
 
 ## Notes
 
