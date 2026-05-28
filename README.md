@@ -33,11 +33,14 @@ Use this as the guide before creating one-off plans.
 
 ## SlotsFreeUSA Marketing Plan
 
-SlotsFreeUSA now has a defined working marketing plan:
+SlotsFreeUSA now has a defined working marketing system:
 
 - `SLOTSFREEUSA-MARKETING-PLAN.md` — SlotsFreeUSA traffic, trust, content, monetization, and safe 30-day build queue.
+- `SLOTSFREEUSA-30-DAY-MARKETING-CALENDAR.md` — daily action calendar for the first marketing push.
+- `SLOTSFREEUSA-AFFILIATE-OUTREACH.md` — affiliate outreach tracker and application email templates.
+- `SLOTSFREEUSA-SOCIAL-VIDEO-BATCH.md` — social posts, short video scripts, Pinterest ideas, and Canva asset prompts.
 
-This plan should guide casino/social-casino review pages, partner outreach, SEO pages, and future monetization.
+These files should guide casino/social-casino review pages, partner outreach, SEO pages, social content, and future monetization.
 
 ## Education Growth System
 
