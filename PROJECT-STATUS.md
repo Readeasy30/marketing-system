@@ -58,11 +58,13 @@ Ready education promotion asset files:
 - `CAMPAIGNS/education-7-day-social-post-batch.md`
 - `CAMPAIGNS/education-10-shorts-scripts.md`
 - `CAMPAIGNS/education-canva-asset-prompts.md`
+- `CAMPAIGNS/education-canva-production-checklist.md`
 - `CAMPAIGNS/education-pinterest-pin-batch.md`
 - `CAMPAIGNS/education-reddit-safe-posts.md`
 - `CAMPAIGNS/education-professional-post-topics.md`
 - `CAMPAIGNS/education-facebook-parent-helper-posts.md`
 - `CAMPAIGNS/education-manual-posting-log.md`
+- `CAMPAIGNS/education-seo-article-reading-practice-draft.md`
 
 Launch focus:
 
@@ -110,7 +112,9 @@ Current SlotsFreeUSA focus:
 - Added `CAMPAIGNS/education-professional-post-topics.md` as the safe professional-networking substitute for LinkedIn-specific copy.
 - Added `CAMPAIGNS/education-facebook-parent-helper-posts.md`.
 - Added `CAMPAIGNS/education-manual-posting-log.md`.
-- Updated `CAMPAIGNS/README.md` to index the posting log.
+- Added `CAMPAIGNS/education-seo-article-reading-practice-draft.md`.
+- Added `CAMPAIGNS/education-canva-production-checklist.md`.
+- Updated `CAMPAIGNS/README.md` to index the SEO draft and Canva checklist.
 - Added `MARKETING-FORMULA.md` as the reusable marketing formula for all Wholelychit websites.
 - Added `SLOTSFREEUSA-MARKETING-PLAN.md`.
 - Added `SLOTSFREEUSA-30-DAY-MARKETING-CALENDAR.md`.
@@ -132,10 +136,11 @@ Current SlotsFreeUSA focus:
 5. Use `MARKETING-FORMULA.md` as the shared formula for all sites.
 6. Use the education campaign files for Monday manual promotion.
 7. Use `CAMPAIGNS/education-manual-posting-log.md` to track Monday promotion.
-8. Use SlotsFreeUSA marketing files for casino/social-casino outreach and content execution.
-9. Use `EDUCATION-GROWTH-PLAN.md` as the shared ReadEasy30 + MathEasy30 plan.
-10. Use `CAMPAIGNS/README.md` as the campaign index.
-11. Record blockers instead of stopping.
+8. Use `CAMPAIGNS/education-canva-production-checklist.md` to produce first launch images.
+9. Use SlotsFreeUSA marketing files for casino/social-casino outreach and content execution.
+10. Use `EDUCATION-GROWTH-PLAN.md` as the shared ReadEasy30 + MathEasy30 plan.
+11. Use `CAMPAIGNS/README.md` as the campaign index.
+12. Record blockers instead of stopping.
 
 ## Safe Work Allowed
 
@@ -167,8 +172,8 @@ Current SlotsFreeUSA focus:
 
 ## Next Safe Build Queue
 
-1. Create first SEO article draft from the education campaign.
-2. Create first Canva production checklist.
+1. Convert the SEO article draft into a ReadEasy30 website page when ready.
+2. Create next SEO draft from the education campaign.
 3. Update README links as files are added.
 4. Build future starter/template repo plan with `AGENTS.md`, `PROJECT-STATUS.md`, `CODEX-WORKFLOW.md`, `README.md`, `robots.txt`, `sitemap.xml`, and basic SEO checklists.
 
