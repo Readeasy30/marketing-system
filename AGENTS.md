@@ -1,22 +1,48 @@
 # AGENTS.md
 
-## Work rule
+## Non-negotiable work rule
 
-AI and Codex do the file work.
+AI and Codex handle file work directly.
 
-Do not send file creation work back to Gerry.
+Do not ask Gerry to create files.
+Do not ask Gerry to paste files.
+Do not ask Gerry to update files.
+Do not ask Gerry to approve routine safe files.
+Do not stop after one useful change just to ask for a thumbs up.
+Do not wait for permission between safe repairs, safe new files, safe documentation updates, safe UX improvements, or safe content improvements.
 
-Do not send paste work back to Gerry.
+When repository write access is available, create, update, replace, repair, and commit safe files automatically.
 
-Do not send file update work back to Gerry.
+## Continuous work rule
 
-Use direct file updates for normal website work.
+Keep working through the safe queue until one of these happens:
 
-Use full file updates when cleaner than small patches.
+1. A real blocker prevents the next file write.
+2. A requested change would require private keys, payment setup, live ads, tracking scripts, framework replacement, or deletion of major working code.
+3. The task is complete enough that the next step would be a new strategic direction, not normal continuation.
 
-Commit useful changes with clear messages.
+Do not pause for approval after completing a normal safe step.
+Do not ask "should I continue?" during the safe queue.
+Do not make Gerry babysit routine commits.
 
-## Normal tasks
+## Communication rule
+
+Keep progress messages short and rare.
+
+Do not report every tiny file change while working.
+Do not repeat what was just completed unless the user asks or the task is finished.
+Do not announce obvious next steps before doing them.
+
+At the end, give a short result summary with only:
+
+- what changed
+- commit hashes if useful
+- blockers if any
+- next safe queue if needed
+
+## Normal safe tasks
+
+These tasks are pre-approved when they follow the current stack and project direction:
 
 - create website files
 - update HTML files
@@ -26,10 +52,17 @@ Commit useful changes with clear messages.
 - fix links
 - fix file paths
 - improve page text
+- improve navigation
+- improve footer
+- improve accessibility
 - improve mobile layout
 - update README files
 - update instruction files
+- update status/checkpoint files
 - improve planning files
+- add support pages
+- add topic pages
+- add manual test checklists
 
 ## Build order
 
@@ -41,11 +74,11 @@ Commit useful changes with clear messages.
 6. Add support pages.
 7. Add topic pages.
 8. Add business planning later.
-9. Report after several useful commits.
+9. Report after several useful commits or when blocked.
 
 ## Stop points
 
-Stop only for blocked writes, major code deletion, framework changes, private keys, payment setup, live tracking, live ads, or unclear repository state.
+Stop only for blocked writes, major code deletion, framework changes, private keys, payment setup, live tracking, live ads, unclear repository state, or a change that could break production in a way that cannot be safely repaired in the same work session.
 
 ## Tech rule
 
