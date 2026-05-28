@@ -23,6 +23,22 @@ Website code stays in each website repository. Marketing strategy and reusable s
 - Resturants.ai: website code stays in its own repo and deploys to `resturants.ai`.
 - SlotsFreeUSA: website code stays in `slotsfreeusa.com` and deploys to `slotsfreeusa.com`.
 
+## Reusable Marketing Formula
+
+The shared marketing formula is documented in:
+
+- `MARKETING-FORMULA.md` — reusable Traffic + Trust + Simple Offer + Follow-Up system for all Wholelychit sites.
+
+Use this as the guide before creating one-off plans.
+
+## SlotsFreeUSA Marketing Plan
+
+SlotsFreeUSA now has a defined working marketing plan:
+
+- `SLOTSFREEUSA-MARKETING-PLAN.md` — SlotsFreeUSA traffic, trust, content, monetization, and safe 30-day build queue.
+
+This plan should guide casino/social-casino review pages, partner outreach, SEO pages, and future monetization.
+
 ## Education Growth System
 
 The shared education marketing plan connects ReadEasy30 and MathEasy30 as one calm daily-practice education family.
