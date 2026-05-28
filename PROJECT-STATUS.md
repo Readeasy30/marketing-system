@@ -41,6 +41,25 @@ Report only after several useful commits or a real blocker.
 | Resturants.ai | Restaurant AI/growth platform | Local restaurant value, mobile-first service positioning | Active |
 | SlotsFreeUSA | Free slots/review site | Beginner guides, honest risk language, affiliate-safe content | Active |
 
+## Active Launch
+
+Monday promotion starts on 2026-06-01.
+
+Active launch file:
+
+- `CAMPAIGNS/monday-promotion-launch.md`
+
+Primary campaign:
+
+- `CAMPAIGNS/readeasy30-matheasy30-confidence-campaign.md`
+
+Launch focus:
+
+- Promote ReadEasy30 first.
+- Mention MathEasy30 as sister site.
+- Use no-shame, calm daily-practice language.
+- Drive traffic to `https://readeasy30.com/app.html` and `https://readeasy30.com/reading-levels-beginner-to-8th-grade.html`.
+
 ## Completed Today
 
 - Strengthened `AGENTS.md` safe-work wording.
@@ -50,6 +69,8 @@ Report only after several useful commits or a real blocker.
 - Added first ReadEasy30 + MathEasy30 confidence campaign.
 - Updated README to point future work to the new education plan and campaign files.
 - Added `CODEX-WORKFLOW.md` to document Codex-first repo editing.
+- Added `CAMPAIGNS/monday-promotion-launch.md`.
+- Updated `CAMPAIGNS/README.md` to index the Monday launch file.
 
 ## Current Safe Queue
 
@@ -59,10 +80,12 @@ Report only after several useful commits or a real blocker.
 4. Build reusable systems instead of scattered one-off notes.
 5. Use `EDUCATION-GROWTH-PLAN.md` as the shared ReadEasy30 + MathEasy30 plan.
 6. Use `CAMPAIGNS/README.md` as the campaign index.
-7. Use `CAMPAIGNS/readeasy30-matheasy30-confidence-campaign.md` as the first education campaign.
-8. Review ReadEasy30 repo for safe homepage/cross-link alignment.
-9. Review MathEasy30 repo for safe homepage/cross-link alignment.
-10. Record blockers instead of stopping.
+7. Use `CAMPAIGNS/monday-promotion-launch.md` as the Monday active launch file.
+8. Use `CAMPAIGNS/readeasy30-matheasy30-confidence-campaign.md` as the first education campaign.
+9. Create a 7-day social post batch.
+10. Create 10 YouTube Shorts scripts.
+11. Create Canva prompt notes.
+12. Record blockers instead of stopping.
 
 ## Safe Work Allowed
 
@@ -86,25 +109,28 @@ Report only after several useful commits or a real blocker.
 - Payment setup
 - Live ad scripts
 - Live tracking scripts
+- Paid ad spend
+- Auto-posting tools connected to live accounts
 - Major website code inside this repo
 - Framework changes
 - Earnings guarantees
 
 ## Next Safe Build Queue
 
-1. Review ReadEasy30 repo instructions and status files.
-2. Review MathEasy30 repo instructions and status files.
-3. Add safe cross-link plan only if both sites are stable.
-4. Create parent/helper campaign file.
-5. Create adult learner confidence campaign file.
-6. Create education social-post batch.
-7. Create education short-video script batch.
+1. Create 7-day social post batch.
+2. Create 10 YouTube Shorts scripts.
+3. Create Canva image prompt notes.
+4. Create Pinterest pin titles and descriptions.
+5. Create Reddit-safe discussion post ideas.
+6. Create LinkedIn professional post batch.
+7. Create Facebook parent/helper post batch.
 8. Update README links as files are added.
 9. Build future starter/template repo plan with `AGENTS.md`, `PROJECT-STATUS.md`, `CODEX-WORKFLOW.md`, `README.md`, `robots.txt`, `sitemap.xml`, and basic SEO checklists.
 
 ## Blockers
 
 - Large direct replacement of `AGENTS.md` through the ChatGPT GitHub connector was blocked by tool safety checks. Codex should handle broader instruction-file replacements directly.
+- Automatic live posting cannot start until social accounts, posting permissions, platform rules, and approval workflow are configured.
 
 ## Notes
 
