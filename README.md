@@ -1,6 +1,6 @@
 # Wholelychit Marketing System
 
-This repository is the central marketing, SEO, content, launch, monetization-planning, and review-control system for Wholelychit projects.
+This repository is the central marketing, SEO, content, campaign, launch, monetization-planning, and review-control system for Wholelychit projects.
 
 Website code stays in each website repository. Marketing strategy and reusable systems live here.
 
@@ -16,11 +16,22 @@ Website code stays in each website repository. Marketing strategy and reusable s
 
 ## Project Repositories
 
-- ReadEasy30: website code stays in its own repo.
-- MathEasy30: website code stays in its own repo.
+- ReadEasy30: `Wholelychit/readeasy30.com`
+- MathEasy30: `Wholelychit/matheasy30.com`
+- Marketing System: `Wholelychit/marketing-system`
 - PetNeeds.ai: website code stays in its own repo.
 - Resturants.ai: website code stays in its own repo and deploys to `resturants.ai`.
 - SlotsFreeUSA: website code stays in `slotsfreeusa.com` and deploys to `slotsfreeusa.com`.
+
+## Education Growth System
+
+The shared education marketing plan connects ReadEasy30 and MathEasy30 as one calm daily-practice education family.
+
+Core files:
+
+- `EDUCATION-GROWTH-PLAN.md` — shared education positioning, growth queue, traffic plan, and safe monetization direction.
+- `CAMPAIGNS/README.md` — campaign folder index and future campaign rules.
+- `CAMPAIGNS/readeasy30-matheasy30-confidence-campaign.md` — first shared ReadEasy30 + MathEasy30 campaign.
 
 ## System Files
 
@@ -33,18 +44,21 @@ Use these files to run the marketing machine without repeating work:
 - `SOCIAL-POST-TEMPLATES.md` — reusable posts for YouTube, Instagram, Facebook, TikTok, LinkedIn, Pinterest, Reddit, and X.
 - `CANVA-ASSET-SYSTEM.md` — image/video asset rules and reusable Canva asset plan.
 - `REVIEW-CHECKLIST.md` — final review checklist before publishing.
+- `AGENTS.md` — AI/Codex work rules.
+- `AGENT-INSTRUCTIONS.md` — detailed safe-work instructions.
 
 ## Purpose
 
 Use this repo for:
 
 - content calendars
+- campaign plans
 - social media posts
 - YouTube Shorts scripts
 - SEO article ideas
 - launch checklists
 - brand rules
-- ad copy
+- ad copy planning
 - printable promotion ideas
 - email/newsletter drafts
 - Canva asset plans
@@ -55,7 +69,7 @@ Use this repo for:
 
 Website code stays in each website repo.
 
-Marketing strategy and content live here.
+Marketing strategy, campaign plans, and content systems live here.
 
 ## Current Brand Direction
 
@@ -123,6 +137,12 @@ The live slots project domain is `slotsfreeusa.com`.
 
 ## Build Rule for AI/Codex
 
-Do not ask Gerry to paste files manually.
+Do not ask Gerry to paste, create, replace, or update files manually.
 
-Make safe file changes directly, commit useful updates, and record blockers instead of stopping.
+When write access is available, create, update, replace, repair, and commit safe files directly.
+
+Do not stop after one safe change.
+
+Continue through the safe queue until blocked by a real write, permission, safety, or production-risk blocker.
+
+Report only after several useful commits or a real blocker.
