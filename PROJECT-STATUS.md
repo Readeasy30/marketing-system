@@ -1,6 +1,6 @@
 # Project Status
 
-Last updated: 2026-05-28
+Last updated: 2026-05-29
 
 This file tracks the safe marketing-system queue for Wholelychit projects.
 
@@ -11,6 +11,31 @@ Codex is the primary workflow for routine repository edits.
 The ChatGPT GitHub connector is secondary and should be used only for small reads, checks, reviews, or emergency single-file edits when Codex is unavailable.
 
 Reason: the ChatGPT GitHub connector may show internal write-action names like `create_file` or `update_file`, which can confuse the owner and make it look like manual file creation is required.
+
+## Active Portfolio Plan
+
+The current locked marketing direction is the 5-site Wholelychit portfolio plan.
+
+Primary files:
+
+- `WHOLELYCHIT-5-SITE-MARKETING-PLAN.md`
+- `WHOLELYCHIT-5-SITE-WEEKLY-ACTION-CALENDAR.md`
+
+Sites covered:
+
+1. SlotsFreeUSA
+2. RestaurantAIbot / Resturants.ai
+3. ReadEasy30
+4. MathEasy30
+5. PetNeeds.ai
+
+Portfolio priority:
+
+1. ReadEasy30
+2. SlotsFreeUSA
+3. PetNeeds.ai
+4. RestaurantAIbot / Resturants.ai
+5. MathEasy30
 
 ## Active Launch
 
@@ -64,25 +89,35 @@ Launch focus:
 - Updated `CAMPAIGNS/education-manual-posting-log.md` to include the Calm Reading article as a Monday priority link.
 - Updated `CAMPAIGNS/education-manual-posting-log.md` to include the Adult Reading Without Shame page.
 - Updated `CAMPAIGNS/README.md` with a compact campaign index including the ESL reading SEO draft.
+- Added `WHOLELYCHIT-5-SITE-MARKETING-PLAN.md`.
+- Added `WHOLELYCHIT-5-SITE-WEEKLY-ACTION-CALENDAR.md`.
+- Updated `README.md` to link the 5-site portfolio marketing files.
+- Updated `PROJECT-STATUS.md` to lock the 5-site marketing direction.
 
 ## Current Safe Queue
 
 1. Keep this repo as the marketing control center.
 2. Keep Codex as the main repo-editing workflow.
 3. Use the ChatGPT GitHub connector only for reads, checks, or emergency edits.
-4. Use `CAMPAIGNS/monday-launch-one-page-checklist.md` as the first launch-day file.
-5. Use the education campaign files for Monday manual promotion.
-6. Use `CAMPAIGNS/education-manual-posting-log.md` to track Monday promotion.
-7. Use the Calm Reading, Adult Reading Without Shame, and ESL Reading pages as priority promotion links.
-8. Use `CAMPAIGNS/education-canva-production-checklist.md` to produce first launch images.
-9. Convert the ESL SEO draft into a ReadEasy30 page when ready.
-10. Record blockers instead of stopping.
+4. Use `WHOLELYCHIT-5-SITE-MARKETING-PLAN.md` as the master portfolio strategy.
+5. Use `WHOLELYCHIT-5-SITE-WEEKLY-ACTION-CALENDAR.md` to prevent jumping between projects.
+6. Use `CAMPAIGNS/monday-launch-one-page-checklist.md` as the first launch-day file.
+7. Use the education campaign files for Monday manual promotion.
+8. Use `CAMPAIGNS/education-manual-posting-log.md` to track Monday promotion.
+9. Use the Calm Reading, Adult Reading Without Shame, and ESL Reading pages as priority promotion links.
+10. Use `CAMPAIGNS/education-canva-production-checklist.md` to produce first launch images.
+11. Build SlotsFreeUSA trust/affiliate prep after the ReadEasy30 launch push.
+12. Build PetNeeds.ai category content after SlotsFreeUSA prep.
+13. Clarify RestaurantAIbot / Resturants.ai starter offer after PetNeeds.ai category planning.
+14. Cross-promote MathEasy30 through ReadEasy30 as the sister practice site.
+15. Record blockers instead of stopping.
 
 ## Blockers
 
 - Automatic live posting cannot start until social accounts, posting permissions, platform rules, and approval workflow are configured.
 - Education LinkedIn-specific post batch was blocked repeatedly by connector safety checks. Workaround committed: `CAMPAIGNS/education-professional-post-topics.md`.
 - Full campaign index update was blocked once by connector safety checks. A compact index update committed successfully.
+- Do not add live ads, live tracking, payment setup, affiliate links, public AI tools, uploads, user accounts, or automated outreach without direct approval.
 
 ## Notes
 
