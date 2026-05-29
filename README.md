@@ -76,6 +76,17 @@ PetNeeds.ai now has starter category and content planning files:
 
 These files should guide pet category pages, family pet content, unusual pet content, vet-safety language, future affiliate planning, and local sponsor planning.
 
+## Resturants.ai / RestaurantAIbot Growth System
+
+Resturants.ai now has starter local restaurant growth files:
+
+- `RESTURANTS-AI-STARTER-OFFER-PLAN.md` — starter offer, package ladder, target audience, and 14-day queue.
+- `RESTURANTS-AI-HOMEPAGE-COPY-DRAFT.md` — owner-facing homepage copy and CTA structure.
+- `RESTURANTS-AI-SAMPLE-AUDIT-TEMPLATE.md` — Restaurant Growth Starter Checkup template.
+- `RESTURANTS-AI-SOCIAL-CANVA-BATCH.md` — local restaurant social posts and Canva prompts.
+
+These files should guide the first restaurant-owner offer, local SEO pages, menu-copy examples, review-response templates, and practical AI-assisted restaurant marketing content.
+
 ## Education Growth System
 
 The shared education marketing plan connects ReadEasy30 and MathEasy30 as one calm daily-practice education family.
