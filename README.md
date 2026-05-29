@@ -11,7 +11,7 @@ Website code stays in each website repository. Marketing strategy and reusable s
 | ReadEasy30 | Reading practice and assessment path | Trust, parent/helper clarity, learner confidence |
 | MathEasy30 | Math practice path | Simple skill growth, confidence, daily practice |
 | PetNeeds.ai | Pet care content and local/ad opportunity | Helpful pet answers, category growth, affiliate/ad planning |
-| Resturants.ai | Local restaurant AI/growth platform | Local trust, mobile-first restaurant value |
+| Resturants.ai / RestaurantAIbot | Local restaurant AI/growth platform | Local trust, mobile-first restaurant value |
 | SlotsFreeUSA | Free slot game/review content | Beginner clarity, risk honesty, entertainment |
 
 ## Project Repositories
@@ -22,6 +22,21 @@ Website code stays in each website repository. Marketing strategy and reusable s
 - PetNeeds.ai: website code stays in its own repo.
 - Resturants.ai: website code stays in its own repo and deploys to `resturants.ai`.
 - SlotsFreeUSA: website code stays in `slotsfreeusa.com` and deploys to `slotsfreeusa.com`.
+
+## 5-Site Portfolio Marketing System
+
+Use these two files to guide the current multi-site marketing push:
+
+- `WHOLELYCHIT-5-SITE-MARKETING-PLAN.md` — master strategy for SlotsFreeUSA, RestaurantAIbot / Resturants.ai, ReadEasy30, MathEasy30, and PetNeeds.ai.
+- `WHOLELYCHIT-5-SITE-WEEKLY-ACTION-CALENDAR.md` — weekly rotation and daily action calendar so work does not jump around.
+
+Recommended portfolio priority:
+
+1. ReadEasy30
+2. SlotsFreeUSA
+3. PetNeeds.ai
+4. RestaurantAIbot / Resturants.ai
+5. MathEasy30
 
 ## Reusable Marketing Formula
 
