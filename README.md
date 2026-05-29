@@ -52,6 +52,9 @@ SlotsFreeUSA now has a defined working marketing system:
 
 - `SLOTSFREEUSA-MARKETING-PLAN.md` — SlotsFreeUSA traffic, trust, content, monetization, and safe 30-day build queue.
 - `SLOTSFREEUSA-30-DAY-MARKETING-CALENDAR.md` — daily action calendar for the first marketing push.
+- `SLOTSFREEUSA-TRUST-AFFILIATE-PREP.md` — trust-page checklist, affiliate readiness checklist, review-page structure, and first Canva prompts.
+- `SLOTSFREEUSA-BEGINNER-GUIDE-DRAFT.md` — draft SEO page for beginner free slots education.
+- `SLOTSFREEUSA-RESPONSIBLE-PLAY-PAGE-DRAFT.md` — draft responsible-play page before partner traffic.
 - `SLOTSFREEUSA-AFFILIATE-OUTREACH.md` — affiliate outreach tracker and application email templates.
 - `SLOTSFREEUSA-SOCIAL-VIDEO-BATCH.md` — social posts, short video scripts, Pinterest ideas, and Canva asset prompts.
 - `SLOTSFREEUSA-WEEKLY-SEO-ARTICLE-QUEUE.md` — weekly SEO article queue and page template.
