@@ -94,6 +94,9 @@ The shared education marketing plan connects ReadEasy30 and MathEasy30 as one ca
 Core files:
 
 - `EDUCATION-GROWTH-PLAN.md` — shared education positioning, growth queue, traffic plan, and safe monetization direction.
+- `MATHEASY30-CROSS-PROMOTION-PLAN.md` — MathEasy30 sister-site growth plan and cross-promotion rules.
+- `MATHEASY30-SISTER-SITE-CARD-COPY.md` — card copy for ReadEasy30-to-MathEasy30 and MathEasy30-to-ReadEasy30 links.
+- `MATHEASY30-SOCIAL-CANVA-BATCH.md` — MathEasy30 social posts, captions, and Canva prompts.
 - `CAMPAIGNS/README.md` — campaign folder index and future campaign rules.
 - `CAMPAIGNS/readeasy30-matheasy30-confidence-campaign.md` — first shared ReadEasy30 + MathEasy30 campaign.
 
