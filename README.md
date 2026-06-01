@@ -1,6 +1,6 @@
 # Wholelychit Marketing System
 
-This repository is the central marketing, SEO, content, campaign, launch, monetization-planning, and review-control system for Wholelychit projects.
+This repository is the central marketing, SEO, content, campaign, launch, monetization-planning, avatar/video, and review-control system for Wholelychit projects.
 
 Website code stays in each website repository. Marketing strategy and reusable systems live here.
 
@@ -13,15 +13,34 @@ Website code stays in each website repository. Marketing strategy and reusable s
 | PetNeeds.ai | Pet care content and local/ad opportunity | Helpful pet answers, category growth, affiliate/ad planning |
 | Resturants.ai / RestaurantAIbot | Local restaurant AI/growth platform | Local trust, mobile-first restaurant value |
 | SlotsFreeUSA | Free slot game/review content | Beginner clarity, risk honesty, entertainment |
+| BransonBlastUSA | Branson visitor and local marketing site | Trip ideas, local discovery, advertiser readiness |
 
 ## Project Repositories
 
 - ReadEasy30: `Wholelychit/readeasy30.com`
 - MathEasy30: `Wholelychit/matheasy30.com`
 - Marketing System: `Wholelychit/marketing-system`
+- BransonBlastUSA: `Wholelychit/bransonblastusa.com`
 - PetNeeds.ai: website code stays in its own repo.
 - Resturants.ai: website code stays in its own repo and deploys to `resturants.ai`.
 - SlotsFreeUSA: website code stays in `slotsfreeusa.com` and deploys to `slotsfreeusa.com`.
+
+## Avatar and Video Systems
+
+Use these reusable systems before adding avatars or videos to individual website repos:
+
+- `avatar-system/README.md` — avatar system index and website role map.
+- `avatar-system/AVATAR-WORKFLOW.md` — reusable avatar planning and deployment process.
+- `avatar-system/AVATAR-PERSONALITY-TEMPLATE.md` — copy/adapt template for each website repo.
+- `avatar-system/AVATAR-DIALOGUE-LIBRARY.md` — starter dialogue for Bubbles, Lucky Lou, Branson trip buddy, PetNeeds helper, and RestaurantAIbot.
+- `avatar-system/AVATAR-EMBED-TEMPLATE.md` — safe embed planning template.
+- `video-system/README.md` — reusable video system index.
+- `video-system/SHORT-VIDEO-SCRIPT-TEMPLATE.md` — short video script structure.
+- `video-system/CANVA-VIDEO-CHECKLIST.md` — Canva video production checklist.
+- `prompt-library/AVATAR-PROMPT.md` — reusable avatar creation prompt.
+- `prompt-library/VIDEO-SCRIPT-PROMPT.md` — reusable video script prompt.
+
+Rule: marketing repo stores the reusable system. Each website repo stores its own finished avatar personality, final scripts, placement plan, and embed notes.
 
 ## 5-Site Portfolio Marketing System
 
@@ -126,6 +145,8 @@ Use this repo for:
 - SEO article ideas
 - launch checklists
 - brand rules
+- avatar personality systems
+- video scripts and production checklists
 - ad copy planning
 - printable promotion ideas
 - email/newsletter drafts
@@ -137,7 +158,7 @@ Use this repo for:
 
 Website code stays in each website repo.
 
-Marketing strategy, campaign plans, and content systems live here.
+Marketing strategy, campaign plans, avatar/video systems, and content systems live here.
 
 ## Current Brand Direction
 
@@ -179,6 +200,15 @@ PetNeeds.ai direction should feel:
 - clear for everyday owners
 - helpful without pretending to replace a veterinarian
 
+BransonBlastUSA direction should feel:
+
+- local
+- friendly
+- visitor-first
+- useful
+- upbeat
+- simple for trip planning
+
 ## Domain Rule
 
 The live restaurant domain is `resturants.ai`.
@@ -192,6 +222,8 @@ Avoid older misspellings:
 - resturant.ai
 
 The live slots project domain is `slotsfreeusa.com`.
+
+The live Branson project domain is `bransonblastusa.com`.
 
 ## Codex-First Workflow
 
