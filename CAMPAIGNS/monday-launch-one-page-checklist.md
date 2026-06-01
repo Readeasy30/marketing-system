@@ -14,12 +14,13 @@ Primary link:
 
 Secondary links:
 
+- `https://readeasy30.com/printable-reading-worksheets.html`
 - `https://readeasy30.com/calm-reading-practice-30-minutes-a-day.html`
 - `https://readeasy30.com/adult-reading-practice-without-shame.html`
 - `https://readeasy30.com/esl-reading-practice.html`
 - `https://readeasy30.com/reading-levels-beginner-to-8th-grade.html`
-- `https://readeasy30.com/sample-reading-worksheet.html`
 - `https://matheasy30.com/`
+- `https://matheasy30.com/printable-math-worksheets.html`
 
 ## Do Not Start Yet
 
@@ -45,18 +46,21 @@ Open these pages before posting:
 
 1. `https://readeasy30.com/`
 2. `https://readeasy30.com/app.html`
-3. `https://readeasy30.com/reading-levels-beginner-to-8th-grade.html`
-4. `https://readeasy30.com/sample-reading-worksheet.html`
+3. `https://readeasy30.com/printable-reading-worksheets.html`
+4. `https://readeasy30.com/reading-levels-beginner-to-8th-grade.html`
 5. `https://matheasy30.com/`
+6. `https://matheasy30.com/app.html`
+7. `https://matheasy30.com/printable-math-worksheets.html`
 
 Confirm:
 
 - homepage loads
 - app loads
 - placement check starts
-- manual levels A-H appear
-- worksheet page opens
-- MathEasy30 opens
+- manual levels appear
+- worksheet pages open
+- sister-site links work
+- no obvious mobile layout problem
 
 ### Step 2 — Make one simple Canva image
 
@@ -74,7 +78,21 @@ Design rules:
 - mobile-friendly square or vertical version
 - include ReadEasy30.com
 
-### Step 3 — Post the first message
+### Step 3 — Create YouTube Short 1
+
+Use:
+
+- `CAMPAIGNS/education-youtube-2-week-plan.md`
+
+Start with Video 1:
+
+- Topic: Reading practice without shame
+- Length: 30-40 seconds
+- Link: `https://readeasy30.com/app.html`
+
+Do not make more than the first video before checking the site and first post workflow.
+
+### Step 4 — Post the first message
 
 Use this as the first general post:
 
@@ -86,7 +104,7 @@ Use this as the first general post:
 >
 > Link: https://readeasy30.com/app.html
 
-### Step 4 — Post one parent/helper message
+### Step 5 — Post one parent/helper message
 
 Use this:
 
@@ -96,7 +114,7 @@ Use this:
 >
 > Link: https://readeasy30.com/parent-tutor-guide.html
 
-### Step 5 — Post one adult learner message
+### Step 6 — Post one adult learner message
 
 Use this:
 
@@ -106,21 +124,12 @@ Use this:
 >
 > Link: https://readeasy30.com/adult-reading-practice-without-shame.html
 
-### Step 6 — Post one ESL learner message
-
-Use this:
-
-> ESL reading practice works better when it is short, clear, and calm.
->
-> ReadEasy30 helps learners read short English passages and answer from the text.
->
-> Link: https://readeasy30.com/esl-reading-practice.html
-
 ### Step 7 — Record what happened
 
 Update:
 
 - `CAMPAIGNS/education-manual-posting-log.md`
+- `CAMPAIGNS/education-youtube-2-week-plan.md` review table after the first 6 Shorts
 
 Record:
 
@@ -132,19 +141,39 @@ Record:
 - early result
 - notes
 
+## YouTube Shorts Plan
+
+Use this plan for 2 weeks only before review:
+
+- `CAMPAIGNS/education-youtube-2-week-plan.md`
+
+Schedule:
+
+| Week | Day | Video | Focus |
+|---|---|---|---|
+| 1 | Monday | Video 1 | ReadEasy30 app |
+| 1 | Wednesday | Video 2 | Reading worksheets |
+| 1 | Friday | Video 3 | MathEasy30 app |
+| 2 | Monday | Video 4 | Adult reading confidence |
+| 2 | Wednesday | Video 5 | Math worksheets |
+| 2 | Friday | Video 6 | ReadEasy30 + MathEasy30 together |
+
+Review after Video 6 has at least 48 hours of data.
+
 ## Best First Channels
 
 Start with the easiest channels first:
 
-1. Facebook personal/page/group where allowed
-2. Pinterest pin
-3. YouTube Shorts draft
+1. YouTube Shorts
+2. Facebook personal/page/group where allowed
+3. Pinterest pin
 4. LinkedIn/professional post
 5. Reddit discussion only where self-promotion is allowed or no link is included
 
 ## Files to Use If Needed
 
 - `CAMPAIGNS/monday-promotion-launch.md`
+- `CAMPAIGNS/education-youtube-2-week-plan.md`
 - `CAMPAIGNS/education-manual-posting-log.md`
 - `CAMPAIGNS/education-7-day-social-post-batch.md`
 - `CAMPAIGNS/education-10-shorts-scripts.md`
@@ -164,6 +193,12 @@ Answer these before making more assets:
 4. Did any post get a comment, click, save, or reaction?
 5. What should be improved tomorrow?
 
+## Two-Week Video Review Rule
+
+Do not make a large next video batch until the first 6 YouTube Shorts are reviewed.
+
+Use views, likes, comments, shares, saves, clicks if known, subscribers, and notes.
+
 ## Rule
 
-Do one useful post, record it, then do the next one. Do not try to launch every channel at once.
+Do one useful post or video, record it, then do the next one. Do not try to launch every channel at once.
