@@ -35,6 +35,19 @@ Preferred operating setup:
 - If local computer work is unavoidable, give the smallest possible step list and explain why it cannot be done remotely.
 - Prefer Codex + GitHub + Cloudflare Pages over local editing.
 
+## Chrome plugin / browser extension rule
+
+Codex may use approved browser plugins or Chrome extensions only when they safely help production work.
+
+Preferred plugin use:
+
+- Use browser plugins/extensions for safe research, page review, screenshots, accessibility checks, SEO checks, grammar review, and workflow assistance.
+- Do not require Gerry's local Chrome profile, local bookmarks, or local extensions for normal repo work.
+- Do not install or rely on unknown, unsafe, or untrusted extensions.
+- Do not use extensions that collect passwords, payment data, private tokens, private messages, or sensitive account information.
+- If a plugin requires account login, billing, private credentials, or browser permissions that create risk, stop and report the blocker.
+- Keep repo work centered on Codex remote workspace, GitHub, and Cloudflare Pages.
+
 ## Codex behavior goal
 
 Codex should act like a production assistant, not a question machine.
