@@ -22,6 +22,19 @@ Use this workflow whenever possible:
 4. Cloudflare Pages publishes from GitHub.
 5. Gerry should not be asked to paste, create, replace, or manually edit files unless there is a real blocker.
 
+## Remote computer / cloud workspace rule
+
+Codex should use its remote/cloud workspace whenever available for repository work.
+
+Preferred operating setup:
+
+- Use Codex remote/cloud computer for repo edits, tests, file creation, file updates, and commits.
+- Do not require Gerry's local Windows computer for routine repo work.
+- Do not require local Git, terminal Git, VS Code, GitHub Desktop, manual downloads, or manual file copying unless there is a true blocker.
+- If a task needs a browser-only account action, payment setup, API key, private credential, or service login, stop and report that blocker clearly.
+- If local computer work is unavoidable, give the smallest possible step list and explain why it cannot be done remotely.
+- Prefer Codex + GitHub + Cloudflare Pages over local editing.
+
 ## Codex behavior goal
 
 Codex should act like a production assistant, not a question machine.
