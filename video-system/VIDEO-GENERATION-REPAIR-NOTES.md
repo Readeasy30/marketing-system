@@ -16,7 +16,7 @@ Use this safer production order:
 2. Create upload metadata.
 3. Create Canva design brief.
 4. Produce videos in smaller batches of 2 to 3.
-5. Review the first batch before producing the next batch.
+5. Review each completed batch before continuing.
 
 ## Safe batch sizes
 
@@ -30,7 +30,7 @@ If render tools are slow, use 2 videos per batch.
 
 ## Format standards
 
-- 1080 x 1920 vertical.
+- Vertical short-video format.
 - 12 to 20 seconds.
 - 3 to 4 slides.
 - Large readable text.
@@ -41,18 +41,40 @@ If render tools are slow, use 2 videos per batch.
 
 ## First repair output
 
-The video scripts and upload metadata now live in:
+The video scripts and upload metadata live in:
 
 - `video-system/EDUCATION-YOUTUBE-SHORTS-BATCH-01.md`
 - `video-system/EDUCATION-YOUTUBE-UPLOAD-METADATA.md`
 - `video-system/EDUCATION-CANVA-DESIGN-BRIEF.md`
 
+## Batch A completed
+
+Batch A rendered successfully in ChatGPT sandbox on 2026-06-02.
+
+Files produced:
+
+1. `01-parent-helper-tip.mp4`
+2. `02-adult-learner-message.mp4`
+3. `03-30-minute-routine.mp4`
+
+Also produced:
+
+- matching thumbnail PNG files
+- upload metadata CSV
+- upload instruction README
+- batch preview PNG
+- downloadable ZIP package
+
+Download package created in sandbox:
+
+`/mnt/data/readeasy30_matheasy30_youtube_shorts_BATCH_A.zip`
+
 ## Next safe production action
 
-Create the first 3 videos from the scripts:
+Create Batch B:
 
-1. Parent helper tip.
-2. Adult learner message.
-3. Simple 30-minute routine.
+1. Progress, not perfect.
+2. Calm helper reminder.
+3. For readers who freeze.
 
-Then review before continuing.
+Use the same smaller-batch render method that succeeded for Batch A.
