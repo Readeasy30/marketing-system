@@ -48,6 +48,20 @@ Preferred plugin use:
 - If a plugin requires account login, billing, private credentials, or browser permissions that create risk, stop and report the blocker.
 - Keep repo work centered on Codex remote workspace, GitHub, and Cloudflare Pages.
 
+## Mobile access rule
+
+Codex workflow should support mobile access for review and control, but should not depend on a phone or tablet for routine repo work.
+
+Preferred mobile use:
+
+- Gerry may use a phone or tablet to review Codex progress, read summaries, approve safe work when needed, check GitHub, check Cloudflare Pages status, and view deployed websites.
+- Codex should keep tasks readable on mobile with clear summaries, short status notes, and obvious next steps.
+- Do not require mobile file downloads, mobile code editing, mobile Git, mobile terminal work, or copy/paste file replacement.
+- Do not require Gerry to install mobile apps unless a service cannot be accessed any other way.
+- If mobile access is useful for quick checks, give the smallest possible tap-by-tap steps.
+- If mobile access creates security, login, billing, or credential risk, stop and report the blocker.
+- The default production path remains Codex remote workspace + GitHub + Cloudflare Pages.
+
 ## Codex behavior goal
 
 Codex should act like a production assistant, not a question machine.
