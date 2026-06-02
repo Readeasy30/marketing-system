@@ -14,6 +14,13 @@ PetNeeds.ai marketing system expanded inside `Wholelychit/marketing-system`.
 - `PETNEEDS-AI-AFFILIATE-LOCAL-SPONSOR-PLAN.md`
 - `PETNEEDS-AI-EMAIL-LEAD-MAGNET-PLAN.md`
 - `PETNEEDS-AI-SOCIAL-VIDEO-BATCH-02.md`
+- `PETNEEDS-AI-CANVA-PROMPT-SHEET.md`
+
+## Lead Magnet / Money Path Files Added
+
+- `PETNEEDS-AI-NEW-PET-STARTER-CHECKLIST-DRAFT.md`
+- `PETNEEDS-AI-LOCAL-BUSINESS-INQUIRY-DRAFT.md`
+- `PETNEEDS-AI-AFFILIATE-CATEGORY-PAGES-DRAFT.md`
 
 ## Article Drafts Added Or Already Present
 
@@ -46,7 +53,11 @@ PetNeeds.ai marketing system expanded inside `Wholelychit/marketing-system`.
 - email lead magnet plan
 - welcome email sequence
 - second social/video batch
-- seven additional article drafts in this continuation batch
+- Canva prompt sheet
+- new pet starter checklist lead magnet
+- local business inquiry draft
+- affiliate category page planning
+- seven additional article drafts in the continuation batch
 
 ## Current Direction
 
@@ -61,7 +72,7 @@ Main promise:
 Safe future revenue paths:
 
 1. practical pet supply affiliate pages
-2. local sponsor listings for vets, groomers, trainers, sitters, and pet stores
+2. local sponsor listings for groomers, trainers, sitters, walkers, pet stores, aquarium stores, and other local pet services
 3. display ads only after traffic and UX are stable
 4. email list built around free checklists
 5. downloadable family/pet safety printables later
@@ -78,15 +89,16 @@ Safe future revenue paths:
 
 ## Next Safe Queue
 
-1. Add README links to the new PetNeeds files when the connector allows it.
-2. Create a PetNeeds.ai lead magnet PDF/checklist draft.
-3. Create a sponsor inquiry page draft.
-4. Create affiliate product category pages with no live links.
-5. Confirm the correct PetNeeds.ai website repo name before adding website-ready copy there.
-6. Convert the best article drafts into static website pages after repo confirmation.
+1. Confirm the correct PetNeeds.ai website repo name before adding website-ready copy there.
+2. Convert the strongest drafts into static website pages after repo confirmation.
+3. Create website-ready homepage/CTA copy for the New Pet Starter Checklist.
+4. Create first puppy and kitten supply category drafts.
+5. Add README links to the new PetNeeds files when the connector allows it.
+6. Continue Canva/social batches based on article drafts.
 
 ## Blocker Log
 
 - README full-file update was blocked by connector safety checks on 2026-06-02.
 - A first version of the second social/video batch was blocked because it included stronger urgent safety wording. A safer version was committed.
 - The `Family Pet Safety Tips` draft was blocked by connector safety checks, likely due to child/pet safety wording. A calmer `Family Pet Routines` version was created instead.
+- The original sponsor inquiry page draft was blocked by connector safety checks. A simpler `Local Business Inquiry` planning draft was created instead.
