@@ -23,6 +23,43 @@ Sites covered:
 5. PetNeeds.ai
 6. BransonBlastUSA
 
+## Current Marketing Execution Layer Added
+
+Decision locked:
+
+- Marketing-system should not only hold plans. It should also hold reusable weekly execution boards, campaign assets, and publishing trackers.
+- Website code stays in each website repo.
+- Marketing repo stores strategy, captions, scripts, Canva prompts, campaign tracking, outreach rules, and review-control files.
+
+New marketing execution files:
+
+- `PORTFOLIO-WEEKLY-EXECUTION-BOARD.md`
+- `RESTURANTS-AI-OWNER-RESOURCE-CAMPAIGN.md`
+- `CAMPAIGN-PUBLISHING-TRACKER.md`
+- `CHANGELOG.md`
+
+## RestaurantAIbot Campaign Status
+
+Current focus:
+
+RestaurantAIbot / Resturants.ai owner-resource promotion.
+
+Website repo already has owner resource pages. Marketing-system now has matching campaign assets:
+
+- social captions
+- short video scripts
+- Canva prompts
+- email/newsletter draft
+- campaign CTA direction
+- manual success metrics
+
+Next useful actions:
+
+1. Create first 3 Canva graphics from `RESTURANTS-AI-OWNER-RESOURCE-CAMPAIGN.md`.
+2. Turn the first 3 captions into publish-ready platform posts.
+3. Create a simple one-page Restaurant Growth Starter Checkup PDF later if requested.
+4. Add a reusable `PUBLISHING-QUEUE.md` if campaign volume grows.
+
 ## Education Outreach Repair Added
 
 Decision locked:
@@ -91,12 +128,13 @@ BransonBlastUSA should use the shared avatar/video system from this repo, then s
 
 ## Current Safe Queue
 
-1. Continue ReadEasy30 + MathEasy30 outreach using `OUTREACH/DAILY-EXECUTION-RULES.md`.
-2. Use contact forms as the safe next route when Gmail blocks direct outreach.
-3. Produce the first 3 education short videos from `video-system/EDUCATION-YOUTUBE-SHORTS-BATCH-01.md`.
-4. Review ReadEasy30 and MathEasy30 repos for safe homepage clarity and cross-linking only.
-5. Continue BransonBlastUSA static repo repair later: `script.js`, `robots.txt`, `sitemap.xml`, status files, and CSS completion if needed.
-6. Record blockers instead of stopping.
+1. Use `PORTFOLIO-WEEKLY-EXECUTION-BOARD.md` to pick one weekly focus.
+2. Use `RESTURANTS-AI-OWNER-RESOURCE-CAMPAIGN.md` to create the first RestaurantAIbot Canva/social batch.
+3. Track published assets in `CAMPAIGN-PUBLISHING-TRACKER.md`.
+4. Continue ReadEasy30 + MathEasy30 outreach using `OUTREACH/DAILY-EXECUTION-RULES.md`.
+5. Produce the first 3 education short videos from `video-system/EDUCATION-YOUTUBE-SHORTS-BATCH-01.md`.
+6. Continue BransonBlastUSA static repo repair later: `script.js`, `robots.txt`, `sitemap.xml`, status files, and CSS completion if needed.
+7. Record blockers instead of stopping.
 
 ## Current Blockers
 
