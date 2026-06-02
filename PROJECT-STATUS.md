@@ -1,6 +1,6 @@
 # Project Status
 
-Last updated: 2026-05-31
+Last updated: 2026-06-02
 
 This file tracks the safe marketing-system queue for Wholelychit projects.
 
@@ -23,6 +23,43 @@ Sites covered:
 5. PetNeeds.ai
 6. BransonBlastUSA
 
+## Education Outreach Repair Added
+
+Decision locked:
+
+- ReadEasy30 and MathEasy30 outreach must use organized prospect standards.
+- Direct emails, contact forms, directories, media-only contacts, and blocked contacts must be separated.
+- Do not mass-send.
+- Do not scrape private emails.
+- Use official public contact routes only.
+- One follow-up only after 7 to 10 days.
+- Stop on opt-out or no-contact requests.
+
+New education outreach files:
+
+- `OUTREACH/README.md`
+- `OUTREACH/EDUCATION-PROSPECT-QUEUE.md`
+- `OUTREACH/CONTACT-FORM-SCRIPTS.md`
+- `OUTREACH/GMAIL-SEND-BLOCK-LOG.md`
+- `OUTREACH/DAILY-EXECUTION-RULES.md`
+- `OUTREACH/EMAIL-READY-CONTACT-STANDARDS.md`
+
+## Education Video Repair Added
+
+Decision locked:
+
+- Do not render 10 YouTube Shorts MP4 files in one long run.
+- Use script/metadata/Canva-first workflow.
+- Create videos in smaller batches of 2 to 3 videos.
+- Keep videos vertical, short, readable, and calm.
+
+New education video files:
+
+- `video-system/EDUCATION-YOUTUBE-SHORTS-BATCH-01.md`
+- `video-system/EDUCATION-YOUTUBE-UPLOAD-METADATA.md`
+- `video-system/EDUCATION-CANVA-DESIGN-BRIEF.md`
+- `video-system/VIDEO-GENERATION-REPAIR-NOTES.md`
+
 ## Avatar and Video System Added
 
 Decision locked:
@@ -31,7 +68,7 @@ Decision locked:
 - Each website repo stores final site-specific avatar personality, final dialogue, placement plan, and embed notes.
 - Large final videos should usually be hosted outside GitHub through an approved video platform.
 
-New files added:
+Existing reusable files:
 
 - `avatar-system/README.md`
 - `avatar-system/AVATAR-WORKFLOW.md`
@@ -54,18 +91,21 @@ BransonBlastUSA should use the shared avatar/video system from this repo, then s
 
 ## Current Safe Queue
 
-1. Keep this repo as the marketing control center.
-2. Use `avatar-system/` and `video-system/` as the reusable avatar/video source of truth.
-3. Put finished avatar/video implementation files inside each website repo.
-4. Build BransonBlastUSA site-specific avatar files next.
-5. Continue BransonBlastUSA static repo repair: `script.js`, `robots.txt`, `sitemap.xml`, status files, and CSS completion if needed.
-6. Keep ReadEasy30 worksheet promotion as the active first education launch.
-7. Record blockers instead of stopping.
+1. Continue ReadEasy30 + MathEasy30 outreach using `OUTREACH/DAILY-EXECUTION-RULES.md`.
+2. Use contact forms as the safe next route when Gmail blocks direct outreach.
+3. Produce the first 3 education short videos from `video-system/EDUCATION-YOUTUBE-SHORTS-BATCH-01.md`.
+4. Review ReadEasy30 and MathEasy30 repos for safe homepage clarity and cross-linking only.
+5. Continue BransonBlastUSA static repo repair later: `script.js`, `robots.txt`, `sitemap.xml`, status files, and CSS completion if needed.
+6. Record blockers instead of stopping.
 
-## Blockers
+## Current Blockers
 
-- One active avatar embed HTML template write was blocked by connector safety checks.
-- A safe markdown planning template was created instead.
+- One outreach email to the national Head Start contact route was sent on 2026-06-02.
+- Gmail blocked direct send/draft attempts to two public library contact routes; use official contact forms/manual one-to-one route instead of repeated Gmail attempts.
+- The initial 10-video ffmpeg batch timed out; use script/metadata/Canva-first workflow and produce MP4s in smaller batches.
+- `slotsfreeusa@mail.com` requires Gerry to click the Cloudflare verification link in the mail.com inbox.
+- Gmail “Send as” for `@slotsfreeusa.com` requires Gmail settings and an outbound SMTP provider; Cloudflare Email Routing is inbound forwarding only.
+- One active avatar embed HTML template write was blocked by connector safety checks; a safe markdown planning template was created instead.
 - Manual browser QA is still required after public deployment.
 
 ## Notes
