@@ -62,6 +62,33 @@ Preferred mobile use:
 - If mobile access creates security, login, billing, or credential risk, stop and report the blocker.
 - The default production path remains Codex remote workspace + GitHub + Cloudflare Pages.
 
+## Keep-going rule
+
+Codex must not stop after one small safe task.
+
+When given a production task or safe build queue, Codex should:
+
+- Complete the current safe task.
+- Commit the useful change.
+- Continue to the next safe task in the repo instructions, project status, or build queue.
+- Group small related edits into useful batches when practical.
+- Report after several useful commits, not after every tiny file update.
+- Keep working until the safe queue is complete or a real blocker appears.
+- If one item is blocked, record the blocker in a status file and move to the next safe item.
+- Do not stop to ask whether to continue when the next step is already safe and obvious.
+- Do not stop just because one file was created or one commit was made.
+- Do not stop for approval on routine documentation, SEO, HTML, CSS, JavaScript, README, status, sitemap, robots, navigation, footer, or checklist updates unless the repo gives a stricter rule.
+
+Real blockers only:
+
+- Missing repository access.
+- Required login or account permission.
+- Private credentials, secrets, API keys, or tokens.
+- Billing, payment, live ads, live tracking, live affiliate links, or ordering setup.
+- Public upload systems, user accounts, databases, or sensitive data collection.
+- Framework migration, major code deletion, or production-risk changes.
+- Trading or financial execution behavior.
+
 ## Codex behavior goal
 
 Codex should act like a production assistant, not a question machine.
