@@ -25,6 +25,30 @@ Track manually first. Do not add live analytics, tracking scripts, paid tools, b
 
 Campaign: `30 Minutes. One Calm Step.`
 
+### Batch 01 upload control
+
+| Date | Asset | Status | Link / location | Next action |
+|---|---|---|---|---|
+| 2026-06-03 | Batch 01 upload manifest | Drafted | `EDUCATION-BATCH-01-UPLOAD-MANIFEST.md` | Use as current upload checklist |
+| 2026-06-03 | Tonight action plan | Drafted | `TONIGHT-EDUCATION-MARKETING-ACTION-PLAN.md` | Use as command center |
+| 2026-06-03 | Live posting kit | Drafted | `EDUCATION-LIVE-POSTING-KIT-2026-06-03.md` | Use for copy, captions, hashtags, and pin text |
+| 2026-06-03 | Social account setup checklist | Drafted | `EDUCATION-SOCIAL-ACCOUNT-SETUP-CHECKLIST.md` | Mark accounts ready, blocked, or skipped |
+| 2026-06-03 | Tracker update block | Drafted | `EDUCATION-TRACKER-UPDATE-BLOCK.md` | Copy rows after each post/export/blocker |
+
+### Batch 01 asset queue
+
+| Date | Asset | Status | Link / location | Next action |
+|---|---|---|---|---|
+| 2026-06-03 | Card 1 PNG export | Designed | `readeasy30-matheasy30-card-1-calm-step.png` from Canva Card 1 | Export first, then post to Facebook or LinkedIn |
+| 2026-06-03 | Video 01 MP4 export | Designed | `readeasy30-matheasy30-video-01-homework-fight.mp4` from Video 01 | Export second, then post to first ready video platform |
+| 2026-06-03 | Reading worksheet pin PNG export | Designed | `readeasy30-free-printable-reading-worksheets.png` from worksheet pin | Export third, then post to Pinterest if ready |
+| 2026-06-03 | Math worksheet pin PNG export | Designed | `matheasy30-free-printable-math-worksheets.png` from worksheet pin | Export fourth, then post to Pinterest if ready |
+| 2026-06-03 | Adult learner pin PNG export | Designed | `readeasy30-matheasy30-practice-without-shame.png` from adult learner pin | Export fifth, then post to LinkedIn or Facebook |
+| 2026-06-03 | Video 02 MP4 export | Designed | `readeasy30-matheasy30-video-02-it-is-not-too-late.mp4` from Video 02 | Export after Video 01 is handled |
+| 2026-06-03 | Video 03 MP4 export | Designed | `readeasy30-matheasy30-video-03-30-minute-routine.mp4` from Video 03 | Export after Video 01 is handled |
+
+### Prepared campaign files
+
 | Date | Asset | Status | Link / location | Next action |
 |---|---|---|---|---|
 | 2026-06-03 | Day 1 publishing packet | Drafted | `EDUCATION-DAY-1-PUBLISHING-PACKET.md` | Use Canva Card 1, then record live link or blocker |
