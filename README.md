@@ -110,6 +110,14 @@ These files should guide the first restaurant-owner offer, local SEO pages, menu
 
 The shared education marketing plan connects ReadEasy30 and MathEasy30 as one calm daily-practice education family.
 
+Start here for tonight execution:
+
+- `TONIGHT-EDUCATION-MARKETING-ACTION-PLAN.md` — one-page action order for Card 1, Video 01, worksheet pins, adult learner asset, and outreach.
+- `EDUCATION-LIVE-POSTING-KIT-2026-06-03.md` — copy/paste-ready social posts, short-video captions, hashtags, and Pinterest text.
+- `EDUCATION-SOCIAL-ACCOUNT-SETUP-CHECKLIST.md` — account/profile setup checklist for Facebook, LinkedIn, Pinterest, YouTube, Instagram, TikTok, and optional later tools.
+- `EDUCATION-TRACKER-UPDATE-BLOCK.md` — ready tracker rows for published, designed/exported, blocked, and outreach statuses.
+- `CODEX-EDUCATION-MARKETING-EXECUTION-TASK.md` — Codex task instructions for continuing the safe campaign queue.
+
 Core files:
 
 - `EDUCATION-GROWTH-PLAN.md` — shared education positioning, growth queue, traffic plan, and safe monetization direction.
