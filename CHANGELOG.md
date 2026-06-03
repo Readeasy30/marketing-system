@@ -4,6 +4,15 @@
 
 ### Added
 
+- Added `EDUCATION-BATCH-01-START-HERE.md` as the first file to open for Batch 01 execution.
+- Added `EDUCATION-BATCH-01-ACCOUNT-READINESS-BOARD.md` to mark the first ready social channel or blocker.
+- Added `EDUCATION-BATCH-01-CANVA-EXPORT-RUN-SHEET.md` to export Card 1, Video 01, worksheet pins, adult learner pin, Video 02, and Video 03.
+- Added `EDUCATION-BATCH-01-QA-CHECKLIST.md` to check links, readability, tone, and safety before posting.
+- Added `EDUCATION-BATCH-01-POSTING-LOG.md` to record exports, posts, blockers, and pauses.
+- Added `EDUCATION-BATCH-01-FACEBOOK-LINKEDIN-PACKET.md` for Facebook and LinkedIn copy.
+- Added `EDUCATION-BATCH-01-PINTEREST-PACKET.md` for Pinterest titles, descriptions, and destinations.
+- Added `EDUCATION-BATCH-01-YOUTUBE-SHORTS-PACKET.md` for YouTube Shorts titles, descriptions, and captions.
+- Added `EDUCATION-BATCH-01-REELS-TIKTOK-PACKET.md` for Instagram Reels, Facebook Reels, and TikTok captions.
 - Added `EDUCATION-BATCH-01-UPLOAD-MANIFEST.md` as the one-batch export/upload list for Card 1, Video 01, worksheet pins, adult learner pin, Video 02, and Video 03.
 - Added `Wholelychit/readeasy30.com/MARKETING-ACTIVATION.md` to point the ReadEasy30 website repo to the shared education marketing execution system.
 - Added `TONIGHT-EDUCATION-MARKETING-ACTION-PLAN.md` as the command center for tonight's ReadEasy30 + MathEasy30 upload/posting push.
@@ -33,23 +42,23 @@
 
 ### Updated
 
+- Updated `README.md` so `EDUCATION-BATCH-01-START-HERE.md` is the first education execution file.
+- Updated `PROJECT-STATUS.md` so Batch 01 Start Here is the current command path.
+- Updated `CODEX-EDUCATION-MARKETING-EXECUTION-TASK.md` so Codex starts with `EDUCATION-BATCH-01-START-HERE.md`.
+- Updated `CAMPAIGN-PUBLISHING-TRACKER.md` with Batch 01 control rows, platform packet rows, and asset rows.
 - Updated `Wholelychit/matheasy30.com/MARKETING-ACTIVATION.md` to point to the latest batch upload and execution files.
-- Updated `README.md` to link the new education marketing execution files.
-- Updated `PROJECT-STATUS.md` to make the tonight execution bundle and batch upload manifest the current command path.
-- Updated `CAMPAIGN-PUBLISHING-TRACKER.md` with Canva Card 1, Canva Card 2, Video 01, Video 02, Video 03, and Card 3 blocked status.
 - Updated `EDUCATION-DAY-1-PUBLISHING-PACKET.md` with the active Canva Card 1 edit/view links.
-- Updated the safe queue to point to the batch upload manifest, tonight action plan, live posting kit, social account setup checklist, tracker update block, Card 1 export/posting, Video 01 export/posting, worksheet pins, and safe Day 5 outreach.
+- Updated the safe queue to require Batch 01 export/post/blocker tracking before any new campaign work.
 
 ### Current focus
 
-- Use `TONIGHT-EDUCATION-MARKETING-ACTION-PLAN.md` as the command center.
-- Use `EDUCATION-BATCH-01-UPLOAD-MANIFEST.md` as the export/upload checklist.
-- Export and post Day 1 Canva Card 1 first.
-- Export and post Video 01 second if a video platform is ready.
-- Export worksheet pins third if Pinterest is ready.
-- Use `EDUCATION-LIVE-POSTING-KIT-2026-06-03.md` for all copy/captions.
-- Use `EDUCATION-TRACKER-UPDATE-BLOCK.md` to record live links, exports, and blockers.
-- Use outreach only after at least one post/export is complete.
+- Open `EDUCATION-BATCH-01-START-HERE.md` first.
+- Check `EDUCATION-BATCH-01-ACCOUNT-READINESS-BOARD.md`.
+- Export Card 1 using `EDUCATION-BATCH-01-CANVA-EXPORT-RUN-SHEET.md`.
+- QA with `EDUCATION-BATCH-01-QA-CHECKLIST.md`.
+- Use the correct platform packet.
+- Update `EDUCATION-BATCH-01-POSTING-LOG.md`.
+- Update `CAMPAIGN-PUBLISHING-TRACKER.md`.
 
 ### Optional tools noted
 
