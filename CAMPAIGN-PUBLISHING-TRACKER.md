@@ -30,6 +30,7 @@ Campaign: `30 Minutes. One Calm Step.`
 | Date | Asset | Status | Link / location | Next action |
 |---|---|---|---|---|
 | 2026-06-03 | Batch 01 Start Here index | Drafted | `EDUCATION-BATCH-01-START-HERE.md` | Open this first |
+| 2026-06-03 | Live link QA | Drafted | `EDUCATION-BATCH-01-LIVE-LINK-QA.md` | Use approved links before posting |
 | 2026-06-03 | Account readiness board | Drafted | `EDUCATION-BATCH-01-ACCOUNT-READINESS-BOARD.md` | Mark first ready channel or blocker |
 | 2026-06-03 | Canva export run sheet | Drafted | `EDUCATION-BATCH-01-CANVA-EXPORT-RUN-SHEET.md` | Export Card 1 first |
 | 2026-06-03 | Batch 01 posting log | Planned | `EDUCATION-BATCH-01-POSTING-LOG.md` | Update after every export, post, blocker, or pause |
