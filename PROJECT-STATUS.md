@@ -47,6 +47,23 @@ Decision locked:
 - Marketing activation means publish-ready manual assets, Canva designs, outreach rules, video scripts, avatar assets, and campaign tracking.
 - It does not mean live ads, tracking scripts, payment setup, bulk email, scraping, or social-account automation.
 
+## Tonight Education Execution Bundle
+
+New command files added for upload/posting readiness:
+
+1. `TONIGHT-EDUCATION-MARKETING-ACTION-PLAN.md` — one-page execution order.
+2. `EDUCATION-LIVE-POSTING-KIT-2026-06-03.md` — ready social copy, captions, hashtags, and Pinterest text.
+3. `EDUCATION-SOCIAL-ACCOUNT-SETUP-CHECKLIST.md` — account setup and upload readiness checklist.
+4. `EDUCATION-TRACKER-UPDATE-BLOCK.md` — tracker rows for published, designed, blocked, and outreach statuses.
+5. `CODEX-EDUCATION-MARKETING-EXECUTION-TASK.md` — Codex continuation task.
+
+Optional tools noted but not made blockers:
+
+- Grok — later X/trend ideas only.
+- `pinokiofactory/cogstudio` — later video production testing only.
+- `Wholelychit/claude.yml` — optional later workflow support.
+- `chanfana-openapi-template` — optional later API/template project support.
+
 ## 7-Day Education Campaign Packets Completed
 
 Publishing packets now created:
@@ -168,14 +185,14 @@ Outreach files:
 
 ## Current Safe Queue
 
-1. Open `EDUCATION-DAY-7-REVIEW-PACKET.md`.
-2. Mark every Day 1 to Day 6 item as Published, Designed, Drafted, Blocked, Paused, or Needs edit.
-3. Update `CAMPAIGN-PUBLISHING-TRACKER.md` with any actual live links or blockers.
-4. Export Canva Card 1 and post it first if no social posts are live yet.
-5. Export Video 01 and post it second if social accounts are ready.
-6. Use worksheet pins next if Pinterest is ready.
-7. Use Day 5 outreach script for no more than 5 safe contact-form submissions.
-8. Start Week 2 only after the tracker is updated.
+1. Use `TONIGHT-EDUCATION-MARKETING-ACTION-PLAN.md` as the command center.
+2. Export Canva Card 1 first.
+3. Export Video 01 second.
+4. Export worksheet pins third.
+5. Use `EDUCATION-LIVE-POSTING-KIT-2026-06-03.md` for copy/captions.
+6. Use `EDUCATION-SOCIAL-ACCOUNT-SETUP-CHECKLIST.md` to prepare channels.
+7. Use `EDUCATION-TRACKER-UPDATE-BLOCK.md` to update `CAMPAIGN-PUBLISHING-TRACKER.md` after posting/export/blockers.
+8. Use contact-form outreach only after at least one post/export is complete.
 
 ## RestaurantAIbot Campaign Status
 
