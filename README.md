@@ -110,9 +110,22 @@ These files should guide the first restaurant-owner offer, local SEO pages, menu
 
 The shared education marketing plan connects ReadEasy30 and MathEasy30 as one calm daily-practice education family.
 
-Start here for tonight execution:
+Start here for Batch 01 execution:
+
+- `EDUCATION-BATCH-01-START-HERE.md` — first file to open; points to the whole Batch 01 workflow.
+- `EDUCATION-BATCH-01-ACCOUNT-READINESS-BOARD.md` — mark first ready social channel or blocker.
+- `EDUCATION-BATCH-01-CANVA-EXPORT-RUN-SHEET.md` — export Card 1, Video 01, worksheet pins, adult learner pin, Video 02, and Video 03.
+- `EDUCATION-BATCH-01-QA-CHECKLIST.md` — check links, readability, tone, and safety before posting.
+- `EDUCATION-BATCH-01-POSTING-LOG.md` — record exports, posts, blockers, and pauses.
+- `EDUCATION-BATCH-01-FACEBOOK-LINKEDIN-PACKET.md` — Facebook and LinkedIn copy.
+- `EDUCATION-BATCH-01-PINTEREST-PACKET.md` — Pinterest titles, descriptions, and destinations.
+- `EDUCATION-BATCH-01-YOUTUBE-SHORTS-PACKET.md` — YouTube Shorts titles, descriptions, and captions.
+- `EDUCATION-BATCH-01-REELS-TIKTOK-PACKET.md` — Instagram Reels, Facebook Reels, and TikTok captions.
+
+Supporting execution files:
 
 - `TONIGHT-EDUCATION-MARKETING-ACTION-PLAN.md` — one-page action order for Card 1, Video 01, worksheet pins, adult learner asset, and outreach.
+- `EDUCATION-BATCH-01-UPLOAD-MANIFEST.md` — one-batch upload list.
 - `EDUCATION-LIVE-POSTING-KIT-2026-06-03.md` — copy/paste-ready social posts, short-video captions, hashtags, and Pinterest text.
 - `EDUCATION-SOCIAL-ACCOUNT-SETUP-CHECKLIST.md` — account/profile setup checklist for Facebook, LinkedIn, Pinterest, YouTube, Instagram, TikTok, and optional later tools.
 - `EDUCATION-TRACKER-UPDATE-BLOCK.md` — ready tracker rows for published, designed/exported, blocked, and outreach statuses.
