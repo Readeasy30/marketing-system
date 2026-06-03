@@ -4,6 +4,11 @@
 
 ### Added
 
+- Added `TONIGHT-EDUCATION-MARKETING-ACTION-PLAN.md` as the command center for tonight's ReadEasy30 + MathEasy30 upload/posting push.
+- Added `EDUCATION-LIVE-POSTING-KIT-2026-06-03.md` with ready social posts, short-video titles, captions, hashtags, Pinterest titles, descriptions, and destination links.
+- Added `EDUCATION-SOCIAL-ACCOUNT-SETUP-CHECKLIST.md` to prepare Facebook, LinkedIn, Pinterest, YouTube, Instagram, TikTok, and optional later tools without adding automation or tracking.
+- Added `EDUCATION-TRACKER-UPDATE-BLOCK.md` with ready tracker rows for published, designed/exported, blocked, and outreach statuses.
+- Added `CODEX-EDUCATION-MARKETING-EXECUTION-TASK.md` so Codex can continue the safe education marketing queue without asking Gerry to paste repo files manually.
 - Added `EDUCATION-DAY-1-PUBLISHING-PACKET.md` so the first ReadEasy30 + MathEasy30 campaign day has Canva copy, Facebook copy, LinkedIn copy, Pinterest copy, optional short post copy, manual posting order, and tracker rows in one place.
 - Added `EDUCATION-DAY-2-PUBLISHING-PACKET.md` for the parent/helper message: lower the pressure, use one short reading task, one small math step, and one calm win.
 - Added `EDUCATION-DAY-3-PUBLISHING-PACKET.md` for printable reading and math worksheet promotion using existing Canva worksheet pins.
@@ -26,19 +31,27 @@
 
 ### Updated
 
+- Updated `README.md` to link the new education marketing execution files.
+- Updated `PROJECT-STATUS.md` to make the tonight execution bundle the current command path.
 - Updated `CAMPAIGN-PUBLISHING-TRACKER.md` with Canva Card 1, Canva Card 2, Video 01, Video 02, Video 03, and Card 3 blocked status.
 - Updated `EDUCATION-DAY-1-PUBLISHING-PACKET.md` with the active Canva Card 1 edit/view links.
-- Updated `PROJECT-STATUS.md` to show the completed Day 1 through Day 7 education campaign packet set.
-- Updated the safe queue to point to Day 7 review, tracker updates, Card 1 export/posting, Video 01 export/posting, worksheet pins, and safe Day 5 outreach.
+- Updated the safe queue to point to the tonight action plan, live posting kit, social account setup checklist, tracker update block, Card 1 export/posting, Video 01 export/posting, worksheet pins, and safe Day 5 outreach.
 
 ### Current focus
 
-- Use `EDUCATION-DAY-7-REVIEW-PACKET.md` before starting new campaign work.
-- Update `CAMPAIGN-PUBLISHING-TRACKER.md` after any manual posting or blocked account check.
-- If nothing is live yet, export and post Day 1 Canva Card 1 first.
-- Then export and post Video 01.
-- Use worksheet pins next if Pinterest is ready.
-- Start Week 2 only after the tracker is updated.
+- Use `TONIGHT-EDUCATION-MARKETING-ACTION-PLAN.md` as the command center.
+- Export and post Day 1 Canva Card 1 first.
+- Export and post Video 01 second if a video platform is ready.
+- Export worksheet pins third if Pinterest is ready.
+- Use `EDUCATION-LIVE-POSTING-KIT-2026-06-03.md` for all copy/captions.
+- Use `EDUCATION-TRACKER-UPDATE-BLOCK.md` to record live links, exports, and blockers.
+- Use outreach only after at least one post/export is complete.
+
+### Optional tools noted
+
+- Grok can be used later for X/trend ideas, not tonight's main path.
+- `pinokiofactory/cogstudio` can be used later for video production testing, not tonight's blocker.
+- `Wholelychit/claude.yml` and `chanfana-openapi-template` are optional later tools only and are not needed for this marketing upload.
 
 ### Safety notes
 
