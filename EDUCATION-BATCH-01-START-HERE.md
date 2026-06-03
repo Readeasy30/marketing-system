@@ -64,7 +64,17 @@ Do not post if:
 - the copy promises guaranteed results
 - a platform asks for paid ads, tracking, or automation
 
-## Step 4 — Choose the platform packet
+## Step 4 — Use the first-post clipboard
+
+For Card 1, open:
+
+```text
+EDUCATION-BATCH-01-FIRST-POST-CLIPBOARD.md
+```
+
+Use this before digging into platform packets.
+
+## Step 5 — Choose the platform packet if needed
 
 Use the matching packet:
 
@@ -75,7 +85,7 @@ EDUCATION-BATCH-01-YOUTUBE-SHORTS-PACKET.md
 EDUCATION-BATCH-01-REELS-TIKTOK-PACKET.md
 ```
 
-## Step 5 — Log the result
+## Step 6 — Log the result
 
 After every export, post, blocker, or pause, update:
 
@@ -86,7 +96,13 @@ CAMPAIGN-PUBLISHING-TRACKER.md
 
 ## First post copy source
 
-Use:
+Use first:
+
+```text
+EDUCATION-BATCH-01-FIRST-POST-CLIPBOARD.md
+```
+
+Detailed packet:
 
 ```text
 EDUCATION-BATCH-01-FACEBOOK-LINKEDIN-PACKET.md
