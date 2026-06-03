@@ -26,6 +26,9 @@ Do not work on other projects until Batch 01 is posted, paused, or intentionally
 - Project status is locked to this campaign.
 - Email was sent to `wholelychit@gmail.com` with the next posting step.
 - Manual posting steps were created.
+- ReadEasy30 homepage social preview metadata was updated.
+- MathEasy30 homepage social preview metadata was updated.
+- Website metadata QA was recorded in `EDUCATION-BATCH-01-WEBSITE-METADATA-QA.md`.
 
 ## Current blocker
 
