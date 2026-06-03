@@ -29,6 +29,13 @@ Do not work on other projects until Batch 01 is posted, paused, or intentionally
 - ReadEasy30 homepage social preview metadata was updated.
 - MathEasy30 homepage social preview metadata was updated.
 - Website metadata QA was recorded in `EDUCATION-BATCH-01-WEBSITE-METADATA-QA.md`.
+- Adult learner deep-link metadata was updated.
+- Deep-link metadata QA was recorded in `EDUCATION-BATCH-01-DEEP-LINK-METADATA-QA.md`.
+
+## Checked / blocked
+
+- ReadEasy30 reading worksheet hub was checked but not overwritten because the connector did not return a complete safe file in one chunk.
+- MathEasy30 worksheet hub metadata update was attempted but blocked by the safety check.
 
 ## Current blocker
 
