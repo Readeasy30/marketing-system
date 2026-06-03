@@ -1,57 +1,46 @@
 # CODEX-CURRENT-TASK.md
 
-Last updated: 2026-05-29
+Last updated: 2026-06-03
 
 ## Repository
 
 `Wholelychit/marketing-system`
 
-## Current operating mode
+## Current task: Safe repository review
 
-Use ChatGPT 5.5 and Codex as the production workflow.
+Find bugs, SEO problems, broken links, accessibility issues, bad mobile layout, performance problems, and practical improvement ideas where applicable.
 
-No local Git. No terminal Git. No VS Code requirement. No manual repo file creation or paste updates.
+## Rules
 
-Workflow:
+- Do not redesign any site.
+- Do not convert projects to React, Vite, Next.js, TypeScript, Tailwind, or any build tools.
+- Keep each project's current structure.
+- Do not delete major working code.
+- Do not add API keys, tracking scripts, ads, payment systems, affiliate links, or user accounts.
+- Do not make risky production changes.
+- Fix small safe issues directly when possible.
+- For larger or risky issues, list them clearly before changing anything.
+- Work in safe batches and do not stop after one small fix.
+- If this repo contains planning files, templates, or documentation, review only what applies and do not force website-code rules onto non-website files.
 
-1. ChatGPT 5.5 manages the plan.
-2. Codex performs repository work.
-3. GitHub stores files and commits.
-4. Cloudflare Pages publishes from GitHub when connected.
+## Check these areas
 
-## Current project focus
+1. HTML errors and missing tags where website files exist
+2. Broken links and bad navigation
+3. SEO title tags, meta descriptions, canonical links, headings, and alt text where applicable
+4. Mobile layout problems where website files exist
+5. Accessibility problems
+6. CSS conflicts or layout bugs where CSS exists
+7. JavaScript errors where JavaScript exists
+8. Page speed and image size issues where website assets exist
+9. Missing `robots.txt` or `sitemap.xml` where a deployable website exists
+10. Missing privacy, disclaimer, contact, or footer links if needed
+11. Marketing docs, checklists, and templates that need cleanup or safer wording
 
-Marketing-system supports planning, tracking, templates, and growth workflows across Gerry's websites.
+## Deliverables
 
-Keep this repo safe, organized, and free of private credentials.
-
-## Current safe queue
-
-1. Read `README.md`, `AGENTS.md`, `CODEX-WORKFLOW.md`, and `PROJECT-STATUS.md` before editing.
-2. Keep workflow docs standardized across Wholelychit projects.
-3. Add or improve reusable marketing templates and checklists.
-4. Improve documentation for SEO, launch planning, content calendars, and outreach workflows.
-5. Keep all examples non-secret and safe.
-6. Do not add live automations that send emails, post content, spend money, or trigger tracking without direct approval.
+Report: summary reviewed, bugs found, SEO problems, broken links, mobile/layout problems, accessibility issues, performance problems, safe fixes completed, suggested next improvements, and commit messages used.
 
 ## Stop points
 
-Stop before:
-
-- private keys
-- API keys
-- access tokens
-- account credentials
-- live ads or tracking
-- payment or billing setup
-- affiliate links
-- public AI tools
-- upload systems
-- user accounts
-- automation that sends messages or spends money
-- framework rebuilds
-- major code deletion
-
-## Reporting
-
-Report only after useful commits or a real blocker.
+Stop before private keys, API keys, live tracking, live ads, payment setup, user accounts, upload systems, affiliate links, framework migration, major code deletion, or anything that risks breaking production.
