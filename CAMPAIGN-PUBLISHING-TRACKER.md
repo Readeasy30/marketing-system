@@ -1,6 +1,6 @@
 # Campaign Publishing Tracker
 
-Last updated: 2026-06-02
+Last updated: 2026-06-03
 
 Use this file to track what has been prepared, published, improved, or blocked across Wholelychit projects.
 
@@ -24,6 +24,7 @@ Track manually first. Do not add live analytics, tracking scripts, paid tools, o
 
 | Date | Project | Campaign | Asset | Status | Link / location | Next action |
 |---|---|---|---|---|---|---|
+| 2026-06-03 | ReadEasy30 + MathEasy30 | 30 Minutes. One Calm Step. | Day 1 publishing packet | Drafted | `EDUCATION-DAY-1-PUBLISHING-PACKET.md` | Create Canva Card 1, manually post, then paste live links into tracker |
 | 2026-06-02 | RestaurantAIbot | Owner Resource Campaign | Owner resource pages | Published | `Wholelychit/restaurantaibot.com` | Promote with captions and Canva graphics |
 | 2026-06-02 | RestaurantAIbot | Owner Resource Campaign | Captions, video scripts, Canva prompts | Drafted | `RESTURANTS-AI-OWNER-RESOURCE-CAMPAIGN.md` | Create first 3 Canva graphics |
 | 2026-06-02 | Portfolio | Weekly execution board | Weekly marketing rotation | Drafted | `PORTFOLIO-WEEKLY-EXECUTION-BOARD.md` | Use for next weekly focus |
