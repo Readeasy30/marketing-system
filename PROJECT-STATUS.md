@@ -1,6 +1,6 @@
 # Project Status
 
-Last updated: 2026-06-02
+Last updated: 2026-06-03
 
 This file tracks the safe marketing-system queue for Wholelychit projects.
 
@@ -57,6 +57,7 @@ New education activation files:
 - `EDUCATION-SOCIAL-POSTS-BATCH-01.md`
 - `EDUCATION-CANVA-ACTIVATION-QUEUE.md`
 - `EDUCATION-FIRST-3-CANVA-CARDS.md`
+- `EDUCATION-DAY-1-PUBLISHING-PACKET.md`
 - `EDUCATION-WEEK-1-MANUAL-QUEUE.md`
 - `EDUCATION-NEXT-STEPS.md`
 
@@ -66,10 +67,10 @@ Updated activation tracking:
 
 Current education activation queue:
 
-1. Build Canva card 1 from `EDUCATION-FIRST-3-CANVA-CARDS.md`.
-2. Follow Day 1 in `EDUCATION-WEEK-1-MANUAL-QUEUE.md`.
-3. Use copy from `EDUCATION-SOCIAL-POSTS-BATCH-01.md`.
-4. Record completed or blocked items in `CAMPAIGN-PUBLISHING-TRACKER.md`.
+1. Build Canva Card 1 from `EDUCATION-DAY-1-PUBLISHING-PACKET.md`.
+2. Manually publish Day 1 Facebook, LinkedIn, and Pinterest posts when accounts are ready.
+3. Record published or blocked items in `CAMPAIGN-PUBLISHING-TRACKER.md`.
+4. Follow Day 2 in `EDUCATION-WEEK-1-MANUAL-QUEUE.md` after Day 1 is published or blocked.
 5. Continue safe contact-form outreach using `OUTREACH/DAILY-EXECUTION-RULES.md`.
 6. Produce education short videos 1 to 3 only using the Canva-first workflow.
 
@@ -166,10 +167,10 @@ BransonBlastUSA should use the shared avatar/video system from this repo, then s
 
 ## Current Safe Queue
 
-1. Build Canva card 1 using `EDUCATION-FIRST-3-CANVA-CARDS.md`.
-2. Follow the seven-day order in `EDUCATION-WEEK-1-MANUAL-QUEUE.md`.
-3. Use social copy from `EDUCATION-SOCIAL-POSTS-BATCH-01.md`.
-4. Track completed or blocked items in `CAMPAIGN-PUBLISHING-TRACKER.md`.
+1. Create Canva Card 1 using `EDUCATION-DAY-1-PUBLISHING-PACKET.md`.
+2. Manually publish or block Day 1 Facebook, LinkedIn, and Pinterest items.
+3. Record completed or blocked items in `CAMPAIGN-PUBLISHING-TRACKER.md`.
+4. Follow Day 2 in `EDUCATION-WEEK-1-MANUAL-QUEUE.md`.
 5. Continue ReadEasy30 + MathEasy30 outreach using `OUTREACH/DAILY-EXECUTION-RULES.md`.
 6. Produce the first 3 education short videos from `video-system/EDUCATION-YOUTUBE-SHORTS-BATCH-01.md`.
 7. Continue RestaurantAIbot owner-resource campaign after the education Day 1 push is logged.
@@ -178,7 +179,7 @@ BransonBlastUSA should use the shared avatar/video system from this repo, then s
 
 ## Current Blockers
 
-- External social publishing requires access to the owner’s actual social accounts or manual posting.
+- External social publishing requires access to the owner's actual social accounts or manual posting.
 - One outreach email to the national Head Start contact route was sent on 2026-06-02.
 - Gmail blocked direct send/draft attempts to two public library contact routes; use official contact forms/manual one-to-one route instead of repeated Gmail attempts.
 - The initial 10-video ffmpeg batch timed out; use script/metadata/Canva-first workflow and produce MP4s in smaller batches.
