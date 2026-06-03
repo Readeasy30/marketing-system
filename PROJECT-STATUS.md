@@ -61,13 +61,19 @@ New education activation files:
 - `EDUCATION-WEEK-1-MANUAL-QUEUE.md`
 - `EDUCATION-NEXT-STEPS.md`
 
+Current created campaign asset:
+
+- Canva Card 1: `Facebook Post - 30 Minutes. One Calm Step.`
+- Edit link: `https://www.canva.com/d/5cpwT_p5Glz9S5K`
+- View link: `https://www.canva.com/d/edVwn3ZWJEC4Rhw`
+
 Updated activation tracking:
 
 - `CAMPAIGN-PUBLISHING-TRACKER.md`
 
 Current education activation queue:
 
-1. Build Canva Card 1 from `EDUCATION-DAY-1-PUBLISHING-PACKET.md`.
+1. Review/export Canva Card 1 from Canva.
 2. Manually publish Day 1 Facebook, LinkedIn, and Pinterest posts when accounts are ready.
 3. Record published or blocked items in `CAMPAIGN-PUBLISHING-TRACKER.md`.
 4. Follow Day 2 in `EDUCATION-WEEK-1-MANUAL-QUEUE.md` after Day 1 is published or blocked.
@@ -167,7 +173,7 @@ BransonBlastUSA should use the shared avatar/video system from this repo, then s
 
 ## Current Safe Queue
 
-1. Create Canva Card 1 using `EDUCATION-DAY-1-PUBLISHING-PACKET.md`.
+1. Review/export Canva Card 1 using Canva edit link in this file.
 2. Manually publish or block Day 1 Facebook, LinkedIn, and Pinterest items.
 3. Record completed or blocked items in `CAMPAIGN-PUBLISHING-TRACKER.md`.
 4. Follow Day 2 in `EDUCATION-WEEK-1-MANUAL-QUEUE.md`.
