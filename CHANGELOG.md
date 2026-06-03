@@ -4,6 +4,8 @@
 
 ### Added
 
+- Added `EDUCATION-BATCH-01-UPLOAD-MANIFEST.md` as the one-batch export/upload list for Card 1, Video 01, worksheet pins, adult learner pin, Video 02, and Video 03.
+- Added `Wholelychit/readeasy30.com/MARKETING-ACTIVATION.md` to point the ReadEasy30 website repo to the shared education marketing execution system.
 - Added `TONIGHT-EDUCATION-MARKETING-ACTION-PLAN.md` as the command center for tonight's ReadEasy30 + MathEasy30 upload/posting push.
 - Added `EDUCATION-LIVE-POSTING-KIT-2026-06-03.md` with ready social posts, short-video titles, captions, hashtags, Pinterest titles, descriptions, and destination links.
 - Added `EDUCATION-SOCIAL-ACCOUNT-SETUP-CHECKLIST.md` to prepare Facebook, LinkedIn, Pinterest, YouTube, Instagram, TikTok, and optional later tools without adding automation or tracking.
@@ -31,15 +33,17 @@
 
 ### Updated
 
+- Updated `Wholelychit/matheasy30.com/MARKETING-ACTIVATION.md` to point to the latest batch upload and execution files.
 - Updated `README.md` to link the new education marketing execution files.
-- Updated `PROJECT-STATUS.md` to make the tonight execution bundle the current command path.
+- Updated `PROJECT-STATUS.md` to make the tonight execution bundle and batch upload manifest the current command path.
 - Updated `CAMPAIGN-PUBLISHING-TRACKER.md` with Canva Card 1, Canva Card 2, Video 01, Video 02, Video 03, and Card 3 blocked status.
 - Updated `EDUCATION-DAY-1-PUBLISHING-PACKET.md` with the active Canva Card 1 edit/view links.
-- Updated the safe queue to point to the tonight action plan, live posting kit, social account setup checklist, tracker update block, Card 1 export/posting, Video 01 export/posting, worksheet pins, and safe Day 5 outreach.
+- Updated the safe queue to point to the batch upload manifest, tonight action plan, live posting kit, social account setup checklist, tracker update block, Card 1 export/posting, Video 01 export/posting, worksheet pins, and safe Day 5 outreach.
 
 ### Current focus
 
 - Use `TONIGHT-EDUCATION-MARKETING-ACTION-PLAN.md` as the command center.
+- Use `EDUCATION-BATCH-01-UPLOAD-MANIFEST.md` as the export/upload checklist.
 - Export and post Day 1 Canva Card 1 first.
 - Export and post Video 01 second if a video platform is ready.
 - Export worksheet pins third if Pinterest is ready.
