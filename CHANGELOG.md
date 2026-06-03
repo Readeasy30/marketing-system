@@ -5,18 +5,40 @@
 ### Added
 
 - Added `EDUCATION-DAY-1-PUBLISHING-PACKET.md` so the first ReadEasy30 + MathEasy30 campaign day has Canva copy, Facebook copy, LinkedIn copy, Pinterest copy, optional short post copy, manual posting order, and tracker rows in one place.
-- Created editable Canva Card 1 for the ReadEasy30 + MathEasy30 campaign: `Facebook Post - 30 Minutes. One Calm Step.`
+- Added `EDUCATION-DAY-2-PUBLISHING-PACKET.md` for the parent/helper message: lower the pressure, use one short reading task, one small math step, and one calm win.
+- Added `EDUCATION-DAY-3-PUBLISHING-PACKET.md` for printable reading and math worksheet promotion using existing Canva worksheet pins.
+- Added `EDUCATION-DAY-4-PUBLISHING-PACKET.md` for adult learner / respectful practice messaging.
+- Added `EDUCATION-DAY-5-PUBLISHING-PACKET.md` for community helper outreach, including safe contact-form scripts.
+- Added `EDUCATION-DAY-6-SHORT-VIDEO-PUBLISHING-PACKET.md` for the first three short videos.
+- Added `EDUCATION-DAY-7-REVIEW-PACKET.md` to lock review questions, blockers, Canva links, and Week 2 reuse direction.
+- Added `video-system/production-runs/2026-06-03-batch-01-videos-01-03.md` for Video 01 through Video 03 scene plans.
+- Added `video-system/production-runs/2026-06-03-upload-captions-metadata.md` for upload titles, captions, descriptions, hashtags, and link order.
+- Added reusable avatar SVGs:
+  - `video-system/avatars/red-the-reader.svg`
+  - `video-system/avatars/matthew-math.svg`
+  - `video-system/avatars/calm-helper.svg`
+- Created editable Canva assets for:
+  - Canva Card 1 — 30 Minutes. One Calm Step.
+  - Canva Card 2 — Lower the pressure.
+  - Video 01 — Homework fight? Try this.
+  - Video 02 — It is not too late.
+  - Video 03 — Simple 30-minute learning routine.
 
 ### Updated
 
-- Updated `CAMPAIGN-PUBLISHING-TRACKER.md` with the Day 1 publishing packet row and next action.
-- Updated `CAMPAIGN-PUBLISHING-TRACKER.md` with Canva Card 1 edit/view links.
+- Updated `CAMPAIGN-PUBLISHING-TRACKER.md` with Canva Card 1, Canva Card 2, Video 01, Video 02, Video 03, and Card 3 blocked status.
+- Updated `EDUCATION-DAY-1-PUBLISHING-PACKET.md` with the active Canva Card 1 edit/view links.
+- Updated `PROJECT-STATUS.md` to show the completed Day 1 through Day 7 education campaign packet set.
+- Updated the safe queue to point to Day 7 review, tracker updates, Card 1 export/posting, Video 01 export/posting, worksheet pins, and safe Day 5 outreach.
 
 ### Current focus
 
-- Review/export Canva Card 1.
-- Manually publish Day 1 posts when social accounts are ready.
-- Paste live links into `CAMPAIGN-PUBLISHING-TRACKER.md` after posting.
+- Use `EDUCATION-DAY-7-REVIEW-PACKET.md` before starting new campaign work.
+- Update `CAMPAIGN-PUBLISHING-TRACKER.md` after any manual posting or blocked account check.
+- If nothing is live yet, export and post Day 1 Canva Card 1 first.
+- Then export and post Video 01.
+- Use worksheet pins next if Pinterest is ready.
+- Start Week 2 only after the tracker is updated.
 
 ### Safety notes
 
@@ -26,6 +48,8 @@
 - No private keys were added.
 - No scraped contact lists or private customer data were added.
 - Publishing remains manual until approved otherwise.
+- Outreach remains manual, limited, and contact-form/public-route only.
+- Card 3 Canva generation was blocked twice; existing worksheet pins are the fallback.
 
 ## 2026-06-02
 
