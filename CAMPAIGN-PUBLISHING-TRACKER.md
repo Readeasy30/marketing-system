@@ -27,6 +27,11 @@ Track manually first. Do not add live analytics, tracking scripts, paid tools, o
 | 2026-06-02 | RestaurantAIbot | Owner Resource Campaign | Owner resource pages | Published | `Wholelychit/restaurantaibot.com` | Promote with captions and Canva graphics |
 | 2026-06-02 | RestaurantAIbot | Owner Resource Campaign | Captions, video scripts, Canva prompts | Drafted | `RESTURANTS-AI-OWNER-RESOURCE-CAMPAIGN.md` | Create first 3 Canva graphics |
 | 2026-06-02 | Portfolio | Weekly execution board | Weekly marketing rotation | Drafted | `PORTFOLIO-WEEKLY-EXECUTION-BOARD.md` | Use for next weekly focus |
+| 2026-06-02 | ReadEasy30 + MathEasy30 | 30 Minutes. One Calm Step. | Education activation board | Drafted | `EDUCATION-MARKETING-ACTIVATION-BOARD.md` | Use as active publishing board |
+| 2026-06-02 | ReadEasy30 + MathEasy30 | 30 Minutes. One Calm Step. | Platform-ready social posts | Drafted | `EDUCATION-SOCIAL-POSTS-BATCH-01.md` | Publish Day 1 Facebook, LinkedIn, and Pinterest posts manually |
+| 2026-06-02 | ReadEasy30 + MathEasy30 | 30 Minutes. One Calm Step. | Canva graphics queue | Designed | `EDUCATION-CANVA-ACTIVATION-QUEUE.md` | Create first 3 Canva graphics |
+| 2026-06-02 | ReadEasy30 + MathEasy30 | 30 Minutes. One Calm Step. | YouTube Shorts scripts and upload metadata | Drafted | `video-system/EDUCATION-YOUTUBE-SHORTS-BATCH-01.md` | Produce videos 1 to 3 only with Canva-first workflow |
+| 2026-06-02 | ReadEasy30 + MathEasy30 | Outreach | Contact-form outreach rules | Drafted | `OUTREACH/DAILY-EXECUTION-RULES.md` | Continue up to 5 safe contact-form submissions on active outreach days |
 
 ## Weekly Review Questions
 
