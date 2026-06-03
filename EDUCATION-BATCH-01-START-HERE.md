@@ -73,6 +73,7 @@ EDUCATION-BATCH-01-FIRST-POST-CLIPBOARD.md
 EDUCATION-BATCH-01-FIRST-VIDEO-CLIPBOARD.md
 EDUCATION-BATCH-01-WORKSHEET-PINS-CLIPBOARD.md
 EDUCATION-BATCH-01-ADULT-LEARNER-CLIPBOARD.md
+EDUCATION-BATCH-01-OPTIONAL-VIDEOS-CLIPBOARD.md
 ```
 
 ## Step 5 — Choose the platform packet if needed
@@ -144,6 +145,19 @@ Asset:
 
 ```text
 05-readeasy30-matheasy30-practice-without-shame.png
+```
+
+### 5. Optional videos
+
+```text
+EDUCATION-BATCH-01-OPTIONAL-VIDEOS-CLIPBOARD.md
+```
+
+Assets:
+
+```text
+06-readeasy30-matheasy30-video-02-it-is-not-too-late.mp4
+07-readeasy30-matheasy30-video-03-30-minute-routine.mp4
 ```
 
 ## Approved Batch 01 links
