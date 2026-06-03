@@ -47,16 +47,32 @@ Decision locked:
 - Marketing activation means publish-ready manual assets, Canva designs, outreach rules, video scripts, avatar assets, and campaign tracking.
 - It does not mean live ads, tracking scripts, payment setup, bulk email, scraping, or social-account automation.
 
-## Tonight Education Execution Bundle
+## Batch 01 Command Path
 
-New command files added for upload/posting readiness:
+Open first:
 
-1. `TONIGHT-EDUCATION-MARKETING-ACTION-PLAN.md` — one-page execution order.
-2. `EDUCATION-BATCH-01-UPLOAD-MANIFEST.md` — one-batch asset export/upload list.
-3. `EDUCATION-LIVE-POSTING-KIT-2026-06-03.md` — ready social copy, captions, hashtags, and Pinterest text.
-4. `EDUCATION-SOCIAL-ACCOUNT-SETUP-CHECKLIST.md` — account setup and upload readiness checklist.
-5. `EDUCATION-TRACKER-UPDATE-BLOCK.md` — tracker rows for published, designed, blocked, and outreach statuses.
-6. `CODEX-EDUCATION-MARKETING-EXECUTION-TASK.md` — Codex continuation task.
+1. `EDUCATION-BATCH-01-START-HERE.md` — first file to open; points to the whole Batch 01 workflow.
+2. `EDUCATION-BATCH-01-ACCOUNT-READINESS-BOARD.md` — mark first ready social channel or blocker.
+3. `EDUCATION-BATCH-01-CANVA-EXPORT-RUN-SHEET.md` — export Card 1, Video 01, worksheet pins, adult learner pin, Video 02, and Video 03.
+4. `EDUCATION-BATCH-01-QA-CHECKLIST.md` — check links, readability, tone, and safety before posting.
+5. `EDUCATION-BATCH-01-POSTING-LOG.md` — record exports, posts, blockers, and pauses.
+6. `CAMPAIGN-PUBLISHING-TRACKER.md` — master tracker.
+
+Platform packets:
+
+- `EDUCATION-BATCH-01-FACEBOOK-LINKEDIN-PACKET.md`
+- `EDUCATION-BATCH-01-PINTEREST-PACKET.md`
+- `EDUCATION-BATCH-01-YOUTUBE-SHORTS-PACKET.md`
+- `EDUCATION-BATCH-01-REELS-TIKTOK-PACKET.md`
+
+Supporting execution files:
+
+- `TONIGHT-EDUCATION-MARKETING-ACTION-PLAN.md`
+- `EDUCATION-BATCH-01-UPLOAD-MANIFEST.md`
+- `EDUCATION-LIVE-POSTING-KIT-2026-06-03.md`
+- `EDUCATION-SOCIAL-ACCOUNT-SETUP-CHECKLIST.md`
+- `EDUCATION-TRACKER-UPDATE-BLOCK.md`
+- `CODEX-EDUCATION-MARKETING-EXECUTION-TASK.md`
 
 Website repo markers:
 
@@ -191,15 +207,14 @@ Outreach files:
 
 ## Current Safe Queue
 
-1. Use `TONIGHT-EDUCATION-MARKETING-ACTION-PLAN.md` as the command center.
-2. Use `EDUCATION-BATCH-01-UPLOAD-MANIFEST.md` as the export/upload checklist.
-3. Export Canva Card 1 first.
-4. Export Video 01 second.
-5. Export worksheet pins third.
-6. Use `EDUCATION-LIVE-POSTING-KIT-2026-06-03.md` for copy/captions.
-7. Use `EDUCATION-SOCIAL-ACCOUNT-SETUP-CHECKLIST.md` to prepare channels.
-8. Use `EDUCATION-TRACKER-UPDATE-BLOCK.md` to update `CAMPAIGN-PUBLISHING-TRACKER.md` after posting/export/blockers.
-9. Use contact-form outreach only after at least one post/export is complete.
+1. Open `EDUCATION-BATCH-01-START-HERE.md` first.
+2. Check `EDUCATION-BATCH-01-ACCOUNT-READINESS-BOARD.md`.
+3. Export Card 1 using `EDUCATION-BATCH-01-CANVA-EXPORT-RUN-SHEET.md`.
+4. QA with `EDUCATION-BATCH-01-QA-CHECKLIST.md`.
+5. Use the correct platform packet.
+6. Update `EDUCATION-BATCH-01-POSTING-LOG.md`.
+7. Update `CAMPAIGN-PUBLISHING-TRACKER.md`.
+8. Do not start a new campaign until Batch 01 is marked exported, posted, blocked, or paused.
 
 ## RestaurantAIbot Campaign Status
 
