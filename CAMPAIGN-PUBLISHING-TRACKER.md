@@ -15,6 +15,7 @@ Track manually first. Do not add live analytics, tracking scripts, paid tools, b
 | Planned | Idea is approved for future work |
 | Drafted | Copy or script exists |
 | Designed | Canva or visual prompt is ready |
+| Exported | Upload-ready asset exists |
 | Published | Live on website or social channel |
 | Improved | Existing item was updated |
 | Blocked | Needs access, account setup, approval, or manual external action |
@@ -31,7 +32,7 @@ Campaign: `30 Minutes. One Calm Step.`
 |---|---|---|---|---|
 | 2026-06-03 | Batch 01 Start Here index | Drafted | `EDUCATION-BATCH-01-START-HERE.md` | Open this first |
 | 2026-06-03 | Fallback upload package note | Drafted | `EDUCATION-BATCH-01-FALLBACK-UPLOAD-PACKAGE.md` | Use only if Canva export is slow or blocked |
-| 2026-06-03 | Fallback ZIP package | Designed | `ReadEasy30-MathEasy30-Batch-01-Upload-Package.zip` in ChatGPT sandbox | Download from current ChatGPT session if needed |
+| 2026-06-03 | Fallback ZIP package | Exported | `ReadEasy30-MathEasy30-Batch-01-Upload-Package.zip` in ChatGPT sandbox | Download from current ChatGPT session if needed |
 | 2026-06-03 | First post clipboard | Drafted | `EDUCATION-BATCH-01-FIRST-POST-CLIPBOARD.md` | Use immediately after Card 1 export |
 | 2026-06-03 | First video clipboard | Drafted | `EDUCATION-BATCH-01-FIRST-VIDEO-CLIPBOARD.md` | Use immediately after Video 01 export |
 | 2026-06-03 | Worksheet pins clipboard | Drafted | `EDUCATION-BATCH-01-WORKSHEET-PINS-CLIPBOARD.md` | Use after worksheet pin exports |
@@ -40,7 +41,7 @@ Campaign: `30 Minutes. One Calm Step.`
 | 2026-06-03 | Live link QA | Drafted | `EDUCATION-BATCH-01-LIVE-LINK-QA.md` | Use approved links before posting |
 | 2026-06-03 | Account readiness board | Drafted | `EDUCATION-BATCH-01-ACCOUNT-READINESS-BOARD.md` | Mark first ready channel or blocker |
 | 2026-06-03 | Canva export run sheet | Drafted | `EDUCATION-BATCH-01-CANVA-EXPORT-RUN-SHEET.md` | Export Card 1 first |
-| 2026-06-03 | Batch 01 posting log | Planned | `EDUCATION-BATCH-01-POSTING-LOG.md` | Update after every export, post, blocker, or pause |
+| 2026-06-03 | Batch 01 posting log | Exported | `EDUCATION-BATCH-01-POSTING-LOG.md` | Fallback assets marked exported; post Card 1 next |
 | 2026-06-03 | Batch 01 QA checklist | Drafted | `EDUCATION-BATCH-01-QA-CHECKLIST.md` | Use before posting/exporting |
 | 2026-06-03 | Batch 01 upload manifest | Drafted | `EDUCATION-BATCH-01-UPLOAD-MANIFEST.md` | Use as current upload checklist |
 | 2026-06-03 | Tonight action plan | Drafted | `TONIGHT-EDUCATION-MARKETING-ACTION-PLAN.md` | Use as command center |
@@ -61,13 +62,13 @@ Campaign: `30 Minutes. One Calm Step.`
 
 | Date | Asset | Status | Link / location | Next action |
 |---|---|---|---|---|
-| 2026-06-03 | Card 1 PNG export | Designed | `01-readeasy30-matheasy30-card-1-calm-step.png` from Canva Card 1 | Export first, then use first post clipboard |
-| 2026-06-03 | Video 01 MP4 export | Designed | `02-readeasy30-matheasy30-video-01-homework-fight.mp4` from Video 01 | Export second, then use first video clipboard |
-| 2026-06-03 | Reading worksheet pin PNG export | Designed | `03-readeasy30-free-printable-reading-worksheets.png` from worksheet pin | Export third, then use worksheet pins clipboard |
-| 2026-06-03 | Math worksheet pin PNG export | Designed | `04-matheasy30-free-printable-math-worksheets.png` from worksheet pin | Export fourth, then use worksheet pins clipboard |
-| 2026-06-03 | Adult learner pin PNG export | Designed | `05-readeasy30-matheasy30-practice-without-shame.png` from adult learner pin | Export fifth, then use adult learner clipboard |
-| 2026-06-03 | Video 02 MP4 export | Designed | `06-readeasy30-matheasy30-video-02-it-is-not-too-late.mp4` from Video 02 | Export after core assets, then use optional videos clipboard |
-| 2026-06-03 | Video 03 MP4 export | Designed | `07-readeasy30-matheasy30-video-03-30-minute-routine.mp4` from Video 03 | Export after core assets, then use optional videos clipboard |
+| 2026-06-03 | Card 1 PNG export | Exported | `01-readeasy30-matheasy30-card-1-calm-step.png` from fallback ZIP or Canva Card 1 | Post first, then use first post clipboard |
+| 2026-06-03 | Video 01 MP4 export | Exported | `02-readeasy30-matheasy30-video-01-homework-fight.mp4` from fallback ZIP or Canva Video 01 | Post second, then use first video clipboard |
+| 2026-06-03 | Reading worksheet pin PNG export | Exported | `03-readeasy30-free-printable-reading-worksheets.png` from fallback ZIP or worksheet pin | Post third, then use worksheet pins clipboard |
+| 2026-06-03 | Math worksheet pin PNG export | Exported | `04-matheasy30-free-printable-math-worksheets.png` from fallback ZIP or worksheet pin | Post fourth, then use worksheet pins clipboard |
+| 2026-06-03 | Adult learner pin PNG export | Exported | `05-readeasy30-matheasy30-practice-without-shame.png` from fallback ZIP or adult learner pin | Post fifth, then use adult learner clipboard |
+| 2026-06-03 | Video 02 MP4 export | Exported | `06-readeasy30-matheasy30-video-02-it-is-not-too-late.mp4` from fallback ZIP or Canva Video 02 | Optional after core assets, then use optional videos clipboard |
+| 2026-06-03 | Video 03 MP4 export | Exported | `07-readeasy30-matheasy30-video-03-30-minute-routine.mp4` from fallback ZIP or Canva Video 03 | Optional after core assets, then use optional videos clipboard |
 
 ### Prepared campaign files
 
@@ -80,18 +81,18 @@ Campaign: `30 Minutes. One Calm Step.`
 | 2026-06-03 | Day 5 publishing packet | Drafted | `EDUCATION-DAY-5-PUBLISHING-PACKET.md` | Use safe community-helper contact-form workflow |
 | 2026-06-03 | Day 6 short-video packet | Drafted | `EDUCATION-DAY-6-SHORT-VIDEO-PUBLISHING-PACKET.md` | Export Video 01 first |
 | 2026-06-03 | Day 7 review packet | Drafted | `EDUCATION-DAY-7-REVIEW-PACKET.md` | Review before Week 2 |
-| 2026-06-03 | Canva Card 1 — 30 Minutes. One Calm Step. | Designed | Edit: https://www.canva.com/d/cAqhrbhNDjRWro6 / View: https://www.canva.com/d/-SG5XIl1Pp3v0jX | Export PNG for Day 1 |
-| 2026-06-03 | Canva Card 2 — Lower the pressure. | Designed | Edit: https://www.canva.com/d/PrELr6LCOOJT0i_ / View: https://www.canva.com/d/X8uTYcUsanr1DWZ | Export PNG for Day 2 |
-| 2026-06-03 | Canva Card 3 — Free Printable Practice | Blocked | Generator blocked twice | Use existing worksheet pins instead |
-| 2026-06-03 | Reading worksheet Canva pin | Designed | Edit: https://www.canva.com/d/PVjkU_ATm6Q09oz / View: https://www.canva.com/d/FcF81nTEXYQIppX | Export PNG for Day 3 |
-| 2026-06-03 | Math worksheet Canva pin | Designed | Edit: https://www.canva.com/d/lBw7RaAEKjPtwXf / View: https://www.canva.com/d/B7ucy3W0XxxWloz | Export PNG for Day 3 |
-| 2026-06-03 | Adult learner Canva pin | Designed | Edit: https://www.canva.com/d/JB9aEd-LIBv-KUN / View: https://www.canva.com/d/t-t02lxlrbW87dq | Export PNG for Day 4 |
-| 2026-06-03 | Video 01 Canva design | Designed | Edit: https://www.canva.com/d/-AsIThP__kPG-JB / View: https://www.canva.com/d/9HUPx5iVymvseJp | Export MP4 for Day 6 |
-| 2026-06-03 | Video 02 Canva design | Designed | Edit: https://www.canva.com/d/CHdtGIgLTPJko4X / View: https://www.canva.com/d/_xMb2jIFfsXHPVT | Export MP4 for Day 4 or Day 6 |
-| 2026-06-03 | Video 03 Canva design | Designed | Edit: https://www.canva.com/d/iQrsd0vGOFMaA-Z / View: https://www.canva.com/d/-tYwvw_4UsybNZs | Export MP4 for Day 6 |
-| 2026-06-03 | Canva direct export from connector | Blocked | Canva connector can create/find designs here, but no reliable direct export/download action is available | Use `CANVA-MANUAL-EXPORT-STEPS.md` |
+| 2026-06-03 | Canva Card 1 — 30 Minutes. One Calm Step. | Designed | Edit: https://www.canva.com/d/cAqhrbhNDjRWro6 / View: https://www.canva.com/d/-SG5XIl1Pp3v0jX | Canva original still available if preferred |
+| 2026-06-03 | Canva Card 2 — Lower the pressure. | Designed | Edit: https://www.canva.com/d/PrELr6LCOOJT0i_ / View: https://www.canva.com/d/X8uTYcUsanr1DWZ | Canva original still available if preferred |
+| 2026-06-03 | Canva Card 3 — Free Printable Practice | Blocked | Generator blocked twice | Use fallback worksheet pins instead |
+| 2026-06-03 | Reading worksheet Canva pin | Designed | Edit: https://www.canva.com/d/PVjkU_ATm6Q09oz / View: https://www.canva.com/d/FcF81nTEXYQIppX | Canva original still available if preferred |
+| 2026-06-03 | Math worksheet Canva pin | Designed | Edit: https://www.canva.com/d/lBw7RaAEKjPtwXf / View: https://www.canva.com/d/B7ucy3W0XxxWloz | Canva original still available if preferred |
+| 2026-06-03 | Adult learner Canva pin | Designed | Edit: https://www.canva.com/d/JB9aEd-LIBv-KUN / View: https://www.canva.com/d/t-t02lxlrbW87dq | Canva original still available if preferred |
+| 2026-06-03 | Video 01 Canva design | Designed | Edit: https://www.canva.com/d/-AsIThP__kPG-JB / View: https://www.canva.com/d/9HUPx5iVymvseJp | Canva original still available if preferred |
+| 2026-06-03 | Video 02 Canva design | Designed | Edit: https://www.canva.com/d/CHdtGIgLTPJko4X / View: https://www.canva.com/d/_xMb2jIFfsXHPVT | Canva original still available if preferred |
+| 2026-06-03 | Video 03 Canva design | Designed | Edit: https://www.canva.com/d/iQrsd0vGOFMaA-Z / View: https://www.canva.com/d/-tYwvw_4UsybNZs | Canva original still available if preferred |
+| 2026-06-03 | Canva direct export from connector | Blocked | Canva connector can create/find designs here, but no reliable direct export/download action is available | Use fallback ZIP or manual Canva export |
 | 2026-06-03 | External social posting | Blocked | Requires owner account access/manual posting | Post manually, then paste live links here |
-| 2026-06-03 | Day 5 contact-form outreach | Planned | `EDUCATION-DAY-5-PUBLISHING-PACKET.md` | Submit 5 or fewer safe contact forms manually |
+| 2026-06-03 | Day 5 contact-form outreach | Planned | `EDUCATION-DAY-5-PUBLISHING-PACKET.md` | Use only after at least one post is live |
 
 ## Other Active Portfolio Campaigns
 
