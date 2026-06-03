@@ -1,5 +1,30 @@
 # Marketing System Changelog
 
+## 2026-06-03
+
+### Added
+
+- Added `EDUCATION-DAY-1-PUBLISHING-PACKET.md` so the first ReadEasy30 + MathEasy30 campaign day has Canva copy, Facebook copy, LinkedIn copy, Pinterest copy, optional short post copy, manual posting order, and tracker rows in one place.
+
+### Updated
+
+- Updated `CAMPAIGN-PUBLISHING-TRACKER.md` with the Day 1 publishing packet row and next action.
+
+### Current focus
+
+- Create Canva Card 1 from `EDUCATION-DAY-1-PUBLISHING-PACKET.md`.
+- Manually publish Day 1 posts when social accounts are ready.
+- Paste live links into `CAMPAIGN-PUBLISHING-TRACKER.md` after posting.
+
+### Safety notes
+
+- No live ads were added.
+- No payment setup was added.
+- No tracking scripts were added.
+- No private keys were added.
+- No scraped contact lists or private customer data were added.
+- Publishing remains manual until approved otherwise.
+
 ## 2026-06-02
 
 ### Added
