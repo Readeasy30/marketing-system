@@ -26,6 +26,16 @@ Introduce both free practice websites as one calm daily routine:
 
 ## Canva Card 1
 
+Status: Designed in Canva.
+
+Edit link:
+
+https://www.canva.com/d/cAqhrbhNDjRWro6
+
+View link:
+
+https://www.canva.com/d/-SG5XIl1Pp3v0jX
+
 Suggested file name:
 
 `readeasy30-matheasy30-card-1-calm-step.png`
@@ -116,13 +126,14 @@ Use only if posting manually to X, Threads, or another short-post platform.
 
 ## Manual publishing order
 
-1. Create Canva Card 1.
-2. Save the image using the suggested file name.
-3. Publish Facebook post manually.
-4. Publish LinkedIn post manually.
-5. Publish Pinterest pin manually.
-6. Copy the live links into `CAMPAIGN-PUBLISHING-TRACKER.md`.
-7. If a platform is not ready, mark it `Blocked` instead of repeating work.
+1. Open Canva Card 1: https://www.canva.com/d/cAqhrbhNDjRWro6
+2. Export image as PNG.
+3. Save the image using the suggested file name.
+4. Publish Facebook post manually.
+5. Publish LinkedIn post manually.
+6. Publish Pinterest pin manually.
+7. Copy the live links into `CAMPAIGN-PUBLISHING-TRACKER.md`.
+8. If a platform is not ready, mark it `Blocked` instead of repeating work.
 
 ## Tracker rows to add after posting
 
@@ -152,9 +163,4 @@ This Day 1 packet can be reused later for:
 
 ## Next packet
 
-After Day 1 is published or blocked, create Day 2 packet from:
-
-- `EDUCATION-FIRST-3-CANVA-CARDS.md` Card 2.
-- `EDUCATION-SOCIAL-POSTS-BATCH-01.md` Facebook Post 2.
-- `EDUCATION-SOCIAL-POSTS-BATCH-01.md` Reel Caption 1.
-- Destination pages listed in `EDUCATION-WEEK-1-MANUAL-QUEUE.md`.
+After Day 1 is published or blocked, use `EDUCATION-DAY-2-PUBLISHING-PACKET.md`.
