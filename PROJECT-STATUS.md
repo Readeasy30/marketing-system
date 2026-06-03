@@ -41,6 +41,34 @@ New marketing execution files:
 - `CAMPAIGN-PUBLISHING-TRACKER.md`
 - `CHANGELOG.md`
 
+## Education Marketing Activation Added
+
+Decision locked:
+
+- ReadEasy30 and MathEasy30 are now the active education marketing campaign.
+- The campaign name is `30 Minutes. One Calm Step.`
+- The sites already cross-link: ReadEasy30 links to MathEasy30, and MathEasy30 links to ReadEasy30.
+- Marketing activation now means publish-ready manual assets, Canva prompts, outreach rules, and campaign tracking.
+- It does not mean live ads, tracking scripts, payment setup, bulk email, scraping, or social-account automation.
+
+New education activation files:
+
+- `EDUCATION-MARKETING-ACTIVATION-BOARD.md`
+- `EDUCATION-SOCIAL-POSTS-BATCH-01.md`
+- `EDUCATION-CANVA-ACTIVATION-QUEUE.md`
+
+Updated activation tracking:
+
+- `CAMPAIGN-PUBLISHING-TRACKER.md`
+
+Current education activation queue:
+
+1. Create first 3 Canva graphics from `EDUCATION-CANVA-ACTIVATION-QUEUE.md`.
+2. Publish Day 1 Facebook, LinkedIn, and Pinterest copy from `EDUCATION-SOCIAL-POSTS-BATCH-01.md`.
+3. Produce education short videos 1 to 3 only using the Canva-first workflow.
+4. Continue safe contact-form outreach using `OUTREACH/DAILY-EXECUTION-RULES.md`.
+5. Record published links or blockers in `CAMPAIGN-PUBLISHING-TRACKER.md`.
+
 ## RestaurantAIbot Campaign Status
 
 Current focus:
@@ -134,17 +162,19 @@ BransonBlastUSA should use the shared avatar/video system from this repo, then s
 
 ## Current Safe Queue
 
-1. Use `RESTURANTS-AI-14-DAY-PUBLISHING-SCHEDULE.md` for the first owner-resource campaign push.
-2. Create Canva graphics from `RESTURANTS-AI-CANVA-GRAPHICS-QUEUE.md`.
-3. Publish platform posts from `RESTURANTS-AI-PLATFORM-POSTS-BATCH-01.md`.
-4. Track published assets in `CAMPAIGN-PUBLISHING-TRACKER.md`.
+1. Run the education marketing activation board: `EDUCATION-MARKETING-ACTIVATION-BOARD.md`.
+2. Create first 3 education Canva graphics from `EDUCATION-CANVA-ACTIVATION-QUEUE.md`.
+3. Publish Day 1 education posts from `EDUCATION-SOCIAL-POSTS-BATCH-01.md`.
+4. Track published education assets in `CAMPAIGN-PUBLISHING-TRACKER.md`.
 5. Continue ReadEasy30 + MathEasy30 outreach using `OUTREACH/DAILY-EXECUTION-RULES.md`.
 6. Produce the first 3 education short videos from `video-system/EDUCATION-YOUTUBE-SHORTS-BATCH-01.md`.
-7. Continue BransonBlastUSA static repo repair later: `script.js`, `robots.txt`, `sitemap.xml`, status files, and CSS completion if needed.
-8. Record blockers instead of stopping.
+7. Continue RestaurantAIbot owner-resource campaign after the education Day 1 push is logged.
+8. Continue BransonBlastUSA static repo repair later: `script.js`, `robots.txt`, `sitemap.xml`, status files, and CSS completion if needed.
+9. Record blockers instead of stopping.
 
 ## Current Blockers
 
+- External social publishing requires access to the owner’s actual social accounts or manual posting.
 - One outreach email to the national Head Start contact route was sent on 2026-06-02.
 - Gmail blocked direct send/draft attempts to two public library contact routes; use official contact forms/manual one-to-one route instead of repeated Gmail attempts.
 - The initial 10-video ffmpeg batch timed out; use script/metadata/Canva-first workflow and produce MP4s in smaller batches.
