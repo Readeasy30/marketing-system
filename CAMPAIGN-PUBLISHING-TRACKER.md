@@ -6,7 +6,7 @@ Use this file to track what has been prepared, published, improved, or blocked a
 
 ## Rule
 
-Track manually first. Do not add live analytics, tracking scripts, paid tools, or automated reporting until approved.
+Track manually first. Do not add live analytics, tracking scripts, paid tools, bulk posting, or automated reporting until approved.
 
 ## Status Labels
 
@@ -19,28 +19,40 @@ Track manually first. Do not add live analytics, tracking scripts, paid tools, o
 | Improved | Existing item was updated |
 | Blocked | Needs access, account setup, approval, or manual external action |
 | Paused | Intentionally stopped for now |
+| Needs edit | Asset exists but should be fixed before use |
 
-## Portfolio Campaign Tracker
+## Active Education Campaign — ReadEasy30 + MathEasy30
+
+Campaign: `30 Minutes. One Calm Step.`
+
+| Date | Asset | Status | Link / location | Next action |
+|---|---|---|---|---|
+| 2026-06-03 | Day 1 publishing packet | Drafted | `EDUCATION-DAY-1-PUBLISHING-PACKET.md` | Use Canva Card 1, then record live link or blocker |
+| 2026-06-03 | Day 2 publishing packet | Drafted | `EDUCATION-DAY-2-PUBLISHING-PACKET.md` | Use Canva Card 2 after Day 1 is handled |
+| 2026-06-03 | Day 3 publishing packet | Drafted | `EDUCATION-DAY-3-PUBLISHING-PACKET.md` | Use worksheet Canva pins |
+| 2026-06-03 | Day 4 publishing packet | Drafted | `EDUCATION-DAY-4-PUBLISHING-PACKET.md` | Use adult learner video or pin |
+| 2026-06-03 | Day 5 publishing packet | Drafted | `EDUCATION-DAY-5-PUBLISHING-PACKET.md` | Use safe community-helper contact-form workflow |
+| 2026-06-03 | Day 6 short-video packet | Drafted | `EDUCATION-DAY-6-SHORT-VIDEO-PUBLISHING-PACKET.md` | Export Video 01 first |
+| 2026-06-03 | Day 7 review packet | Drafted | `EDUCATION-DAY-7-REVIEW-PACKET.md` | Review before Week 2 |
+| 2026-06-03 | Canva Card 1 — 30 Minutes. One Calm Step. | Designed | Edit: https://www.canva.com/d/cAqhrbhNDjRWro6 / View: https://www.canva.com/d/-SG5XIl1Pp3v0jX | Export PNG for Day 1 |
+| 2026-06-03 | Canva Card 2 — Lower the pressure. | Designed | Edit: https://www.canva.com/d/PrELr6LCOOJT0i_ / View: https://www.canva.com/d/X8uTYcUsanr1DWZ | Export PNG for Day 2 |
+| 2026-06-03 | Canva Card 3 — Free Printable Practice | Blocked | Generator blocked twice | Use existing worksheet pins instead |
+| 2026-06-03 | Reading worksheet Canva pin | Designed | Edit: https://www.canva.com/d/PVjkU_ATm6Q09oz / View: https://www.canva.com/d/FcF81nTEXYQIppX | Export PNG for Day 3 |
+| 2026-06-03 | Math worksheet Canva pin | Designed | Edit: https://www.canva.com/d/lBw7RaAEKjPtwXf / View: https://www.canva.com/d/B7ucy3W0XxxWloz | Export PNG for Day 3 |
+| 2026-06-03 | Adult learner Canva pin | Designed | Edit: https://www.canva.com/d/JB9aEd-LIBv-KUN / View: https://www.canva.com/d/t-t02lxlrbW87dq | Export PNG for Day 4 |
+| 2026-06-03 | Video 01 Canva design | Designed | Edit: https://www.canva.com/d/-AsIThP__kPG-JB / View: https://www.canva.com/d/9HUPx5iVymvseJp | Export MP4 for Day 6 |
+| 2026-06-03 | Video 02 Canva design | Designed | Edit: https://www.canva.com/d/CHdtGIgLTPJko4X / View: https://www.canva.com/d/_xMb2jIFfsXHPVT | Export MP4 for Day 4 or Day 6 |
+| 2026-06-03 | Video 03 Canva design | Designed | Edit: https://www.canva.com/d/iQrsd0vGOFMaA-Z / View: https://www.canva.com/d/-tYwvw_4UsybNZs | Export MP4 for Day 6 |
+| 2026-06-03 | External social posting | Blocked | Requires owner account access/manual posting | Post manually, then paste live links here |
+| 2026-06-03 | Day 5 contact-form outreach | Planned | `EDUCATION-DAY-5-PUBLISHING-PACKET.md` | Submit 5 or fewer safe contact forms manually |
+
+## Other Active Portfolio Campaigns
 
 | Date | Project | Campaign | Asset | Status | Link / location | Next action |
 |---|---|---|---|---|---|---|
-| 2026-06-03 | ReadEasy30 + MathEasy30 | 30 Minutes. One Calm Step. | Canva Card 1 — 30 Minutes. One Calm Step. | Designed | Edit: https://www.canva.com/d/cAqhrbhNDjRWro6 / View: https://www.canva.com/d/-SG5XIl1Pp3v0jX | Review/export image, then publish Day 1 posts from `EDUCATION-DAY-1-PUBLISHING-PACKET.md` |
-| 2026-06-03 | ReadEasy30 + MathEasy30 | 30 Minutes. One Calm Step. | Canva Card 2 — Lower the pressure. | Designed | Edit: https://www.canva.com/d/PrELr6LCOOJT0i_ / View: https://www.canva.com/d/X8uTYcUsanr1DWZ | Review/export image, then use for parent/helper post |
-| 2026-06-03 | ReadEasy30 + MathEasy30 | 30 Minutes. One Calm Step. | Canva Card 3 — Free Printable Practice | Blocked | Canva prompt blocked twice; copy remains in `EDUCATION-FIRST-3-CANVA-CARDS.md` | Build manually in Canva from the copy, or retry later with a new template/manual design route |
-| 2026-06-03 | ReadEasy30 + MathEasy30 | 30 Minutes. One Calm Step. | Video 01 Canva design — Homework fight? Try this. | Designed | Edit: https://www.canva.com/d/-AsIThP__kPG-JB / View: https://www.canva.com/d/9HUPx5iVymvseJp | Review in Canva, export MP4, then post using `video-system/production-runs/2026-06-03-upload-captions-metadata.md` |
-| 2026-06-03 | ReadEasy30 + MathEasy30 | 30 Minutes. One Calm Step. | Video 02 Canva design — It is not too late. | Designed | Edit: https://www.canva.com/d/k0IFRsYF1txler_ / View: https://www.canva.com/d/yEeuRnu-QyUqz2s | Review in Canva, export MP4, then post using `video-system/production-runs/2026-06-03-upload-captions-metadata.md` |
-| 2026-06-03 | ReadEasy30 + MathEasy30 | 30 Minutes. One Calm Step. | Video 03 Canva design — Simple 30-minute learning routine. | Designed | Edit: https://www.canva.com/d/iQrsd0vGOFMaA-Z / View: https://www.canva.com/d/-tYwvw_4UsybNZs | Review in Canva, export MP4, then post using `video-system/production-runs/2026-06-03-upload-captions-metadata.md` |
-| 2026-06-03 | ReadEasy30 + MathEasy30 | 30 Minutes. One Calm Step. | Day 1 publishing packet | Drafted | `EDUCATION-DAY-1-PUBLISHING-PACKET.md` | Use Canva Card 1, manually post, then paste live links into tracker |
 | 2026-06-02 | RestaurantAIbot | Owner Resource Campaign | Owner resource pages | Published | `Wholelychit/restaurantaibot.com` | Promote with captions and Canva graphics |
 | 2026-06-02 | RestaurantAIbot | Owner Resource Campaign | Captions, video scripts, Canva prompts | Drafted | `RESTURANTS-AI-OWNER-RESOURCE-CAMPAIGN.md` | Create first 3 Canva graphics |
 | 2026-06-02 | Portfolio | Weekly execution board | Weekly marketing rotation | Drafted | `PORTFOLIO-WEEKLY-EXECUTION-BOARD.md` | Use for next weekly focus |
-| 2026-06-02 | ReadEasy30 + MathEasy30 | 30 Minutes. One Calm Step. | Education activation board | Drafted | `EDUCATION-MARKETING-ACTIVATION-BOARD.md` | Use as active publishing board |
-| 2026-06-02 | ReadEasy30 + MathEasy30 | 30 Minutes. One Calm Step. | Platform-ready social posts | Drafted | `EDUCATION-SOCIAL-POSTS-BATCH-01.md` | Use with week 1 manual queue |
-| 2026-06-02 | ReadEasy30 + MathEasy30 | 30 Minutes. One Calm Step. | Canva graphics queue | Designed | `EDUCATION-CANVA-ACTIVATION-QUEUE.md` | Create first 3 Canva graphics |
-| 2026-06-02 | ReadEasy30 + MathEasy30 | 30 Minutes. One Calm Step. | First 3 Canva card copy | Designed | `EDUCATION-FIRST-3-CANVA-CARDS.md` | Card 1 and Card 2 built; Card 3 blocked in Canva generator |
-| 2026-06-02 | ReadEasy30 + MathEasy30 | 30 Minutes. One Calm Step. | Week 1 manual queue | Drafted | `EDUCATION-WEEK-1-MANUAL-QUEUE.md` | Follow Day 1 through Day 7 order |
-| 2026-06-02 | ReadEasy30 + MathEasy30 | 30 Minutes. One Calm Step. | YouTube Shorts scripts and upload metadata | Drafted | `video-system/EDUCATION-YOUTUBE-SHORTS-BATCH-01.md` | Produce videos 1 to 3 only with Canva-first workflow |
-| 2026-06-02 | ReadEasy30 + MathEasy30 | Outreach | Contact-form outreach rules | Drafted | `OUTREACH/DAILY-EXECUTION-RULES.md` | Continue up to 5 safe contact-form submissions on active outreach days |
 
 ## Weekly Review Questions
 
@@ -49,70 +61,6 @@ Track manually first. Do not add live analytics, tracking scripts, paid tools, o
 3. What asset can be reused across another site?
 4. What caused delay or confusion?
 5. What is the next small useful action?
-
-## Project-Specific Tracking Notes
-
-### ReadEasy30
-
-Track:
-
-- parent/helper articles
-- short videos
-- Canva graphics
-- outreach routes
-- school/library/community contacts
-- homepage clarity improvements
-
-### MathEasy30
-
-Track:
-
-- sister-site cross-promotion assets
-- math confidence posts
-- practice habit videos
-- printable ideas
-- ReadEasy30 link opportunities
-
-### PetNeeds.ai
-
-Track:
-
-- pet category pages
-- safety-check language
-- family pet guides
-- unusual pet topics
-- local sponsor planning ideas
-
-### RestaurantAIbot / Resturants.ai
-
-Track:
-
-- owner resource pages
-- restaurant marketing captions
-- Canva checklist graphics
-- restaurant owner inquiries
-- sample audit templates
-- local restaurant content ideas
-
-### SlotsFreeUSA
-
-Track:
-
-- beginner guides
-- review support pages
-- responsible play pages
-- partner outreach prep
-- Canva/social assets
-
-### BransonBlastUSA
-
-Track:
-
-- visitor guide pages
-- local business content
-- event/trip planning ideas
-- Canva/travel graphics
-- local advertiser readiness
 
 ## Do Not Track Here
 
