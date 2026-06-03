@@ -29,6 +29,8 @@ Campaign: `30 Minutes. One Calm Step.`
 
 | Date | Asset | Status | Link / location | Next action |
 |---|---|---|---|---|
+| 2026-06-03 | Account readiness board | Drafted | `EDUCATION-BATCH-01-ACCOUNT-READINESS-BOARD.md` | Mark first ready channel or blocker |
+| 2026-06-03 | Canva export run sheet | Drafted | `EDUCATION-BATCH-01-CANVA-EXPORT-RUN-SHEET.md` | Export Card 1 first |
 | 2026-06-03 | Batch 01 posting log | Planned | `EDUCATION-BATCH-01-POSTING-LOG.md` | Update after every export, post, blocker, or pause |
 | 2026-06-03 | Batch 01 QA checklist | Drafted | `EDUCATION-BATCH-01-QA-CHECKLIST.md` | Use before posting/exporting |
 | 2026-06-03 | Batch 01 upload manifest | Drafted | `EDUCATION-BATCH-01-UPLOAD-MANIFEST.md` | Use as current upload checklist |
@@ -50,13 +52,13 @@ Campaign: `30 Minutes. One Calm Step.`
 
 | Date | Asset | Status | Link / location | Next action |
 |---|---|---|---|---|
-| 2026-06-03 | Card 1 PNG export | Designed | `readeasy30-matheasy30-card-1-calm-step.png` from Canva Card 1 | Export first, then post to Facebook or LinkedIn |
-| 2026-06-03 | Video 01 MP4 export | Designed | `readeasy30-matheasy30-video-01-homework-fight.mp4` from Video 01 | Export second, then post to first ready video platform |
-| 2026-06-03 | Reading worksheet pin PNG export | Designed | `readeasy30-free-printable-reading-worksheets.png` from worksheet pin | Export third, then post to Pinterest if ready |
-| 2026-06-03 | Math worksheet pin PNG export | Designed | `matheasy30-free-printable-math-worksheets.png` from worksheet pin | Export fourth, then post to Pinterest if ready |
-| 2026-06-03 | Adult learner pin PNG export | Designed | `readeasy30-matheasy30-practice-without-shame.png` from adult learner pin | Export fifth, then post to LinkedIn or Facebook |
-| 2026-06-03 | Video 02 MP4 export | Designed | `readeasy30-matheasy30-video-02-it-is-not-too-late.mp4` from Video 02 | Export after Video 01 is handled |
-| 2026-06-03 | Video 03 MP4 export | Designed | `readeasy30-matheasy30-video-03-30-minute-routine.mp4` from Video 03 | Export after Video 01 is handled |
+| 2026-06-03 | Card 1 PNG export | Designed | `01-readeasy30-matheasy30-card-1-calm-step.png` from Canva Card 1 | Export first, then post to Facebook or LinkedIn |
+| 2026-06-03 | Video 01 MP4 export | Designed | `02-readeasy30-matheasy30-video-01-homework-fight.mp4` from Video 01 | Export second, then post to first ready video platform |
+| 2026-06-03 | Reading worksheet pin PNG export | Designed | `03-readeasy30-free-printable-reading-worksheets.png` from worksheet pin | Export third, then post to Pinterest if ready |
+| 2026-06-03 | Math worksheet pin PNG export | Designed | `04-matheasy30-free-printable-math-worksheets.png` from worksheet pin | Export fourth, then post to Pinterest if ready |
+| 2026-06-03 | Adult learner pin PNG export | Designed | `05-readeasy30-matheasy30-practice-without-shame.png` from adult learner pin | Export fifth, then post to LinkedIn or Facebook |
+| 2026-06-03 | Video 02 MP4 export | Designed | `06-readeasy30-matheasy30-video-02-it-is-not-too-late.mp4` from Video 02 | Export after Video 01 is handled |
+| 2026-06-03 | Video 03 MP4 export | Designed | `07-readeasy30-matheasy30-video-03-30-minute-routine.mp4` from Video 03 | Export after Video 01 is handled |
 
 ### Prepared campaign files
 
