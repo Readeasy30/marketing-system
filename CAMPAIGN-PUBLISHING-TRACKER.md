@@ -30,6 +30,8 @@ Campaign: `30 Minutes. One Calm Step.`
 | Date | Asset | Status | Link / location | Next action |
 |---|---|---|---|---|
 | 2026-06-03 | Batch 01 Start Here index | Drafted | `EDUCATION-BATCH-01-START-HERE.md` | Open this first |
+| 2026-06-03 | Fallback upload package note | Drafted | `EDUCATION-BATCH-01-FALLBACK-UPLOAD-PACKAGE.md` | Use only if Canva export is slow or blocked |
+| 2026-06-03 | Fallback ZIP package | Designed | `ReadEasy30-MathEasy30-Batch-01-Upload-Package.zip` in ChatGPT sandbox | Download from current ChatGPT session if needed |
 | 2026-06-03 | First post clipboard | Drafted | `EDUCATION-BATCH-01-FIRST-POST-CLIPBOARD.md` | Use immediately after Card 1 export |
 | 2026-06-03 | First video clipboard | Drafted | `EDUCATION-BATCH-01-FIRST-VIDEO-CLIPBOARD.md` | Use immediately after Video 01 export |
 | 2026-06-03 | Worksheet pins clipboard | Drafted | `EDUCATION-BATCH-01-WORKSHEET-PINS-CLIPBOARD.md` | Use after worksheet pin exports |
@@ -93,11 +95,7 @@ Campaign: `30 Minutes. One Calm Step.`
 
 ## Other Active Portfolio Campaigns
 
-| Date | Project | Campaign | Asset | Status | Link / location | Next action |
-|---|---|---|---|---|---|---|
-| 2026-06-02 | RestaurantAIbot | Owner Resource Campaign | Owner resource pages | Published | `Wholelychit/restaurantaibot.com` | Promote with captions and Canva graphics |
-| 2026-06-02 | RestaurantAIbot | Owner Resource Campaign | Captions, video scripts, Canva prompts | Drafted | `RESTURANTS-AI-OWNER-RESOURCE-CAMPAIGN.md` | Create first 3 Canva graphics |
-| 2026-06-02 | Portfolio | Weekly execution board | Weekly marketing rotation | Drafted | `PORTFOLIO-WEEKLY-EXECUTION-BOARD.md` | Use for next weekly focus |
+Paused while Batch 01 education marketing is active.
 
 ## Weekly Review Questions
 
