@@ -59,8 +59,8 @@ Use fallback assets only for ReadEasy30 + MathEasy30 Batch 01.
 
 | Date | Platform | Asset | Status | Live link / blocker | Next action |
 |---|---|---|---|---|---|
-| 2026-06-03 | Facebook or LinkedIn | Card 1 launch post | Planned | Add live link or blocker | Post first |
-| 2026-06-03 | YouTube Shorts / Reels / TikTok | Video 01 | Planned | Add live link or blocker | Post second |
+| 2026-06-03 | Facebook or LinkedIn | Card 1 launch post | Blocked | Requires owner social-account access/manual posting | Post Card 1 manually, then paste live link into this log |
+| 2026-06-03 | YouTube Shorts / Reels / TikTok | Video 01 | Planned | Add live link or blocker | Post second after Card 1 is live or blocked |
 | 2026-06-03 | Pinterest | Reading worksheet pin | Planned | Add live link or blocker | Post third if Pinterest ready |
 | 2026-06-03 | Pinterest | Math worksheet pin | Planned | Add live link or blocker | Post fourth if Pinterest ready |
 | 2026-06-03 | Facebook or LinkedIn | Adult learner pin | Planned | Add live link or blocker | Post fifth |
@@ -83,6 +83,12 @@ Use:
 - `EDUCATION-LIVE-POSTING-KIT-2026-06-03.md`
 - `EDUCATION-DAY-6-SHORT-VIDEO-PUBLISHING-PACKET.md`
 - `video-system/production-runs/2026-06-03-upload-captions-metadata.md`
+
+## Current blocker
+
+Card 1 cannot be posted from this repo/chat because external social accounts require owner login and manual posting.
+
+This is not a content blocker. The asset and copy are ready.
 
 ## Update path after each action
 
@@ -107,6 +113,6 @@ Use direct, simple notes:
 
 ## Done definition
 
-Batch 01 has started because fallback assets are now marked `Exported`.
+Batch 01 has started because fallback assets are now marked `Exported` and Card 1 posting is marked `Blocked` pending owner account access.
 
 Batch 01 is ready for manual posting to the first ready account.
