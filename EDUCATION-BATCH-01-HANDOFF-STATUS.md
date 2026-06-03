@@ -25,12 +25,19 @@ Do not work on other projects until Batch 01 is posted, paused, or intentionally
 - Posting log is updated.
 - Project status is locked to this campaign.
 - Email was sent to `wholelychit@gmail.com` with the next posting step.
+- Manual posting steps were created.
 
 ## Current blocker
 
 The first public post cannot be completed from the repo/chat because it requires manual social-account access.
 
 This is not a content blocker.
+
+## Open this for click-by-click posting
+
+```text
+EDUCATION-BATCH-01-MANUAL-POSTING-STEPS.md
+```
 
 ## Next single action
 
