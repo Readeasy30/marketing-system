@@ -8,7 +8,28 @@ Purpose: One front door for Batch 01 execution.
 
 ## Main rule
 
-Do not create more marketing assets until Batch 01 is exported, posted, blocked, or paused.
+Do not create more marketing assets until Batch 01 is posted, blocked, paused, or intentionally moved forward.
+
+## Current handoff
+
+Open first:
+
+```text
+EDUCATION-BATCH-01-HANDOFF-STATUS.md
+```
+
+Current status:
+
+- Fallback assets are exported.
+- Posting copy is ready.
+- Email handoff was sent to `wholelychit@gmail.com`.
+- Card 1 public posting is blocked only by owner social-account access.
+
+Next single action:
+
+```text
+Post Card 1 manually, then paste the live link back into ChatGPT.
+```
 
 ## Step 1 — Check accounts
 
