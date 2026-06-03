@@ -28,15 +28,24 @@ Best order:
 4. TikTok
 5. X later
 
-## Step 2 — Export assets
+## Step 2 — Choose asset source
 
-Open:
+Preferred source:
 
 ```text
 EDUCATION-BATCH-01-CANVA-EXPORT-RUN-SHEET.md
 ```
 
-Export in this order:
+Fallback source if Canva export is slow or blocked:
+
+```text
+EDUCATION-BATCH-01-FALLBACK-UPLOAD-PACKAGE.md
+ReadEasy30-MathEasy30-Batch-01-Upload-Package.zip
+```
+
+## Step 3 — Export or use upload assets
+
+Use these assets in this order:
 
 ```text
 01-readeasy30-matheasy30-card-1-calm-step.png
@@ -48,7 +57,7 @@ Export in this order:
 07-readeasy30-matheasy30-video-03-30-minute-routine.mp4
 ```
 
-## Step 3 — QA before posting
+## Step 4 — QA before posting
 
 Open:
 
@@ -64,7 +73,7 @@ Do not post if:
 - the copy promises guaranteed results
 - a platform asks for paid ads, tracking, or automation
 
-## Step 4 — Use the quick clipboards
+## Step 5 — Use the quick clipboards
 
 Use these before digging into longer platform packets:
 
@@ -76,7 +85,7 @@ EDUCATION-BATCH-01-ADULT-LEARNER-CLIPBOARD.md
 EDUCATION-BATCH-01-OPTIONAL-VIDEOS-CLIPBOARD.md
 ```
 
-## Step 5 — Choose the platform packet if needed
+## Step 6 — Choose the platform packet if needed
 
 Use the matching packet:
 
@@ -87,7 +96,7 @@ EDUCATION-BATCH-01-YOUTUBE-SHORTS-PACKET.md
 EDUCATION-BATCH-01-REELS-TIKTOK-PACKET.md
 ```
 
-## Step 6 — Log the result
+## Step 7 — Log the result
 
 After every export, post, blocker, or pause, update:
 
