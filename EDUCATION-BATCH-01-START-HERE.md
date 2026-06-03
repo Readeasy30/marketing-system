@@ -54,6 +54,7 @@ Open:
 
 ```text
 EDUCATION-BATCH-01-QA-CHECKLIST.md
+EDUCATION-BATCH-01-LIVE-LINK-QA.md
 ```
 
 Do not post if:
@@ -111,6 +112,28 @@ First video asset:
 ```text
 02-readeasy30-matheasy30-video-01-homework-fight.mp4
 ```
+
+## Approved Batch 01 links
+
+Live-link QA file:
+
+```text
+EDUCATION-BATCH-01-LIVE-LINK-QA.md
+```
+
+Approved links:
+
+```text
+https://readeasy30.com/
+https://matheasy30.com/
+https://readeasy30.com/app.html
+https://matheasy30.com/app.html
+https://readeasy30.com/printable-reading-worksheets.html
+https://matheasy30.com/printable-math-worksheets.html
+https://readeasy30.com/adult-reading-practice-without-shame.html
+```
+
+If a deep link fails during manual posting, use the homepage backup and record the blocker.
 
 ## Safety lock
 
