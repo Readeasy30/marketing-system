@@ -37,6 +37,15 @@ Campaign: `30 Minutes. One Calm Step.`
 | 2026-06-03 | Social account setup checklist | Drafted | `EDUCATION-SOCIAL-ACCOUNT-SETUP-CHECKLIST.md` | Mark accounts ready, blocked, or skipped |
 | 2026-06-03 | Tracker update block | Drafted | `EDUCATION-TRACKER-UPDATE-BLOCK.md` | Copy rows after each post/export/blocker |
 
+### Batch 01 platform packets
+
+| Date | Platform packet | Status | Link / location | Next action |
+|---|---|---|---|---|
+| 2026-06-03 | Facebook + LinkedIn packet | Drafted | `EDUCATION-BATCH-01-FACEBOOK-LINKEDIN-PACKET.md` | Use for Card 1 and adult learner posts |
+| 2026-06-03 | Pinterest packet | Drafted | `EDUCATION-BATCH-01-PINTEREST-PACKET.md` | Use for worksheet and campaign pins |
+| 2026-06-03 | YouTube Shorts packet | Drafted | `EDUCATION-BATCH-01-YOUTUBE-SHORTS-PACKET.md` | Use for Videos 01 to 03 |
+| 2026-06-03 | Reels + TikTok packet | Drafted | `EDUCATION-BATCH-01-REELS-TIKTOK-PACKET.md` | Use for Instagram Reels, Facebook Reels, and TikTok |
+
 ### Batch 01 asset queue
 
 | Date | Asset | Status | Link / location | Next action |
