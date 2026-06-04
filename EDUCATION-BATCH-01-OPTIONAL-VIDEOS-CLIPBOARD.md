@@ -1,6 +1,6 @@
 # Education Batch 01 Optional Videos Clipboard
 
-Last updated: 2026-06-03
+Last updated: 2026-06-04
 
 Campaign: **ReadEasy30 + MathEasy30 — 30 Minutes. One Calm Step.**
 
@@ -8,7 +8,7 @@ Purpose: One-screen copy for optional Batch 01 Videos 02 and 03.
 
 ## Use after core Batch 01 assets
 
-Use this after these are exported, posted, blocked, or paused:
+Use this after these are posted, blocked, or paused:
 
 ```text
 01-readeasy30-matheasy30-card-1-calm-step.png
@@ -18,18 +18,18 @@ Use this after these are exported, posted, blocked, or paused:
 05-readeasy30-matheasy30-practice-without-shame.png
 ```
 
+Main campaign link:
+
+```text
+https://readeasy30.com/free-reading-and-math-practice.html
+```
+
 ## Video 02 — It is not too late
 
 Asset:
 
 ```text
 06-readeasy30-matheasy30-video-02-it-is-not-too-late.mp4
-```
-
-Source Canva:
-
-```text
-https://www.canva.com/d/CHdtGIgLTPJko4X
 ```
 
 YouTube Shorts title:
@@ -43,9 +43,8 @@ YouTube Shorts description:
 ```text
 It is never too late to practice reading or math. Start with short lessons. Move slowly. One calm step today is still progress.
 
-Free practice:
-https://readeasy30.com/
-https://matheasy30.com/
+Free calm practice:
+https://readeasy30.com/free-reading-and-math-practice.html
 
 #AdultLearning #ESLLearners #ReadingPractice #MathPractice #NoShameLearning
 ```
@@ -53,7 +52,7 @@ https://matheasy30.com/
 Reels / TikTok caption:
 
 ```text
-It is not too late. Start small. Move slowly. One calm step today is still progress. Free reading and math practice: ReadEasy30.com + MathEasy30.com
+It is not too late. Start small. Move slowly. One calm step today is still progress. Free reading and math practice: readeasy30.com/free-reading-and-math-practice.html
 ```
 
 Hashtags:
@@ -70,12 +69,6 @@ Asset:
 07-readeasy30-matheasy30-video-03-30-minute-routine.mp4
 ```
 
-Source Canva:
-
-```text
-https://www.canva.com/d/iQrsd0vGOFMaA-Z
-```
-
 YouTube Shorts title:
 
 ```text
@@ -88,8 +81,7 @@ YouTube Shorts description:
 Try this simple routine: 10 minutes reading, 10 minutes math, 10 minutes checking answers and talking through mistakes. Keep it calm and come back tomorrow.
 
 Free practice:
-https://readeasy30.com/app.html
-https://matheasy30.com/app.html
+https://readeasy30.com/free-reading-and-math-practice.html
 
 #ThirtyMinutePractice #ReadingHelp #MathHelp #HomeschoolHelp #FreeWorksheets
 ```
@@ -97,7 +89,7 @@ https://matheasy30.com/app.html
 Reels / TikTok caption:
 
 ```text
-Try this: 10 minutes reading, 10 minutes math, 10 minutes checking answers and talking through mistakes. Free practice: ReadEasy30.com + MathEasy30.com
+Try this: 10 minutes reading, 10 minutes math, 10 minutes checking answers and talking through mistakes. Free practice: readeasy30.com/free-reading-and-math-practice.html
 ```
 
 Hashtags:
@@ -119,27 +111,18 @@ Use the first ready video platform:
 
 - Video plays start to finish.
 - Text is readable on a phone.
-- Caption includes approved links.
+- Caption includes the campaign landing page.
 - No guaranteed-result claims.
 - No shame language.
 - No paid ad, tracking, affiliate, scraping, or automation language.
-
-## After export rows
-
-Copy into `EDUCATION-BATCH-01-POSTING-LOG.md` if exported:
-
-```md
-| 6 | Video 02 — It is not too late. | `06-readeasy30-matheasy30-video-02-it-is-not-too-late.mp4` | Exported | Ready for optional adult learner video upload |
-| 7 | Video 03 — 30-minute routine | `07-readeasy30-matheasy30-video-03-30-minute-routine.mp4` | Exported | Ready for optional routine video upload |
-```
 
 ## After upload rows
 
 Copy into `EDUCATION-BATCH-01-POSTING-LOG.md` after upload:
 
 ```md
-| 2026-06-03 | YouTube Shorts / Reels / TikTok | Video 02 adult learner | Posted | PASTE-LIVE-LINK-HERE | Batch 01 video 02 posted |
-| 2026-06-03 | YouTube Shorts / Reels / TikTok | Video 03 30-minute routine | Posted | PASTE-LIVE-LINK-HERE | Batch 01 video 03 posted |
+| 2026-06-04 | YouTube Shorts / Reels / TikTok | Video 02 adult learner | Posted | PASTE-LIVE-LINK-HERE | Batch 01 video 02 posted |
+| 2026-06-04 | YouTube Shorts / Reels / TikTok | Video 03 30-minute routine | Posted | PASTE-LIVE-LINK-HERE | Batch 01 video 03 posted |
 ```
 
 ## Tracker rows
@@ -147,8 +130,8 @@ Copy into `EDUCATION-BATCH-01-POSTING-LOG.md` after upload:
 Copy into `CAMPAIGN-PUBLISHING-TRACKER.md` after upload:
 
 ```md
-| 2026-06-03 | ReadEasy30 + MathEasy30 | 30 Minutes. One Calm Step. | Video 02 adult learner | Published | PASTE-LIVE-LINK-HERE | Reuse for adult learner audience |
-| 2026-06-03 | ReadEasy30 + MathEasy30 | 30 Minutes. One Calm Step. | Video 03 30-minute routine | Published | PASTE-LIVE-LINK-HERE | Reuse for daily routine audience |
+| 2026-06-04 | ReadEasy30 + MathEasy30 | 30 Minutes. One Calm Step. | Video 02 adult learner | Published | PASTE-LIVE-LINK-HERE | Reuse for adult learner audience |
+| 2026-06-04 | ReadEasy30 + MathEasy30 | 30 Minutes. One Calm Step. | Video 03 30-minute routine | Published | PASTE-LIVE-LINK-HERE | Reuse for daily routine audience |
 ```
 
 ## If blocked
@@ -156,7 +139,7 @@ Copy into `CAMPAIGN-PUBLISHING-TRACKER.md` after upload:
 Use this row:
 
 ```md
-| 2026-06-03 | YouTube Shorts / Reels / TikTok | Optional videos 02 and 03 | Blocked | Video account not ready | Pause optional videos until account is ready |
+| 2026-06-04 | YouTube Shorts / Reels / TikTok | Optional videos 02 and 03 | Blocked | Video account not ready | Pause optional videos until account is ready |
 ```
 
 ## Done definition
