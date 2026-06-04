@@ -32,6 +32,12 @@ Campaign: `30 Minutes. One Calm Step.`
 |---|---|---|---|---|
 | 2026-06-04 | Education Marketing Day 01 command file | Drafted | `EDUCATION-MARKETING-DAY-01-2026-06-04.md` | Use as today command center |
 | 2026-06-04 | 100 percent launch checklist | Drafted | `EDUCATION-MARKETING-100-PERCENT-LAUNCH-CHECKLIST.md` | Use to finish launch push |
+| 2026-06-04 | Campaign landing page — ReadEasy30 | Published | `https://readeasy30.com/free-reading-and-math-practice.html` | Use as main all-purpose campaign link |
+| 2026-06-04 | Campaign landing page — MathEasy30 | Published | `https://matheasy30.com/free-reading-and-math-practice.html` | Use as math-side campaign backup |
+| 2026-06-04 | ReadEasy30 sitemap | Improved | `Wholelychit/readeasy30.com/sitemap.xml` | Campaign page added |
+| 2026-06-04 | ReadEasy30 homepage links | Improved | `Wholelychit/readeasy30.com/index.html` | Campaign page linked in nav, hero, callout, resources, CTA, footer |
+| 2026-06-04 | MathEasy30 homepage links | Improved | `Wholelychit/matheasy30.com/index.html` | Campaign page linked in nav, hero, callout, sister-site section, footer |
+| 2026-06-04 | MathEasy30 sitemap | Blocked | Connector safety blocked update | Leave page discoverable through homepage links |
 | 2026-06-04 | Account readiness board | Improved | `EDUCATION-BATCH-01-ACCOUNT-READINESS-BOARD.md` | One social account still needs login/manual access |
 | 2026-06-04 | Batch 01 posting log | Improved | `EDUCATION-BATCH-01-POSTING-LOG.md` | Post Card 1 when account access is ready |
 | 2026-06-04 | External social posting | Blocked | Requires owner login/manual posting | Post Card 1 manually, then paste live link back into ChatGPT |
