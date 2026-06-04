@@ -50,26 +50,61 @@ Decision locked:
 
 - ReadEasy30 and MathEasy30 are the active education marketing campaign.
 - Campaign name: `30 Minutes. One Calm Step.`
-- The sites already cross-link: ReadEasy30 links to MathEasy30, and MathEasy30 links to ReadEasy30.
-- Marketing activation means publish-ready manual assets, Canva designs, outreach rules, video scripts, avatar assets, and campaign tracking.
+- Main campaign link: `https://readeasy30.com/free-reading-and-math-practice.html`
+- Marketing activation means publish-ready manual assets, Canva designs, outreach rules, video scripts, avatar assets, landing pages, and campaign tracking.
 - It does not mean live ads, tracking scripts, payment setup, bulk email, scraping, or social-account automation.
 
-## Batch 01 Command Path
+## Current Batch 01 Launch State
 
-Open first:
+Completed today:
 
-1. `EDUCATION-MARKETING-DAY-01-2026-06-04.md` — today command file.
-2. `EDUCATION-BATCH-01-START-HERE.md` — points to the whole Batch 01 workflow.
-3. `EDUCATION-BATCH-01-ACCOUNT-READINESS-BOARD.md` — mark first ready social channel or blocker.
-4. `EDUCATION-BATCH-01-FALLBACK-UPLOAD-PACKAGE.md` — fallback ZIP package note if Canva export is slow or blocked.
-5. `EDUCATION-BATCH-01-CANVA-EXPORT-RUN-SHEET.md` — preferred Canva export path.
-6. `EDUCATION-BATCH-01-QA-CHECKLIST.md` — check links, readability, tone, and safety before posting.
-7. `EDUCATION-BATCH-01-POSTING-LOG.md` — record exports, posts, blockers, and pauses.
-8. `CAMPAIGN-PUBLISHING-TRACKER.md` — master tracker.
+- `EDUCATION-MARKETING-DAY-01-2026-06-04.md` created.
+- `EDUCATION-MARKETING-100-PERCENT-LAUNCH-CHECKLIST.md` created.
+- `EDUCATION-BATCH-01-POST-SEQUENCE-NOW.md` created.
+- `EDUCATION-BATCH-01-START-HERE.md` updated to open the current posting sequence first.
+- ReadEasy30 campaign landing page created.
+- MathEasy30 campaign landing page created.
+- ReadEasy30 sitemap updated with campaign landing page.
+- ReadEasy30 homepage links updated to promote campaign landing page.
+- MathEasy30 homepage links updated to promote campaign landing page.
+- All Batch 01 quick clipboard files updated to use the campaign landing page where useful.
+- Campaign tracker updated with homepage and landing-page support work.
+- Posting log updated with social-account blocker state.
+- Account readiness board updated.
+
+## Open First Now
+
+Use this as the first operational file:
+
+```text
+EDUCATION-BATCH-01-POST-SEQUENCE-NOW.md
+```
+
+Then use the matching quick clipboard:
+
+```text
+EDUCATION-BATCH-01-FIRST-POST-CLIPBOARD.md
+EDUCATION-BATCH-01-FIRST-VIDEO-CLIPBOARD.md
+EDUCATION-BATCH-01-WORKSHEET-PINS-CLIPBOARD.md
+EDUCATION-BATCH-01-ADULT-LEARNER-CLIPBOARD.md
+EDUCATION-BATCH-01-OPTIONAL-VIDEOS-CLIPBOARD.md
+```
+
+## Batch 01 Posting Order
+
+```text
+01-readeasy30-matheasy30-card-1-calm-step.png
+02-readeasy30-matheasy30-video-01-homework-fight.mp4
+03-readeasy30-free-printable-reading-worksheets.png
+04-matheasy30-free-printable-math-worksheets.png
+05-readeasy30-matheasy30-practice-without-shame.png
+06-readeasy30-matheasy30-video-02-it-is-not-too-late.mp4
+07-readeasy30-matheasy30-video-03-30-minute-routine.mp4
+```
 
 ## Fallback Upload Package
 
-A fallback upload ZIP was created in the prior ChatGPT session:
+A fallback upload ZIP was created in a prior ChatGPT session:
 
 ```text
 ReadEasy30-MathEasy30-Batch-01-Upload-Package.zip
@@ -90,36 +125,6 @@ Included fallback files:
 POSTING-COPY.txt
 manifest.json
 ```
-
-## Quick Clipboards
-
-Use these before digging into longer platform packets:
-
-```text
-EDUCATION-BATCH-01-FIRST-POST-CLIPBOARD.md
-EDUCATION-BATCH-01-FIRST-VIDEO-CLIPBOARD.md
-EDUCATION-BATCH-01-WORKSHEET-PINS-CLIPBOARD.md
-EDUCATION-BATCH-01-ADULT-LEARNER-CLIPBOARD.md
-EDUCATION-BATCH-01-OPTIONAL-VIDEOS-CLIPBOARD.md
-```
-
-## Platform Packets
-
-- `EDUCATION-BATCH-01-FACEBOOK-LINKEDIN-PACKET.md`
-- `EDUCATION-BATCH-01-PINTEREST-PACKET.md`
-- `EDUCATION-BATCH-01-YOUTUBE-SHORTS-PACKET.md`
-- `EDUCATION-BATCH-01-REELS-TIKTOK-PACKET.md`
-
-## Supporting Execution Files
-
-- `EDUCATION-MARKETING-DAY-01-2026-06-04.md`
-- `TONIGHT-EDUCATION-MARKETING-ACTION-PLAN.md`
-- `EDUCATION-BATCH-01-UPLOAD-MANIFEST.md`
-- `EDUCATION-LIVE-POSTING-KIT-2026-06-03.md`
-- `EDUCATION-SOCIAL-ACCOUNT-SETUP-CHECKLIST.md`
-- `EDUCATION-TRACKER-UPDATE-BLOCK.md`
-- `CODEX-EDUCATION-MARKETING-EXECUTION-TASK.md`
-- `EDUCATION-BATCH-01-LIVE-LINK-QA.md`
 
 ## Website Repo Markers
 
@@ -175,20 +180,20 @@ Reading + Math Practice Without Shame for Everyone
 
 ## Current Safe Queue
 
-1. Open `EDUCATION-MARKETING-DAY-01-2026-06-04.md` first.
-2. Check `EDUCATION-BATCH-01-ACCOUNT-READINESS-BOARD.md`.
-3. Use Canva export or fallback ZIP package.
-4. Post Card 1 to the first ready channel.
-5. Update `EDUCATION-BATCH-01-POSTING-LOG.md`.
-6. Update `CAMPAIGN-PUBLISHING-TRACKER.md`.
-7. Continue only with Batch 01 assets until all are exported, posted, blocked, or paused.
+1. Open `EDUCATION-BATCH-01-POST-SEQUENCE-NOW.md`.
+2. Open the matching quick clipboard for the next asset.
+3. Post or mark blocked/paused.
+4. Update `EDUCATION-BATCH-01-POSTING-LOG.md`.
+5. Update `CAMPAIGN-PUBLISHING-TRACKER.md`.
+6. Continue only with Batch 01 assets until all are posted, blocked, or paused.
 
 ## Current Blockers
 
 - External social publishing requires access to Gerry’s actual social accounts or manual posting by Gerry.
 - Canva direct export from the connector is not reliable here, so fallback upload assets were created.
 - Card 3 Canva generation was blocked twice; use existing worksheet pins or fallback worksheet assets instead.
-- Manual browser QA is still required immediately before public posting.
+- MathEasy30 sitemap update was blocked by connector safety; the campaign page is still discoverable from the homepage.
+- Manual browser QA is still recommended immediately before public posting.
 
 ## Safety Lock
 
