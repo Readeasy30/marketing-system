@@ -1,6 +1,6 @@
 # Education Batch 01 First Post Clipboard
 
-Last updated: 2026-06-03
+Last updated: 2026-06-04
 
 Campaign: **ReadEasy30 + MathEasy30 — 30 Minutes. One Calm Step.**
 
@@ -8,16 +8,23 @@ Purpose: One-screen copy for the first public Batch 01 post.
 
 ## Use first
 
-Post this after exporting:
+Post this asset:
 
 ```text
 01-readeasy30-matheasy30-card-1-calm-step.png
 ```
 
-Source Canva:
+Use this as the main link:
 
 ```text
-https://www.canva.com/d/cAqhrbhNDjRWro6
+https://readeasy30.com/free-reading-and-math-practice.html
+```
+
+Backup links:
+
+```text
+https://readeasy30.com/
+https://matheasy30.com/
 ```
 
 ## Best first platforms
@@ -37,10 +44,9 @@ They need a calm place to practice one small skill at a time.
 
 ReadEasy30 helps with reading practice. MathEasy30 helps with math practice. Both are free, simple, and built for short daily lessons.
 
-Try 30 minutes a day: read a little, solve a little, review calmly.
+Try one calm 30-minute routine for reading and math.
 
-Reading: https://readeasy30.com/
-Math: https://matheasy30.com/
+Start here: https://readeasy30.com/free-reading-and-math-practice.html
 ```
 
 ## LinkedIn copy
@@ -52,8 +58,7 @@ ReadEasy30 and MathEasy30 are free daily-practice websites built for reading and
 
 The goal is not pressure. The goal is steady practice.
 
-ReadEasy30: https://readeasy30.com/
-MathEasy30: https://matheasy30.com/
+Start here: https://readeasy30.com/free-reading-and-math-practice.html
 ```
 
 ## Pinterest backup
@@ -73,33 +78,24 @@ Help learners build reading and math confidence with calm daily practice. Free t
 Destination:
 
 ```text
-https://readeasy30.com/
+https://readeasy30.com/free-reading-and-math-practice.html
 ```
 
 ## Quick QA before posting
 
 - Image is attached.
 - Text is readable.
-- Reading link is included.
-- Math link is included.
+- Campaign landing page link is included.
 - Copy says free practice.
 - No guaranteed-result claims.
 - No ads, payments, affiliate links, tracking, scraping, or automation.
-
-## After export row
-
-Copy into `EDUCATION-BATCH-01-POSTING-LOG.md` if Card 1 is exported:
-
-```md
-| 1 | Card 1 — 30 Minutes. One Calm Step. | `01-readeasy30-matheasy30-card-1-calm-step.png` | Exported | Ready for first public post |
-```
 
 ## After post row
 
 Copy into `EDUCATION-BATCH-01-POSTING-LOG.md` after posting:
 
 ```md
-| 2026-06-03 | Facebook or LinkedIn | Card 1 launch post | Posted | PASTE-LIVE-LINK-HERE | Export Video 01 next |
+| 2026-06-04 | Facebook or LinkedIn | Card 1 launch post | Posted | PASTE-LIVE-LINK-HERE | Post Video 01 next |
 ```
 
 ## Tracker row
@@ -107,7 +103,7 @@ Copy into `EDUCATION-BATCH-01-POSTING-LOG.md` after posting:
 Copy into `CAMPAIGN-PUBLISHING-TRACKER.md` after posting:
 
 ```md
-| 2026-06-03 | ReadEasy30 + MathEasy30 | 30 Minutes. One Calm Step. | Card 1 launch post | Published | PASTE-LIVE-LINK-HERE | Export Video 01 next |
+| 2026-06-04 | ReadEasy30 + MathEasy30 | 30 Minutes. One Calm Step. | Card 1 launch post | Published | PASTE-LIVE-LINK-HERE | Post Video 01 next |
 ```
 
 ## If blocked
@@ -115,13 +111,14 @@ Copy into `CAMPAIGN-PUBLISHING-TRACKER.md` after posting:
 Use this row:
 
 ```md
-| 2026-06-03 | Facebook or LinkedIn | Card 1 launch post | Blocked | Account/page not ready | Use next ready platform or mark account setup needed |
+| 2026-06-04 | Facebook or LinkedIn | Card 1 launch post | Blocked | Account/page not ready | Use next ready platform or mark account setup needed |
 ```
 
 ## Next after first post
 
-Export:
+Use:
 
 ```text
 02-readeasy30-matheasy30-video-01-homework-fight.mp4
+EDUCATION-BATCH-01-FIRST-VIDEO-CLIPBOARD.md
 ```
