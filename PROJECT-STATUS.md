@@ -1,6 +1,6 @@
 # Project Status
 
-Last updated: 2026-06-03
+Last updated: 2026-06-04
 
 This file tracks the current safe marketing-system queue.
 
@@ -14,7 +14,31 @@ ReadEasy30 + MathEasy30 Batch 01
 
 Do not work on SlotsFreeUSA, PetNeeds.ai, RestaurantAIbot, BransonBlastUSA, or any other project while Batch 01 is active.
 
+## Day 01 Start
+
+Official marketing-system use starts today:
+
+```text
+2026-06-04
+```
+
+Day 01 command file:
+
+```text
+EDUCATION-MARKETING-DAY-01-2026-06-04.md
+```
+
+Unlocked repos for this campaign:
+
+```text
+Wholelychit/marketing-system
+Wholelychit/readeasy30.com
+Wholelychit/matheasy30.com
+```
+
 ## Current Workflow Decision
+
+`Wholelychit/marketing-system` is the command center for ReadEasy30 + MathEasy30 marketing.
 
 Codex is the primary workflow for routine repository edits.
 
@@ -34,17 +58,18 @@ Decision locked:
 
 Open first:
 
-1. `EDUCATION-BATCH-01-START-HERE.md` — first file to open; points to the whole Batch 01 workflow.
-2. `EDUCATION-BATCH-01-ACCOUNT-READINESS-BOARD.md` — mark first ready social channel or blocker.
-3. `EDUCATION-BATCH-01-FALLBACK-UPLOAD-PACKAGE.md` — fallback ZIP package note if Canva export is slow or blocked.
-4. `EDUCATION-BATCH-01-CANVA-EXPORT-RUN-SHEET.md` — preferred Canva export path.
-5. `EDUCATION-BATCH-01-QA-CHECKLIST.md` — check links, readability, tone, and safety before posting.
-6. `EDUCATION-BATCH-01-POSTING-LOG.md` — record exports, posts, blockers, and pauses.
-7. `CAMPAIGN-PUBLISHING-TRACKER.md` — master tracker.
+1. `EDUCATION-MARKETING-DAY-01-2026-06-04.md` — today command file.
+2. `EDUCATION-BATCH-01-START-HERE.md` — points to the whole Batch 01 workflow.
+3. `EDUCATION-BATCH-01-ACCOUNT-READINESS-BOARD.md` — mark first ready social channel or blocker.
+4. `EDUCATION-BATCH-01-FALLBACK-UPLOAD-PACKAGE.md` — fallback ZIP package note if Canva export is slow or blocked.
+5. `EDUCATION-BATCH-01-CANVA-EXPORT-RUN-SHEET.md` — preferred Canva export path.
+6. `EDUCATION-BATCH-01-QA-CHECKLIST.md` — check links, readability, tone, and safety before posting.
+7. `EDUCATION-BATCH-01-POSTING-LOG.md` — record exports, posts, blockers, and pauses.
+8. `CAMPAIGN-PUBLISHING-TRACKER.md` — master tracker.
 
 ## Fallback Upload Package
 
-A fallback upload ZIP was created in the current ChatGPT session:
+A fallback upload ZIP was created in the prior ChatGPT session:
 
 ```text
 ReadEasy30-MathEasy30-Batch-01-Upload-Package.zip
@@ -87,6 +112,7 @@ EDUCATION-BATCH-01-OPTIONAL-VIDEOS-CLIPBOARD.md
 
 ## Supporting Execution Files
 
+- `EDUCATION-MARKETING-DAY-01-2026-06-04.md`
 - `TONIGHT-EDUCATION-MARKETING-ACTION-PLAN.md`
 - `EDUCATION-BATCH-01-UPLOAD-MANIFEST.md`
 - `EDUCATION-LIVE-POSTING-KIT-2026-06-03.md`
@@ -149,7 +175,7 @@ Reading + Math Practice Without Shame for Everyone
 
 ## Current Safe Queue
 
-1. Open `EDUCATION-BATCH-01-START-HERE.md` first.
+1. Open `EDUCATION-MARKETING-DAY-01-2026-06-04.md` first.
 2. Check `EDUCATION-BATCH-01-ACCOUNT-READINESS-BOARD.md`.
 3. Use Canva export or fallback ZIP package.
 4. Post Card 1 to the first ready channel.
