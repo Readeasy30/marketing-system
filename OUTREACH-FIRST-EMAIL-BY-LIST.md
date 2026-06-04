@@ -4,6 +4,12 @@ Last updated: 2026-06-04
 
 Campaign: **ReadEasy30 + MathEasy30**
 
+Campaign reply email:
+
+```text
+free@readeasy30.com
+```
+
 Subject:
 
 ```text
@@ -39,6 +45,7 @@ If this fits your learners, families, patrons, or program staff, you are welcome
 Thank you,
 Gerry Lettrey
 ReadEasy30 + MathEasy30
+free@readeasy30.com
 
 If this is not useful or you prefer not to receive another message from me, reply “remove” and I will not contact you again.
 ```
@@ -66,6 +73,7 @@ If this is useful, you are welcome to share it with patrons or staff. If your li
 Thank you,
 Gerry Lettrey
 ReadEasy30 + MathEasy30
+free@readeasy30.com
 
 If this is not useful or you prefer not to receive another message from me, reply “remove” and I will not contact you again.
 ```
@@ -93,6 +101,7 @@ If this fits your learners or volunteers, you are welcome to share it. If anothe
 Thank you,
 Gerry Lettrey
 ReadEasy30 + MathEasy30
+free@readeasy30.com
 
 If this is not useful or you prefer not to receive another message from me, reply “remove” and I will not contact you again.
 ```
@@ -120,6 +129,7 @@ If this is useful for parent resource sharing, you are welcome to pass it along.
 Thank you,
 Gerry Lettrey
 ReadEasy30 + MathEasy30
+free@readeasy30.com
 
 If this is not useful or you prefer not to receive another message from me, reply “remove” and I will not contact you again.
 ```
