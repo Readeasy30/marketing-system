@@ -1,6 +1,6 @@
 # Education Batch 01 — Start Here
 
-Last updated: 2026-06-03
+Last updated: 2026-06-04
 
 Campaign: **ReadEasy30 + MathEasy30 — 30 Minutes. One Calm Step.**
 
@@ -10,20 +10,31 @@ Purpose: One front door for Batch 01 execution.
 
 Do not create more marketing assets until Batch 01 is posted, blocked, paused, or intentionally moved forward.
 
-## Current handoff
-
-Open first:
+## Open first today
 
 ```text
-EDUCATION-BATCH-01-HANDOFF-STATUS.md
+EDUCATION-BATCH-01-POST-SEQUENCE-NOW.md
 ```
+
+Then use the matching copy file for the next asset.
+
+## Current handoff
 
 Current status:
 
+- Campaign landing pages exist.
+- ReadEasy30 sitemap includes the campaign landing page.
+- ReadEasy30 homepage links to the campaign landing page.
+- MathEasy30 homepage links to the campaign landing page.
+- All Batch 01 copy files now use the campaign landing page where useful.
 - Fallback assets are exported.
-- Posting copy is ready.
-- Email handoff was sent to `wholelychit@gmail.com`.
-- Card 1 public posting is blocked only by owner social-account access.
+- Social posting is blocked only by owner social-account access.
+
+Main campaign link:
+
+```text
+https://readeasy30.com/free-reading-and-math-practice.html
+```
 
 Next single action:
 
@@ -49,24 +60,15 @@ Best order:
 4. TikTok
 5. X later
 
-## Step 2 — Choose asset source
+## Step 2 — Use the current posting sequence
 
-Preferred source:
-
-```text
-EDUCATION-BATCH-01-CANVA-EXPORT-RUN-SHEET.md
-```
-
-Fallback source if Canva export is slow or blocked:
+Open:
 
 ```text
-EDUCATION-BATCH-01-FALLBACK-UPLOAD-PACKAGE.md
-ReadEasy30-MathEasy30-Batch-01-Upload-Package.zip
+EDUCATION-BATCH-01-POST-SEQUENCE-NOW.md
 ```
 
-## Step 3 — Export or use upload assets
-
-Use these assets in this order:
+Post in this order:
 
 ```text
 01-readeasy30-matheasy30-card-1-calm-step.png
@@ -78,7 +80,30 @@ Use these assets in this order:
 07-readeasy30-matheasy30-video-03-30-minute-routine.mp4
 ```
 
-## Step 4 — QA before posting
+## Step 3 — Use quick clipboards
+
+Use these before digging into longer platform packets:
+
+```text
+EDUCATION-BATCH-01-FIRST-POST-CLIPBOARD.md
+EDUCATION-BATCH-01-FIRST-VIDEO-CLIPBOARD.md
+EDUCATION-BATCH-01-WORKSHEET-PINS-CLIPBOARD.md
+EDUCATION-BATCH-01-ADULT-LEARNER-CLIPBOARD.md
+EDUCATION-BATCH-01-OPTIONAL-VIDEOS-CLIPBOARD.md
+```
+
+## Step 4 — Choose the platform packet if needed
+
+Use the matching packet:
+
+```text
+EDUCATION-BATCH-01-FACEBOOK-LINKEDIN-PACKET.md
+EDUCATION-BATCH-01-PINTEREST-PACKET.md
+EDUCATION-BATCH-01-YOUTUBE-SHORTS-PACKET.md
+EDUCATION-BATCH-01-REELS-TIKTOK-PACKET.md
+```
+
+## Step 5 — QA before posting
 
 Open:
 
@@ -91,42 +116,19 @@ Do not post if:
 
 - text is hard to read
 - a link is broken
-- the copy promises guaranteed results
+- copy promises guaranteed results
 - a platform asks for paid ads, tracking, or automation
 
-## Step 5 — Use the quick clipboards
+## Step 6 — Log the result
 
-Use these before digging into longer platform packets:
-
-```text
-EDUCATION-BATCH-01-FIRST-POST-CLIPBOARD.md
-EDUCATION-BATCH-01-FIRST-VIDEO-CLIPBOARD.md
-EDUCATION-BATCH-01-WORKSHEET-PINS-CLIPBOARD.md
-EDUCATION-BATCH-01-ADULT-LEARNER-CLIPBOARD.md
-EDUCATION-BATCH-01-OPTIONAL-VIDEOS-CLIPBOARD.md
-```
-
-## Step 6 — Choose the platform packet if needed
-
-Use the matching packet:
-
-```text
-EDUCATION-BATCH-01-FACEBOOK-LINKEDIN-PACKET.md
-EDUCATION-BATCH-01-PINTEREST-PACKET.md
-EDUCATION-BATCH-01-YOUTUBE-SHORTS-PACKET.md
-EDUCATION-BATCH-01-REELS-TIKTOK-PACKET.md
-```
-
-## Step 7 — Log the result
-
-After every export, post, blocker, or pause, update:
+After every post, blocker, or pause, update:
 
 ```text
 EDUCATION-BATCH-01-POSTING-LOG.md
 CAMPAIGN-PUBLISHING-TRACKER.md
 ```
 
-## Quick clipboard order
+## Current quick clipboard order
 
 ### 1. First post
 
@@ -192,13 +194,13 @@ Assets:
 
 ## Approved Batch 01 links
 
-Live-link QA file:
+Main broad campaign link:
 
 ```text
-EDUCATION-BATCH-01-LIVE-LINK-QA.md
+https://readeasy30.com/free-reading-and-math-practice.html
 ```
 
-Approved links:
+Backup links:
 
 ```text
 https://readeasy30.com/
@@ -228,11 +230,6 @@ Do not add:
 
 ## Done definition
 
-Batch 01 has started when at least one item is marked:
+Batch 01 is complete when all seven assets are marked posted, blocked, or paused.
 
-- Exported
-- Posted
-- Blocked
-- Paused
-
-Batch 01 is complete when all seven assets are either exported/posted or clearly blocked/paused.
+The only remaining hard blocker is external social-account access.
