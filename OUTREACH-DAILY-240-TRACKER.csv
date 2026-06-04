@@ -1,0 +1,9 @@
+date,list_number,target_market,organization,contact_person_or_role,contact_method,email_or_form_url,source_url,status,template_used,notes,next_action,follow_up_date,opt_out
+2026-06-04,1,Public libraries,,,,,Prepared,Library template,Start with public library contact/program forms,Find 30 qualified public library contacts,,No
+2026-06-04,2,Adult literacy ESL immigrant support,,,,,Prepared,Adult literacy ESL template,Use National Literacy Directory and public nonprofit pages,Find 30 qualified adult literacy/ESL contacts,,No
+2026-06-04,3,Preschools daycares early learning Head Start,,,,,Prepared,Early learning template,Use Head Start locator and public child care directories,Find 30 qualified early learning contacts,,No
+2026-06-04,4,Adult education GED workforce community colleges,,,,,Prepared,Adult education template,Use public adult ed/workforce/community college pages,Find 30 qualified adult ed contacts,,No
+2026-06-04,5,Tutors homeschool after-school parent groups,,,,,Prepared,Tutor homeschool template,Use public tutoring/co-op/group-approved contact pages,Find 30 qualified tutor/homeschool contacts,,No
+2026-06-04,6,Youth nonprofits YMCA Boys Girls Clubs community centers,,,,,Prepared,Youth nonprofit template,Use public branch/program contact pages,Find 30 qualified youth nonprofit contacts,,No
+2026-06-04,7,Churches ministries family resource senior veteran disability food-bank helper groups,,,,,Prepared,Community helper template,Use public office/program/resource contacts,Find 30 qualified community-helper contacts,,No
+2026-06-04,8,Reentry correctional education justice-involved adult support,,,,,Prepared,Reentry staff template,Staff/program/library/chaplain/nonprofit contacts only,Find 30 qualified staff contacts,,No
