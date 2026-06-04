@@ -9,7 +9,7 @@ Do not create a new daily command file unless the campaign changes.
 ## Active campaign
 
 ```text
-ReadEasy30 + MathEasy30 Batch 01
+ReadEasy30 + MathEasy30
 ```
 
 Main campaign link:
@@ -18,9 +18,32 @@ Main campaign link:
 https://readeasy30.com/free-reading-and-math-practice.html
 ```
 
-## Today's to-do list
+## Priority 1 — Outreach Daily 240
 
-### 1. Register social accounts
+Open first:
+
+```text
+OUTREACH-DAILY-240-OPERATING-SYSTEM.md
+```
+
+Daily target:
+
+```text
+8 lists × 30 qualified contacts per list = 240 contacts/day
+```
+
+Execution files:
+
+```text
+OUTREACH-8-LIST-SOURCE-MAP.md
+OUTREACH-FIRST-EMAIL-BY-LIST.md
+OUTREACH-DAILY-240-TRACKER.csv
+OUTREACH-EMAIL-TOOL-DECISION.md
+```
+
+Today is not complete until each of the 8 lists is marked Sent, Prepared, Blocked, or Held for Review.
+
+## Priority 2 — Social account setup
 
 Use:
 
@@ -40,7 +63,7 @@ Backup first account:
 Pinterest Business
 ```
 
-### 2. Post Batch 01 Card 1 when one account is ready
+## Priority 3 — Post Batch 01 Card 1 when one account is ready
 
 Asset:
 
@@ -54,34 +77,38 @@ Copy file:
 EDUCATION-BATCH-01-FIRST-POST-CLIPBOARD.md
 ```
 
-### 3. Paste the live post link back into ChatGPT
-
 After Card 1 is posted, paste the live URL into ChatGPT.
 
-### 4. Update the two tracking files
+Then update:
 
 ```text
 EDUCATION-BATCH-01-POSTING-LOG.md
 CAMPAIGN-PUBLISHING-TRACKER.md
 ```
 
-### 5. Community outreach track
+## Email tool decision
 
-Use:
+Use now:
 
 ```text
-COMMUNITY-OUTREACH-SYSTEM.md
-COMMUNITY-OUTREACH-EMAIL-TEMPLATE.md
+GitHub files + CSV/Google Sheet + Gmail/manual contact forms
 ```
 
-Only send respectful one-to-one messages to real public contact emails or contact forms.
+Use later after verified contacts and opt-out tracking:
 
-Do not scrape, bulk blast, or automate unsolicited email.
+```text
+Mailjet
+```
 
-## Done for today when
+Do not connect Mailjet, Resend, Mailgun, SendPulse, SMTP, API keys, or automation today.
 
-One of these is true:
+## Do not do
 
-1. At least one social account is created and Card 1 is posted.
-2. Account setup is marked blocked and one community outreach contact is prepared or sent manually.
-3. All blockers are recorded and no new plan is created.
+Do not scrape.
+Do not buy lists.
+Do not bulk blast.
+Do not auto-send unsolicited email.
+Do not contact children directly.
+Do not contact incarcerated people directly.
+Do not store passwords, API keys, recovery codes, or private data in this repo.
+Do not rebuild the plan tomorrow.
