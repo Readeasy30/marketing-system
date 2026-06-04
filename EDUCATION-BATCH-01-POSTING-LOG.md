@@ -1,6 +1,6 @@
 # Education Batch 01 Posting Log
 
-Last updated: 2026-06-03
+Last updated: 2026-06-04
 
 Campaign: **ReadEasy30 + MathEasy30 — 30 Minutes. One Calm Step.**
 
@@ -41,7 +41,7 @@ Use only:
 
 ## Fallback package record
 
-Fallback ZIP created in the current ChatGPT session:
+Fallback ZIP created in the prior ChatGPT session:
 
 ```text
 ReadEasy30-MathEasy30-Batch-01-Upload-Package.zip
@@ -59,13 +59,13 @@ Use fallback assets only for ReadEasy30 + MathEasy30 Batch 01.
 
 | Date | Platform | Asset | Status | Live link / blocker | Next action |
 |---|---|---|---|---|---|
-| 2026-06-03 | Facebook or LinkedIn | Card 1 launch post | Blocked | Requires owner social-account access/manual posting | Post Card 1 manually, then paste live link into this log |
-| 2026-06-03 | YouTube Shorts / Reels / TikTok | Video 01 | Planned | Add live link or blocker | Post second after Card 1 is live or blocked |
-| 2026-06-03 | Pinterest | Reading worksheet pin | Planned | Add live link or blocker | Post third if Pinterest ready |
-| 2026-06-03 | Pinterest | Math worksheet pin | Planned | Add live link or blocker | Post fourth if Pinterest ready |
-| 2026-06-03 | Facebook or LinkedIn | Adult learner pin | Planned | Add live link or blocker | Post fifth |
-| 2026-06-03 | YouTube Shorts / Reels / TikTok | Video 02 adult learner | Planned | Add live link or blocker | Optional after core assets |
-| 2026-06-03 | YouTube Shorts / Reels / TikTok | Video 03 30-minute routine | Planned | Add live link or blocker | Optional after core assets |
+| 2026-06-04 | Facebook or LinkedIn | Card 1 launch post | Blocked | Requires owner social-account access/manual posting | Open first ready channel and post Card 1 |
+| 2026-06-04 | YouTube Shorts / Reels / TikTok | Video 01 | Blocked | Requires owner social-account access/manual posting | Post after Card 1 or mark exact platform blocker |
+| 2026-06-04 | Pinterest | Reading worksheet pin | Blocked | Requires owner social-account access/manual posting | Post if Pinterest is first ready channel |
+| 2026-06-04 | Pinterest | Math worksheet pin | Blocked | Requires owner social-account access/manual posting | Post after reading worksheet pin if Pinterest ready |
+| 2026-06-04 | Facebook or LinkedIn | Adult learner pin | Blocked | Requires owner social-account access/manual posting | Post after Card 1 or use LinkedIn if ready |
+| 2026-06-04 | YouTube Shorts / Reels / TikTok | Video 02 adult learner | Paused | Optional until core assets are posted or blocked | Resume after core assets |
+| 2026-06-04 | YouTube Shorts / Reels / TikTok | Video 03 30-minute routine | Paused | Optional until core assets are posted or blocked | Resume after core assets |
 
 ## First post copy source
 
@@ -113,6 +113,6 @@ Use direct, simple notes:
 
 ## Done definition
 
-Batch 01 has started because fallback assets are now marked `Exported` and Card 1 posting is marked `Blocked` pending owner account access.
+Batch 01 has started because fallback assets are now marked `Exported` and all core public posting steps are either ready for manual posting or blocked by owner social-account access.
 
-Batch 01 is ready for manual posting to the first ready account.
+Batch 01 reaches live launch when Card 1 has a public post link recorded.
