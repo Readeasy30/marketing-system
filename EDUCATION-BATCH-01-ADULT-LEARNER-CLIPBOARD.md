@@ -1,6 +1,6 @@
 # Education Batch 01 Adult Learner Clipboard
 
-Last updated: 2026-06-03
+Last updated: 2026-06-04
 
 Campaign: **ReadEasy30 + MathEasy30 — 30 Minutes. One Calm Step.**
 
@@ -8,16 +8,16 @@ Purpose: One-screen copy for the adult learner / no-shame practice post.
 
 ## Use after worksheet pins
 
-Export this after worksheet pins are exported, posted, blocked, or paused:
+Use this after worksheet pins are posted, blocked, or paused:
 
 ```text
 05-readeasy30-matheasy30-practice-without-shame.png
 ```
 
-Source Canva:
+Main campaign link:
 
 ```text
-https://www.canva.com/d/JB9aEd-LIBv-KUN
+https://readeasy30.com/free-reading-and-math-practice.html
 ```
 
 ## Best platforms
@@ -36,9 +36,8 @@ It is not too late to practice reading or math.
 
 Start small. Move slowly. Repeat short lessons. One calm step today still counts.
 
-Free practice:
-https://readeasy30.com/
-https://matheasy30.com/
+Free calm practice:
+https://readeasy30.com/free-reading-and-math-practice.html
 ```
 
 ## LinkedIn copy
@@ -48,8 +47,8 @@ Adults who want to rebuild reading or math confidence should not be talked down 
 
 That is why ReadEasy30 and MathEasy30 use simple, respectful language, short practice sessions, and calm guidance.
 
-Free reading practice: https://readeasy30.com/
-Free math practice: https://matheasy30.com/
+Free calm reading and math practice:
+https://readeasy30.com/free-reading-and-math-practice.html
 ```
 
 ## Pinterest backup
@@ -75,32 +74,24 @@ https://readeasy30.com/adult-reading-practice-without-shame.html
 Backup destination:
 
 ```text
-https://readeasy30.com/
+https://readeasy30.com/free-reading-and-math-practice.html
 ```
 
 ## Quick QA before posting
 
 - Image is attached.
 - Copy is respectful and not babyish.
-- Links are approved in `EDUCATION-BATCH-01-LIVE-LINK-QA.md`.
+- Campaign or adult learner link is included.
 - No guaranteed-result claims.
 - No shame language.
 - No ads, payments, affiliate links, tracking, scraping, or automation.
-
-## After export row
-
-Copy into `EDUCATION-BATCH-01-POSTING-LOG.md` if exported:
-
-```md
-| 5 | Adult learner pin | `05-readeasy30-matheasy30-practice-without-shame.png` | Exported | Ready for LinkedIn, Facebook, or Pinterest |
-```
 
 ## After posting row
 
 Copy into `EDUCATION-BATCH-01-POSTING-LOG.md` after posting:
 
 ```md
-| 2026-06-03 | LinkedIn / Facebook / Pinterest | Adult learner no-shame post | Posted | PASTE-LIVE-LINK-HERE | Export Video 02 or pause Batch 01 |
+| 2026-06-04 | LinkedIn / Facebook / Pinterest | Adult learner no-shame post | Posted | PASTE-LIVE-LINK-HERE | Post Video 02 or pause Batch 01 |
 ```
 
 ## Tracker row
@@ -108,7 +99,7 @@ Copy into `EDUCATION-BATCH-01-POSTING-LOG.md` after posting:
 Copy into `CAMPAIGN-PUBLISHING-TRACKER.md` after posting:
 
 ```md
-| 2026-06-03 | ReadEasy30 + MathEasy30 | 30 Minutes. One Calm Step. | Adult learner no-shame post | Published | PASTE-LIVE-LINK-HERE | Reuse for adult learning audience |
+| 2026-06-04 | ReadEasy30 + MathEasy30 | 30 Minutes. One Calm Step. | Adult learner no-shame post | Published | PASTE-LIVE-LINK-HERE | Reuse for adult learning audience |
 ```
 
 ## If blocked
@@ -116,14 +107,15 @@ Copy into `CAMPAIGN-PUBLISHING-TRACKER.md` after posting:
 Use this row:
 
 ```md
-| 2026-06-03 | LinkedIn / Facebook / Pinterest | Adult learner no-shame post | Blocked | Account not ready | Pause or use next ready account |
+| 2026-06-04 | LinkedIn / Facebook / Pinterest | Adult learner no-shame post | Blocked | Account not ready | Pause or use next ready account |
 ```
 
 ## Next after adult learner post
 
-Export optional remaining videos:
+Use optional remaining videos:
 
 ```text
 06-readeasy30-matheasy30-video-02-it-is-not-too-late.mp4
 07-readeasy30-matheasy30-video-03-30-minute-routine.mp4
+EDUCATION-BATCH-01-OPTIONAL-VIDEOS-CLIPBOARD.md
 ```
