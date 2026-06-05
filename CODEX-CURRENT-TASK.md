@@ -1,21 +1,22 @@
 # CODEX-CURRENT-TASK.md
 
-Last updated: 2026-06-04
+Last updated: 2026-06-05
 
 ## Repository
 
 `Wholelychit/marketing-system`
 
-## Current task: Education Marketing Day 01
+## Current task: Daily Education Marketing Operating System
 
 Continue the ReadEasy30 + MathEasy30 marketing project from the marketing-system control repo.
 
-Today is the start of using this repo as the active marketing command center.
+This is now a daily marketing operating system, not a one-time launch push.
 
 Open first:
 
 ```text
-EDUCATION-MARKETING-DAY-01-2026-06-04.md
+DAILY-EDUCATION-MARKETING-OPERATING-SYSTEM.md
+EDUCATION-BATCH-01-START-HERE.md
 PROJECT-STATUS.md
 EDUCATION-BATCH-01-HANDOFF-STATUS.md
 EDUCATION-BATCH-01-MANUAL-POSTING-STEPS.md
@@ -34,7 +35,7 @@ Wholelychit/matheasy30.com
 
 ## Current production goal
 
-Move Batch 01 from ready to live.
+Move Batch 01 from ready to live while keeping the marketing program stable every day.
 
 Minimum launch definition:
 
@@ -47,6 +48,17 @@ Full Batch 01 definition:
 ```text
 All 7 Batch 01 assets are posted, blocked, or paused in the posting log and publishing tracker.
 ```
+
+## Daily operating rule
+
+Every session must end with one of these outcomes:
+
+1. A post is published.
+2. A blocker is recorded.
+3. A small safe improvement is completed.
+4. The next exact action is locked for the next session.
+
+Do not create new marketing assets just because posting feels blocked.
 
 ## Rules
 
