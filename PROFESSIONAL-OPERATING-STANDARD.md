@@ -2,7 +2,7 @@
 
 Last updated: 2026-06-05
 
-Purpose: Prevent confusion, wrong-account work, duplicated effort, and low-value busywork across Wholelychit projects.
+Purpose: Prevent confusion, wrong-account work, duplicated effort, stale assumptions, fake progress, and low-value busywork across Wholelychit projects.
 
 This standard applies before any work on:
 
@@ -13,10 +13,15 @@ This standard applies before any work on:
 - Canva/video/social assets
 - outreach lists
 - trackers and logs
+- email platform setup
 
 ## Core failure to prevent
 
 Do not act from vague memory.
+
+Do not answer from confidence.
+
+Answer from the current source of truth.
 
 Before doing work, lock these six items:
 
@@ -30,6 +35,43 @@ Required log/update
 ```
 
 If any of these are unclear, inspect available records first. Do not guess.
+
+## Current ReadEasy30 + MathEasy30 campaign fact lock
+
+These facts are locked until Gerry directly changes them:
+
+| Field | Locked value |
+|---|---|
+| Active campaign | ReadEasy30 + MathEasy30 education outreach |
+| Daily outreach target | 180 good-fit contacts per day |
+| Segment structure | 6 groups x 30 contacts |
+| Sender | `free@readeasy30.com` |
+| Reply-to | `free@readeasy30.com` |
+| Backup owner email | `wholelychit@gmail.com` |
+| Primary recovered list | `readeasy30_matheasy30_daily_outreach_mail_list_180.xlsx` |
+| Recovery workbook | `readeasy30_matheasy30_NO_STOP_OUTREACH_EXECUTION.xlsx` |
+| Recovered index | `RECOVERED-OUTREACH-CONTACTS-INDEX-2026-06-05.md` |
+| Email setup file | `EDUCATION-EMAIL-SENDER-SETUP-2026-06-05.md` |
+| Daily run sheet | `EDUCATION-180-DAILY-SEND-RUN-SHEET-2026-06-05.md` |
+
+Never replace `free@readeasy30.com` with `wholelychit@gmail.com` in campaign setup unless Gerry explicitly says it is a temporary backup.
+
+## Current outreach count lock
+
+Do not confuse rows with sends.
+
+| Term | Meaning |
+|---|---|
+| Row built | A possible contact exists in the recovered list |
+| Ready row | Contact route appears usable, but still needs execution |
+| Send | A public direct email was actually sent or approved platform sent it |
+| Submit | A public contact/resource form was manually completed |
+| Blocked | Tool, login, safety, platform, or page rule prevents execution |
+| Complete | Real send/submit/post occurred and was logged |
+
+Do not report a send unless a send actually happened.
+
+Do not report completion if the work is only planned, drafted, organized, or queued.
 
 ## The 6-lock gate
 
@@ -58,13 +100,14 @@ Name the exact account or tool being used.
 Examples:
 
 ```text
-Gmail: slotsfreeusa@gmail.com
-Gmail: wholelychit@gmail.com
+Sender: free@readeasy30.com
+Backup Gmail: wholelychit@gmail.com
 GitHub: Wholelychit/marketing-system
 GitHub: Wholelychit/readeasy30.com
 GitHub: Wholelychit/matheasy30.com
 Cloudflare account
 Canva account
+Brevo account
 ```
 
 If the visible account does not match the project, stop and verify.
@@ -81,18 +124,26 @@ Wholelychit/marketing-system
 
 Product website code belongs in its own repo.
 
-Do not put campaign control files inside product repos unless they are small status markers, SEO markers, sitemap/robots updates, or safe website-facing copy files.
+Do not put campaign control files inside product repos unless they are small status markers, SEO markers, sitemap/robots updates, QA files, or safe website-facing copy files.
 
 ### 4. Source-of-truth lock
 
 Find the current controlling file before acting.
 
-For ReadEasy30 + MathEasy30 marketing, open first:
+For ReadEasy30 + MathEasy30 outreach, open first:
 
 ```text
-DAILY-EDUCATION-MARKETING-OPERATING-SYSTEM.md
-EDUCATION-MAIL-MARKETING-DAILY-RUNBOOK.md
-EDUCATION-BATCH-01-POSTING-LOG.md
+RECOVERED-OUTREACH-CONTACTS-INDEX-2026-06-05.md
+EDUCATION-EMAIL-SENDER-SETUP-2026-06-05.md
+EDUCATION-180-DAILY-SEND-RUN-SHEET-2026-06-05.md
+CAMPAIGN-PUBLISHING-TRACKER.md
+```
+
+For ReadEasy30 + MathEasy30 marketing status, open first:
+
+```text
+PROJECT-STATUS.md
+EDUCATION-MARKETING-TABLE-ACTION-BOARD-2026-06-04.md
 CAMPAIGN-PUBLISHING-TRACKER.md
 ```
 
@@ -111,7 +162,7 @@ State the next action in one sentence before doing it.
 Good:
 
 ```text
-I am checking Gmail for ReadEasy30 + MathEasy30 replies from June 4-5 only.
+I am checking the recovered outreach index and sender setup before changing the email plan.
 ```
 
 Bad:
@@ -127,9 +178,10 @@ Before acting, know where the result must be recorded.
 Examples:
 
 ```text
-EDUCATION-BATCH-01-POSTING-LOG.md
+PROJECT-STATUS.md
 CAMPAIGN-PUBLISHING-TRACKER.md
-EDUCATION-MAIL-MARKETING-DAILY-RUNBOOK.md
+EDUCATION-180-DAILY-SEND-RUN-SHEET-2026-06-05.md
+EDUCATION-EMAIL-SENDER-SETUP-2026-06-05.md
 Daily status note in final answer
 ```
 
@@ -139,24 +191,41 @@ If an action cannot be logged, it is probably not stable enough to do.
 
 Never send, draft, or inspect unrelated campaign emails as if they belong to another project.
 
-Before sending any email:
+Before sending or setting up any email campaign:
 
 1. Verify project.
 2. Verify sender account.
-3. Verify recipient.
-4. Verify subject.
-5. Verify draft body.
-6. Verify whether the draft says `do not send`, `portal`, `contact form`, or `manual`.
-7. Verify required log destination.
+3. Verify sending platform.
+4. Verify recipient list source.
+5. Verify recipient count.
+6. Verify subject.
+7. Verify draft body.
+8. Verify opt-out handling.
+9. Verify whether the route says `do not send`, `portal`, `contact form`, `manual`, or `direct email`.
+10. Verify required log destination.
 
 Do not send if:
 
 - no recipient exists
+- sender is not verified
 - draft says do not send
-- draft is for a portal/contact form
 - target project does not match the active project
-- the email looks like bulk prospecting
-- the user has not clearly asked to send that exact group
+- the email looks like unmanaged bulk prospecting
+- required sender, opt-out, or address setup is missing
+- user has not clearly approved that exact platform/list/send action
+
+## Required correction behavior
+
+When Gerry says “check your notes,” do this before answering:
+
+1. Stop.
+2. Search or fetch the relevant source-of-truth files.
+3. Quote the locked fact in plain English.
+4. Correct the prior answer.
+5. Update the repo if the incorrect fact was written anywhere.
+6. Report the commit ID if changed.
+
+Do not argue from memory.
 
 ## Repository work rule
 
@@ -203,6 +272,7 @@ Every answer should be:
 - project-aware
 - account-aware
 - repo-aware
+- source-of-truth-aware
 - action-oriented
 - honest about uncertainty
 - short enough to use
@@ -213,6 +283,7 @@ Every answer should be:
 Stop immediately when:
 
 - the wrong project appears
+- the wrong sender appears
 - the wrong Gmail account appears
 - the wrong repo appears
 - a draft belongs to a different website
@@ -220,6 +291,8 @@ Stop immediately when:
 - a platform requires manual login
 - a task risks breaking production
 - the answer depends on a stale assumption
+- a send count is being confused with a row count
+- Gerry says the answer conflicts with prior notes
 
 Then correct the source of truth before continuing.
 
@@ -227,4 +300,4 @@ Then correct the source of truth before continuing.
 
 Do fewer things, but do the right things in the right place.
 
-No guessing. No cross-project mixing. No unlogged work. No pretending a blocker is progress.
+No guessing. No cross-project mixing. No unlogged work. No pretending a blocker is progress. No replacing locked facts from memory.
