@@ -1,6 +1,6 @@
 # Project Status
 
-Last updated: 2026-06-05
+Last updated: 2026-06-06
 
 This file tracks the current safe marketing-system queue.
 
@@ -14,7 +14,7 @@ ReadEasy30 + MathEasy30 Batch 01
 
 Do not work on SlotsFreeUSA, PetNeeds.ai, RestaurantAIbot, BransonBlastUSA, or any other project while Batch 01 is active.
 
-## Day 02 Status
+## Day 03 Status
 
 Official marketing-system use started:
 
@@ -25,7 +25,7 @@ Official marketing-system use started:
 Current status date:
 
 ```text
-2026-06-05
+2026-06-06
 ```
 
 Unlocked repos for this campaign:
@@ -40,9 +40,11 @@ Wholelychit/matheasy30.com
 
 `Wholelychit/marketing-system` is the command center for ReadEasy30 + MathEasy30 marketing.
 
-Codex is the primary workflow for routine repository edits.
+Codex is the primary workflow for routine repository edits only when it has a working, non-connector write path.
 
-The ChatGPT GitHub connector may be used for safe complete-file updates, reads, checks, reviews, or emergency edits when Codex is unavailable.
+ChatGPT GitHub connector reads are allowed. ChatGPT GitHub connector writes are frozen unless Gerry explicitly reauthorizes one specific write action.
+
+For repo edits, use `github.dev`, the GitHub website editor, GitHub Desktop, or properly installed local Git.
 
 ## Open First Now
 
