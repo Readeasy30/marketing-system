@@ -277,3 +277,90 @@ Do not stop after one safe change.
 Continue through the safe queue until blocked by a real write, permission, safety, or production-risk blocker.
 
 Report only after several useful commits or a real blocker.
+
+ OUTREACH — ReadEasy30 + MathEasy30 Community Outreach
+
+Hand-paced, opt-in-respecting outreach that introduces free literacy and math
+resources (readeasy30.com, matheasy30.com) to community organizations that
+genuinely benefit from them. This is **not** a bulk mailing system.
+
+## Non-negotiable principles
+- **Do not mass-send.** Every message is personal and paced by hand.
+- **Do not scrape or guess private emails.** Use only addresses an organization
+  publishes on its own official site.
+- **Use official public contact pages.** No purchased lists, no harvested data.
+- **One bucket per prospect** before any outreach (see below).
+- **Opt-out is instant and permanent.** One request to stop = never again.
+
+## Contact-type buckets
+| Bucket | Meaning | Allowed action |
+|---|---|---|
+| Direct verified public email | Org publishes a real address on its own site | Personal email OK |
+| Contact-form only | No public email; has an official form | Form, **max 5/day** |
+| Directory/source only | Found via a directory, not yet verified | Verify on org's own site first |
+| Hold/media-only | Only a general/press inbox | Hold unless clearly appropriate |
+| Blocked/no-contact | Opted out, ToS forbids, or no valid channel | **Never contact** |
+
+## Segments
+Libraries · Head Start / Early Learning · Adult Education / GED · ESL ·
+Tutors / Homeschool · Churches / Community Nonprofits · Workforce / Reentry
+
+## Files in this folder
+- `EDUCATION-PROSPECT-QUEUE.md` — how the prospect queue is structured and worked.
+- `EMAIL-READY-CONTACT-STANDARDS.md` — what makes a contact "email-ready" + domain setup.
+- `CONTACT-FORM-SCRIPTS.md` — message templates for official contact forms (manual use).
+- `DAILY-EXECUTION-RULES.md` — the daily routine and limits.
+- `GMAIL-SEND-BLOCK-LOG.md` — record of blocked sends and the slow-down response.
+
+> A block from Gmail or a form is a signal to **slow down and improve quality**,
+> never a thing to engineer around.
+Tell me when you've pasted this one, then I'll give you file #2.You said: where to paste.where to paste...arketing System
+This repository is the central marketing, SEO, content, campaign, launch, monetization-planning, avatar/video, and review-control system for Wholelychit projects.
+Website code stays in each website repository. Marketing strategy and reusable systems live here.
+Active Projects
+Project    Purpose    Marketing Priority
+ReadEasy30    Reading practice and assessment path    Trust, parent/helper clarity, learner confidence
+MathEasy30    Math practice path    Simple skill growth, confidence, daily practice
+PetNeeds.ai    Pet care content and local/ad opportunity    Helpful pet answers, category growth, affiliate/ad planning
+Resturants.ai / RestaurantAIbot    Local restaurant AI/growth platform    Local trust, mobile-first restaurant value
+SlotsFreeUSA    Free slot game/review content    Beginner clarity, risk honesty, entertainment
+BransonBlastUSA    Branson visitor and local marketing site    Trip ideas, local discovery, advertiser readiness
+Project Repositories
+ReadEasy30: Wholelychit/readeasy30.com
+MathEasy30: Wholelychit/matheasy30.com
+Marketing System: Wholelychit/marketing-system
+BransonBlastUSA: Wholelychit/bransonblastusa.com
+PetNeeds.ai: website code stays in its own repo.
+Resturants.ai: website code stays in its own repo and deploys to resturants.ai.
+SlotsFreeUSA: website code stays in slotsfreeusa.com and deploys to slotsfreeusa.com.
+Avatar and Video Systems
+Use these reusable systems before adding avatars or videos to individual website repos:
+avatar-system/README.md — avatar system index and website role map.
+avatar-system/AVATAR-WORKFLOW.md — reusable avatar planning and deployment process.
+avatar-system/AVATAR-PERSONALITY-TEMPLATE.md — copy/adapt template for each website repo.
+avatar-system/AVATAR-DIALOGUE-LIBRARY.md — starter dialogue for Bubbles, Lucky Lou, Branson trip buddy, PetNeeds helper, and RestaurantAIbot.
+avatar-system/AVATAR-EMBED-TEMPLATE.md — safe embed planning template.
+video-system/README.md — reusable video system index.
+video-system/SHORT-VIDEO-SCRIPT-TEMPLATE.md — short video script structure.
+video-system/CANVA-VIDEO-CHECKLIST.md — Canva video production checklist.
+prompt-library/AVATAR-PROMPT.md — reusable avatar creation prompt.
+prompt-library/VIDEO-SCRIPT-PROMPT.md — reusable video script prompt.
+Rule: marketing repo stores the reusable system. Each website repo stores its own finished avatar personality, final scripts, placement plan, and embed notes.
+5-Site Portfolio Marketing System
+Use these two files to guide the current multi-site marketing push:
+WHOLELYCHIT-5-SITE-MARKETING-PLAN.md — master strategy for SlotsFreeUSA, RestaurantAIbot / Resturants.ai, ReadEasy30, MathEasy30, and PetNeeds.ai.
+WHOLELYCHIT-5-SITE-WEEKLY-ACTION-CALENDAR.md — weekly rotation and daily action calendar so work does not jump around.
+Recommended portfolio priority:
+ReadEasy30
+SlotsFreeUSA
+PetNeeds.ai
+RestaurantAIbot / Resturants.ai
+MathEasy30
+Reusable Marketing Formula
+The shared marketing formula isShow more4:44 PMClaude responded: Got it.Clarifying file placement within marketing-system repositoryClarifying file placement within marketing-system repositoryGot it. Here's the exact path:
+Go to:
+https://github.com/Wholelychit/marketing-system
+Click "Add file" button (top right) → "Create new file"
+In the filename box, type:
+OUTREACH/README.md
+Then paste the content I gave you above into the text area.
