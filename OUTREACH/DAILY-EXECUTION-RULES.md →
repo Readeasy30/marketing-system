@@ -1,0 +1,33 @@
+# DAILY EXECUTION RULES
+
+A repeatable routine so the work runs cleanly without constant supervision —
+while keeping every guardrail in place.
+
+## Daily caps
+- **Contact forms: 5 per day, hard cap.**
+- **Email: low and personal.** During domain warmup follow the ramp in
+  `EMAIL-READY-CONTACT-STANDARDS.md` (start ~20–30/day). Never blast.
+- One **follow-up only**, 7–10 days after first contact.
+
+## Order of operations each day
+1. **Opt-outs first.** Process any reply asking to stop → Opt-out = Yes. This
+   comes before anything else, every day.
+2. **Follow-ups due.** Open the tracker; send the single follow-up to anyone in
+   the 7–10 day window who hasn't replied or opted out. Log the date.
+3. **New contact — email.** A few personal emails to Direct-verified-public-email
+   prospects, within the warmup ramp.
+4. **New contact — forms.** Up to 5 contact-form submissions, official pages
+   only, personalized first line. Log each.
+5. **Research / queue building.** Add and bucket new prospects for tomorrow.
+   Researching costs nothing and has no cap.
+
+## Hard stops (do not push past these without a human decision)
+- Daily caps reached → stop sending for the day; research only.
+- A Gmail/form block → log it, pause, fix per the block-log file. Do not retry around it.
+- Any opt-out or ToS prohibition → Blocked/no-contact, permanent.
+- Anything touching credentials, billing, live ads/tracking, or production code → **stop and ask Gerry.**
+
+## Weekly check
+- Review opt-out rate and any block-log entries. If either is rising, reduce
+  volume and tighten list quality before continuing.
+Tell me when done → FILE #5.Haiku 4.5 Extended
