@@ -11,7 +11,7 @@ Website code stays in each website repository. Marketing strategy and reusable s
 | ReadEasy30 | Reading practice and assessment path | Trust, parent/helper clarity, learner confidence |
 | MathEasy30 | Math practice path | Simple skill growth, confidence, daily practice |
 | PetNeeds.ai | Pet care content and local/ad opportunity | Helpful pet answers, category growth, affiliate/ad planning |
-| Restaurants.ai / RestaurantAIbot | Local restaurant AI/growth platform | Local trust, mobile-first restaurant value |
+| restaurantaibot.com / RestaurantAIbot | Local restaurant AI/growth platform | Local trust, mobile-first restaurant value |
 | SlotsFreeUSA | Free slot game/review content | Beginner clarity, risk honesty, entertainment |
 | BransonBlastUSA | Branson visitor and local marketing site | Trip ideas, local discovery, advertiser readiness |
 
@@ -22,7 +22,7 @@ Website code stays in each website repository. Marketing strategy and reusable s
 - Marketing System: `Readeasy30/webmasters`
 - BransonBlastUSA: `Readeasy30/bransonblastusa.com`
 - PetNeeds.ai: website code stays in its own repo.
-- Restaurants.ai: website code stays in its own repo and deploys to `restaurants.ai`.
+- restaurantaibot.com: website code stays in its own repo and deploys to `restaurantaibot.com`.
 - SlotsFreeUSA: website code stays in `slotsfreeusa.com` and deploys to `slotsfreeusa.com`.
 
 ## Avatar and Video Systems
@@ -46,7 +46,7 @@ Rule: marketing repo stores the reusable system. Each website repo stores its ow
 
 Use these two files to guide the current multi-site marketing push:
 
-- `WHOLELYCHIT-5-SITE-MARKETING-PLAN.md` — master strategy for SlotsFreeUSA, RestaurantAIbot / Restaurants.ai, ReadEasy30, MathEasy30, and PetNeeds.ai.
+- `WHOLELYCHIT-5-SITE-MARKETING-PLAN.md` — master strategy for SlotsFreeUSA, RestaurantAIbot / restaurantaibot.com, ReadEasy30, MathEasy30, and PetNeeds.ai.
 - `WHOLELYCHIT-5-SITE-WEEKLY-ACTION-CALENDAR.md` — weekly rotation and daily action calendar so work does not jump around.
 
 Recommended portfolio priority:
@@ -54,7 +54,7 @@ Recommended portfolio priority:
 1. ReadEasy30
 2. SlotsFreeUSA
 3. PetNeeds.ai
-4. RestaurantAIbot / Restaurants.ai
+4. RestaurantAIbot / restaurantaibot.com
 5. MathEasy30
 
 ## Reusable Marketing Formula
@@ -95,9 +95,9 @@ PetNeeds.ai now has starter category and content planning files:
 
 These files should guide pet category pages, family pet content, unusual pet content, vet-safety language, future affiliate planning, and local sponsor planning.
 
-## Restaurants.ai / RestaurantAIbot Growth System
+## restaurantaibot.com / RestaurantAIbot Growth System
 
-Restaurants.ai now has starter local restaurant growth files:
+restaurantaibot.com now has starter local restaurant growth files:
 
 - `RESTAURANTS-AI-STARTER-OFFER-PLAN.md` — starter offer, package ladder, target audience, and 14-day queue.
 - `RESTAURANTS-AI-HOMEPAGE-COPY-DRAFT.md` — owner-facing homepage copy and CTA structure.
@@ -192,7 +192,7 @@ All education projects should feel:
 - practical
 - emotionally safe
 
-Restaurants.ai direction should feel:
+restaurantaibot.com direction should feel:
 
 - local
 - trustworthy
@@ -232,15 +232,15 @@ BransonBlastUSA direction should feel:
 
 ## Domain Rule
 
-The live restaurant domain is `restaurants.ai`.
+The live restaurant domain is `restaurantaibot.com`.
 
 Use this spelling consistently in marketing, Cloudflare, launch notes, social media, Canva assets, SEO pages, and deployment settings.
 
 Avoid older misspellings:
 
 - reasturant.ai
-- restaurant.ai
-- restaurant.ai
+- restaurantaibot.com
+- restaurantaibot.com
 
 The live slots project domain is `slotsfreeusa.com`.
 
@@ -322,7 +322,7 @@ Project    Purpose    Marketing Priority
 ReadEasy30    Reading practice and assessment path    Trust, parent/helper clarity, learner confidence
 MathEasy30    Math practice path    Simple skill growth, confidence, daily practice
 PetNeeds.ai    Pet care content and local/ad opportunity    Helpful pet answers, category growth, affiliate/ad planning
-Restaurants.ai / RestaurantAIbot    Local restaurant AI/growth platform    Local trust, mobile-first restaurant value
+restaurantaibot.com / RestaurantAIbot    Local restaurant AI/growth platform    Local trust, mobile-first restaurant value
 SlotsFreeUSA    Free slot game/review content    Beginner clarity, risk honesty, entertainment
 BransonBlastUSA    Branson visitor and local marketing site    Trip ideas, local discovery, advertiser readiness
 Project Repositories
@@ -331,7 +331,7 @@ MathEasy30: Readeasy30/matheasy30.com
 Marketing System: Readeasy30/webmasters
 BransonBlastUSA: Readeasy30/bransonblastusa.com
 PetNeeds.ai: website code stays in its own repo.
-Restaurants.ai: website code stays in its own repo and deploys to restaurants.ai.
+restaurantaibot.com: website code stays in its own repo and deploys to restaurantaibot.com.
 SlotsFreeUSA: website code stays in slotsfreeusa.com and deploys to slotsfreeusa.com.
 Avatar and Video Systems
 Use these reusable systems before adding avatars or videos to individual website repos:
@@ -348,13 +348,13 @@ prompt-library/VIDEO-SCRIPT-PROMPT.md — reusable video script prompt.
 Rule: marketing repo stores the reusable system. Each website repo stores its own finished avatar personality, final scripts, placement plan, and embed notes.
 5-Site Portfolio Marketing System
 Use these two files to guide the current multi-site marketing push:
-WHOLELYCHIT-5-SITE-MARKETING-PLAN.md — master strategy for SlotsFreeUSA, RestaurantAIbot / Restaurants.ai, ReadEasy30, MathEasy30, and PetNeeds.ai.
+WHOLELYCHIT-5-SITE-MARKETING-PLAN.md — master strategy for SlotsFreeUSA, RestaurantAIbot / restaurantaibot.com, ReadEasy30, MathEasy30, and PetNeeds.ai.
 WHOLELYCHIT-5-SITE-WEEKLY-ACTION-CALENDAR.md — weekly rotation and daily action calendar so work does not jump around.
 Recommended portfolio priority:
 ReadEasy30
 SlotsFreeUSA
 PetNeeds.ai
-RestaurantAIbot / Restaurants.ai
+RestaurantAIbot / restaurantaibot.com
 MathEasy30
 Reusable Marketing Formula
 The shared marketing formula isShow more4:44 PMClaude responded: Got it.Clarifying file placement within marketing-system repositoryClarifying file placement within marketing-system repositoryGot it. Here's the exact path:

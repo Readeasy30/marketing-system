@@ -33,4 +33,4 @@ No affiliate links, ads, tracking, uploads, diagnosis claims, or treatment claim
 
 1. Add homepage links if safe.
 2. Add sitemap entries if the repo uses a sitemap.
-3. Continue with Restaurants.ai homepage copy move.
+3. Continue with restaurantaibot.com homepage copy move.

@@ -13,7 +13,7 @@ Use this file at the start of a work session.
 1. ReadEasy30
 2. SlotsFreeUSA
 3. PetNeeds.ai
-4. RestaurantAIbot / Restaurants.ai
+4. RestaurantAIbot / restaurantaibot.com
 5. MathEasy30
 
 ## Current launch focus
@@ -67,7 +67,7 @@ Use this order so work stays productive:
 - Do not imply veterinarian diagnosis.
 - Prepare local sponsor ideas only as planning content.
 
-### RestaurantAIbot / Restaurants.ai
+### RestaurantAIbot / restaurantaibot.com
 
 - Build the local restaurant starter offer.
 - Use simple owner-facing language.

@@ -25,14 +25,14 @@ Website code stays in each website repo. Marketing strategy and reusable campaig
 | Week 1 | ReadEasy30 | Parents, helpers, adult learners | Trust and daily practice | Confidence-building article + short video |
 | Week 2 | SlotsFreeUSA | Adults who want free slot entertainment | Beginner clarity and responsible play | Beginner guide + review-page support |
 | Week 3 | PetNeeds.ai | Everyday pet owners | Helpful pet answers and category growth | Pet checklist article + Canva batch |
-| Week 4 | RestaurantAIbot / Restaurants.ai | Restaurant owners | Owner leads and local trust | Owner resource page + social posts |
+| Week 4 | RestaurantAIbot / restaurantaibot.com | Restaurant owners | Owner leads and local trust | Owner resource page + social posts |
 | Week 5 | MathEasy30 | Parents, helpers, adult learners | Calm math practice | Sister-site cross-promotion page + short video |
 
 Then repeat.
 
 ## This Week Recommended Focus
 
-Project: RestaurantAIbot / Restaurants.ai
+Project: RestaurantAIbot / restaurantaibot.com
 
 Reason: The website now has an owner resource library. The marketing repo should support that with clear lead paths and reusable outreach/content assets.
 
@@ -81,7 +81,7 @@ Status:
 
 Week of: 2026-06-02
 
-Project: RestaurantAIbot / Restaurants.ai
+Project: RestaurantAIbot / restaurantaibot.com
 
 Audience: independent restaurant owners
 

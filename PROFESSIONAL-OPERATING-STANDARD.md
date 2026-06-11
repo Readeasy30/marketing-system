@@ -86,7 +86,7 @@ ReadEasy30
 MathEasy30
 PetNeeds.ai
 SlotsFreeUSA
-Restaurants.ai
+restaurantaibot.com
 BransonBlastUSA
 Marketing System
 ```

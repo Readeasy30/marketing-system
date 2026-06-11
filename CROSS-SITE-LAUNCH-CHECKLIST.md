@@ -111,7 +111,7 @@ For sites using AI guidance:
 - Product guidance has disclosure planning.
 - Local sponsor model is planning-only until approved.
 
-### Restaurants.ai
+### restaurantaibot.com
 
 - Restaurant owner value is clear.
 - Local pages or lead-capture plan is documented.

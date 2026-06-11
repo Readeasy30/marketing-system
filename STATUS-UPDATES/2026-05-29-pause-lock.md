@@ -37,7 +37,7 @@ Commit:
 
 Next safe work when resuming:
 
-1. Move Restaurants.ai homepage copy live.
+1. Move restaurantaibot.com homepage copy live.
 2. Add homepage links for PetNeeds.ai pages if safe.
 3. Add sitemap entries where applicable.
 4. Continue ReadEasy30 / MathEasy30 promotion support.

@@ -23,7 +23,7 @@ Every week should produce:
 | Week 1 | ReadEasy30 | MathEasy30 | Education launch and no-shame practice messaging |
 | Week 2 | SlotsFreeUSA | PetNeeds.ai | Trust pages, beginner guides, partner prep |
 | Week 3 | PetNeeds.ai | ReadEasy30 | Pet category content and family-friendly traffic |
-| Week 4 | RestaurantAIbot / Restaurants.ai | SlotsFreeUSA | Local business offer clarity and lead path planning |
+| Week 4 | RestaurantAIbot / restaurantaibot.com | SlotsFreeUSA | Local business offer clarity and lead path planning |
 | Week 5 | MathEasy30 | ReadEasy30 | Sister-site education cross-promotion |
 
 Repeat the cycle after Week 5.
@@ -160,7 +160,7 @@ Build family-friendly pet content and use ReadEasy30 only where natural.
 - Prepare Pinterest pins.
 - Record next categories.
 
-## Week 4: RestaurantAIbot / Restaurants.ai + SlotsFreeUSA
+## Week 4: RestaurantAIbot / restaurantaibot.com + SlotsFreeUSA
 
 ### Goal
 
@@ -284,7 +284,7 @@ At the end of each month, record:
 - no live affiliate links without approval
 - disclosure present
 
-### RestaurantAIbot / Restaurants.ai
+### RestaurantAIbot / restaurantaibot.com
 
 - no payment setup
 - no ordering integration

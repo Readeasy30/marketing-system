@@ -1,4 +1,4 @@
-# Restaurants.ai Monetization Plan
+# restaurantaibot.com Monetization Plan
 
 ## Phase 1
 

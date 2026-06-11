@@ -1,4 +1,4 @@
-# Restaurants.ai Sample Audit Template
+# restaurantaibot.com Sample Audit Template
 
 Last updated: 2026-05-29
 

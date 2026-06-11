@@ -128,7 +128,7 @@ Save this if it helps.
 
 Best for:
 
-- Restaurants.ai business positioning
+- restaurantaibot.com business positioning
 - ReadEasy30 education/support positioning
 - PetNeeds.ai local/ad partnerships later
 
@@ -197,7 +197,7 @@ Post 5: Soft CTA
 - Before buying more pet products, check what the pet truly needs.
 - Safe pet care starts with clear questions.
 
-### Restaurants.ai
+### restaurantaibot.com
 
 - Customers choose faster when answers are easy to find.
 - A restaurant website should answer simple questions fast.

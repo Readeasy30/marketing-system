@@ -1,4 +1,4 @@
-# Restaurant.ai Launch Checklist
+# restaurantaibot.com Launch Checklist
 
 ## Brand Setup
 

@@ -24,7 +24,7 @@ Each website repo stores its own finished avatar personality, final dialogue, em
 | PetNeeds.ai | Pet care helper | Warm, practical, family-safe, vet-aware |
 | SlotsFreeUSA | Lucky Lou slot guide | Fun, clear, adult, risk-honest |
 | BransonBlastUSA | Branson trip buddy | Friendly, local, useful, upbeat |
-| RestaurantAIbot / Restaurants.ai | Restaurant growth assistant | Trustworthy, local, business-focused |
+| RestaurantAIbot / restaurantaibot.com | Restaurant growth assistant | Trustworthy, local, business-focused |
 
 ## Folder map
 

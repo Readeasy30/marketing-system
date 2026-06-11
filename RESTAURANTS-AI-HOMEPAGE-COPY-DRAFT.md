@@ -1,10 +1,10 @@
-# Restaurants.ai Homepage Copy Draft
+# restaurantaibot.com Homepage Copy Draft
 
 Last updated: 2026-05-29
 
 ## Purpose
 
-Use this copy to make the Restaurants.ai homepage clear for busy restaurant owners.
+Use this copy to make the restaurantaibot.com homepage clear for busy restaurant owners.
 
 ## Page Goal
 
@@ -18,7 +18,7 @@ Simple AI marketing help for local restaurants.
 
 ### Subheadline
 
-Restaurants.ai helps restaurant owners improve their website, menu copy, local visibility, social posts, and review responses without adding more confusion.
+restaurantaibot.com helps restaurant owners improve their website, menu copy, local visibility, social posts, and review responses without adding more confusion.
 
 ### Primary CTA
 
@@ -46,7 +46,7 @@ Customers check a restaurant online before they visit, order, or call.
 
 If the website is confusing, the menu is hard to read, the Google listing is weak, or reviews go unanswered, customers may move on.
 
-Restaurants.ai helps organize the simple marketing pieces that matter most.
+restaurantaibot.com helps organize the simple marketing pieces that matter most.
 
 ## What We Help Improve
 
@@ -84,7 +84,7 @@ It is built for owners who want clear advice, not a 40-page report nobody reads.
 
 ## Who This Helps
 
-Restaurants.ai is built for:
+restaurantaibot.com is built for:
 
 - independent restaurants
 - cafes
@@ -114,7 +114,7 @@ The goal is to sound clear, local, and trustworthy.
 
 ## What We Do Not Do Yet
 
-Restaurants.ai is in safe planning/build mode.
+restaurantaibot.com is in safe planning/build mode.
 
 We are not adding:
 
@@ -157,7 +157,7 @@ People want to know:
 - Do people like you?
 - Can I order or call easily?
 
-Restaurants.ai helps make those answers easier to find.
+restaurantaibot.com helps make those answers easier to find.
 
 ## Final CTA Section
 
@@ -175,7 +175,7 @@ Get the Restaurant Growth Checklist
 
 ## Footer Note
 
-Restaurants.ai provides marketing planning and content support. Results vary by restaurant, location, competition, service quality, and execution. No rankings, traffic, sales, or revenue are guaranteed.
+restaurantaibot.com provides marketing planning and content support. Results vary by restaurant, location, competition, service quality, and execution. No rankings, traffic, sales, or revenue are guaranteed.
 
 ## Safety Review
 

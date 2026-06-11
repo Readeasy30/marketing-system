@@ -31,7 +31,7 @@ Use the correct voice for the website.
 - PetNeeds.ai: warm, careful, pet-safe, not a veterinarian replacement.
 - SlotsFreeUSA: fun, adult, simple, risk-honest.
 - BransonBlastUSA: upbeat, local, useful, trip-friendly.
-- RestaurantAIbot / Restaurants.ai: practical, local, owner-focused.
+- RestaurantAIbot / restaurantaibot.com: practical, local, owner-focused.
 
 ## Step 3 — Build the short script first
 

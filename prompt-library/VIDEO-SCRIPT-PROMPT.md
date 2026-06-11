@@ -54,4 +54,4 @@ Create:
 - PetNeeds.ai: practical pet care help with vet-safety language
 - SlotsFreeUSA: adult free slot demo education and responsible play
 - BransonBlastUSA: Branson trip ideas and local discovery
-- RestaurantAIbot / Restaurants.ai: local restaurant growth and customer follow-up
+- RestaurantAIbot / restaurantaibot.com: local restaurant growth and customer follow-up

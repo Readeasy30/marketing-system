@@ -11,6 +11,6 @@ Users must not post:
 - misleading information
 - illegal content
 
-Restaurants.ai may moderate, remove, or restrict content at its discretion.
+restaurantaibot.com may moderate, remove, or restrict content at its discretion.
 
 Users are responsible for the accuracy and legality of their submissions.

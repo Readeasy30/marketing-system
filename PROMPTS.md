@@ -24,7 +24,7 @@ Follow the ReadEasy30 pattern: simple, calm, mobile-first, 30-day path, parent/h
 
 Improve homepage promise, pet categories, common Q&A, rare pet sections, community/photo planning, local sponsor planning, and product guide disclosure planning.
 
-## Restaurants.ai
+## restaurantaibot.com
 
 Improve restaurant owner value, homepage SEO, support links, lead-capture planning, local page planning, and menu/content service planning.
 

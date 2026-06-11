@@ -143,7 +143,7 @@ Video ideas:
 - New puppy checklist for the first week
 - When pet symptoms need a vet
 
-### RestaurantAIbot / Restaurants.ai
+### RestaurantAIbot / restaurantaibot.com
 
 Hub: AI and local growth tools for restaurants
 
@@ -274,7 +274,7 @@ Week 3: PetNeeds.ai / My PetNeeds
 - publish or improve new-pet checklist content
 - add vet-safety language
 
-Week 4: RestaurantAIbot / Restaurants.ai
+Week 4: RestaurantAIbot / restaurantaibot.com
 
 - improve owner-facing offer page
 - create restaurant FAQ assistant demo script

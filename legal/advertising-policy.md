@@ -2,7 +2,7 @@
 
 Last Updated: May 2026
 
-Restaurants.ai and affiliated websites may display sponsored listings, popup advertisements, promoted restaurants, affiliate links, and AI-generated promotional content.
+restaurantaibot.com and affiliated websites may display sponsored listings, popup advertisements, promoted restaurants, affiliate links, and AI-generated promotional content.
 
 Advertisers are solely responsible for:
 - pricing

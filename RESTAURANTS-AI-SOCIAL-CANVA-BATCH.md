@@ -1,10 +1,10 @@
-# Restaurants.ai Social + Canva Batch
+# restaurantaibot.com Social + Canva Batch
 
 Last updated: 2026-05-29
 
 ## Purpose
 
-Use this batch to promote Restaurants.ai / RestaurantAIbot as a simple AI-assisted marketing helper for local restaurants.
+Use this batch to promote restaurantaibot.com / RestaurantAIbot as a simple AI-assisted marketing helper for local restaurants.
 
 ## Voice
 
@@ -35,7 +35,7 @@ They need the basics done better:
 - review responses
 - simple slow-night promotions
 
-Restaurants.ai helps organize that work.
+restaurantaibot.com helps organize that work.
 
 ### Post 2: Owner Pain Point
 
@@ -161,7 +161,7 @@ It needs:
 - local trust
 - steady reminders
 
-That is where Restaurants.ai starts.
+That is where restaurantaibot.com starts.
 
 ## Short Caption Bank
 
@@ -180,35 +180,35 @@ That is where Restaurants.ai starts.
 
 ### Prompt 1: Main Offer
 
-Create a square social graphic for Restaurants.ai. Show a local restaurant storefront, phone screen, and simple checklist. Large headline: “Simple AI marketing help for restaurants.” Subheadline: “Menus. Reviews. Local visibility. Social posts.” Footer: “Restaurants.ai”. Warm local business style, mobile-readable, trustworthy.
+Create a square social graphic for restaurantaibot.com. Show a local restaurant storefront, phone screen, and simple checklist. Large headline: “Simple AI marketing help for restaurants.” Subheadline: “Menus. Reviews. Local visibility. Social posts.” Footer: “restaurantaibot.com”. Warm local business style, mobile-readable, trustworthy.
 
 ### Prompt 2: Mobile Website
 
-Create a square social graphic. Show a smartphone with restaurant menu, hours, address, and call button. Large headline: “Hungry customers use phones first.” Subheadline: “Make the menu, hours, and call button easy to find.” Footer: “Restaurants.ai”. Clean, practical, restaurant-owner focused.
+Create a square social graphic. Show a smartphone with restaurant menu, hours, address, and call button. Large headline: “Hungry customers use phones first.” Subheadline: “Make the menu, hours, and call button easy to find.” Footer: “restaurantaibot.com”. Clean, practical, restaurant-owner focused.
 
 ### Prompt 3: Menu Copy
 
-Create a square social graphic with before/after menu card. Headline: “Better menu copy helps customers decide.” Before text: “Chicken sandwich.” After text: “Crispy chicken sandwich with house slaw.” Footer: “Restaurants.ai”. Appetizing, clean, high contrast.
+Create a square social graphic with before/after menu card. Headline: “Better menu copy helps customers decide.” Before text: “Chicken sandwich.” After text: “Crispy chicken sandwich with house slaw.” Footer: “restaurantaibot.com”. Appetizing, clean, high contrast.
 
 ### Prompt 4: Google Business Profile
 
-Create a square social graphic. Use checklist style. Headline: “Restaurant Google Listing Check.” Checklist: “Hours, menu, phone, photos, reviews.” Footer: “Restaurants.ai”. Local SEO style, simple icons.
+Create a square social graphic. Use checklist style. Headline: “Restaurant Google Listing Check.” Checklist: “Hours, menu, phone, photos, reviews.” Footer: “restaurantaibot.com”. Local SEO style, simple icons.
 
 ### Prompt 5: Review Response
 
-Create a square social graphic. Show review stars and a friendly reply bubble. Headline: “Reviews need human replies.” Subheadline: “Short. Calm. Thankful. Helpful.” Footer: “Restaurants.ai”. Warm local restaurant look.
+Create a square social graphic. Show review stars and a friendly reply bubble. Headline: “Reviews need human replies.” Subheadline: “Short. Calm. Thankful. Helpful.” Footer: “restaurantaibot.com”. Warm local restaurant look.
 
 ### Prompt 6: Slow Night Promo
 
-Create a square social graphic. Show a quiet restaurant table and simple promo card. Headline: “Slow night? Make one simple offer.” Subheadline: “Same day. Clear deal. Easy to understand.” Footer: “Restaurants.ai”. Friendly, practical, not flashy.
+Create a square social graphic. Show a quiet restaurant table and simple promo card. Headline: “Slow night? Make one simple offer.” Subheadline: “Same day. Clear deal. Easy to understand.” Footer: “restaurantaibot.com”. Friendly, practical, not flashy.
 
 ### Prompt 7: Pinterest Restaurant Checklist
 
-Create a vertical Pinterest pin, 1000x1500. Headline: “Restaurant Website Checklist.” Subheadline: “Menu, hours, phone, address, photos, and clear next step.” Footer: “Restaurants.ai”. Clean checklist design with restaurant imagery.
+Create a vertical Pinterest pin, 1000x1500. Headline: “Restaurant Website Checklist.” Subheadline: “Menu, hours, phone, address, photos, and clear next step.” Footer: “restaurantaibot.com”. Clean checklist design with restaurant imagery.
 
 ### Prompt 8: Pinterest Social Ideas
 
-Create a vertical Pinterest pin, 1000x1500. Headline: “30 Social Post Ideas for Restaurants.” Subheadline: “Simple posts for food, specials, reviews, staff, and slow nights.” Footer: “Restaurants.ai”. Warm food-business visual style.
+Create a vertical Pinterest pin, 1000x1500. Headline: “30 Social Post Ideas for Restaurants.” Subheadline: “Simple posts for food, specials, reviews, staff, and slow nights.” Footer: “restaurantaibot.com”. Warm food-business visual style.
 
 ## Hashtag Bank
 
@@ -234,4 +234,4 @@ Use lightly.
 - no payment setup claim
 - no ordering integration claim
 - no live chatbot claim unless approved and actually built
-- use `Restaurants.ai` spelling for the live domain
+- use `restaurantaibot.com` spelling for the live domain

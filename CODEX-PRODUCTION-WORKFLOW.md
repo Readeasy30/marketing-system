@@ -105,7 +105,7 @@ Keep reports short and practical.
 1. ReadEasy30
 2. MathEasy30
 3. PetNeeds.ai
-4. Restaurants.ai
+4. restaurantaibot.com
 5. SlotsFreeUSA
 6. Marketing-system maintenance
 

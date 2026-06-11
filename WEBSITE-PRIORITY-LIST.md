@@ -62,7 +62,7 @@ Next safe queue:
 5. Add local ad model planning.
 6. Add product affiliate path planning.
 
-### 4. Restaurants.ai
+### 4. restaurantaibot.com
 
 Repository: `restaurantaibot.com`
 
@@ -73,7 +73,7 @@ Why fourth:
 
 Next safe queue:
 
-1. Keep naming consistent with live brand `restaurants.ai` in marketing.
+1. Keep naming consistent with live brand `restaurantaibot.com` in marketing.
 2. Clarify restaurant owner value.
 3. Add local landing page plan.
 4. Add lead capture plan.

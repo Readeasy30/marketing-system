@@ -7,7 +7,7 @@ Last updated: 2026-05-29
 This is the shared marketing plan for five active Wholelychit projects:
 
 1. SlotsFreeUSA
-2. RestaurantAIbot / Restaurants.ai
+2. RestaurantAIbot / restaurantaibot.com
 3. ReadEasy30
 4. MathEasy30
 5. PetNeeds.ai
@@ -29,7 +29,7 @@ Core formula:
 | Site | Main Job | Audience | First Conversion | Future Revenue Path |
 |---|---|---|---|---|
 | SlotsFreeUSA | Free slots and casino/sweepstakes education | Adults 21+ in the US | Try free slot / read guide | Approved affiliates, sponsorships, ads later |
-| RestaurantAIbot / Restaurants.ai | Local restaurant AI growth help | Restaurant owners/operators | Request help / read growth guide | Services, local packages, lead generation later |
+| RestaurantAIbot / restaurantaibot.com | Local restaurant AI growth help | Restaurant owners/operators | Request help / read growth guide | Services, local packages, lead generation later |
 | ReadEasy30 | Calm reading practice | Parents, adults, ESL learners, helpers | Start reading practice | Printables, premium paths, sponsorships later |
 | MathEasy30 | Calm math practice | Parents, adult learners, helpers | Start math practice | Printables, premium paths, sponsorships later |
 | PetNeeds.ai | Practical pet care answers and pet owner resources | Pet owners and families | Read pet guide / explore category | Affiliate products, local ads, sponsorships later |
@@ -83,7 +83,7 @@ Primary work:
 - local ad/sponsor plan
 - affiliate product planning without live links yet
 
-### Priority 4: RestaurantAIbot / Restaurants.ai
+### Priority 4: RestaurantAIbot / restaurantaibot.com
 
 Reason: higher-value business market, but it needs strong offer clarity.
 
@@ -184,11 +184,11 @@ Not yet:
 
 ---
 
-## 2. RestaurantAIbot / Restaurants.ai Marketing Plan
+## 2. RestaurantAIbot / restaurantaibot.com Marketing Plan
 
 ### Naming Rule
 
-Use `Restaurants.ai` as the live domain spelling when referring to the website.
+Use `restaurantaibot.com` as the live domain spelling when referring to the website.
 
 Use `RestaurantAIbot` as a product or service name only if needed.
 

@@ -2,7 +2,7 @@
 
 Last Updated: May 2026
 
-Restaurants.ai and affiliated Wholelychit platforms may use artificial intelligence systems to generate recommendations, summaries, advertisements, translations, articles, reviews, marketing content, and search results.
+restaurantaibot.com and affiliated Wholelychit platforms may use artificial intelligence systems to generate recommendations, summaries, advertisements, translations, articles, reviews, marketing content, and search results.
 
 AI-generated content may contain inaccuracies, omissions, outdated information, or errors.
 

@@ -18,7 +18,7 @@ Recommended first videos:
 2. SlotsFreeUSA: How to use free slot demos safely
 3. PetNeeds.ai: How to find simple pet care help
 4. ReadEasy30: How daily reading practice works
-5. RestaurantAIbot / Restaurants.ai: How restaurants can get more local customers
+5. RestaurantAIbot / restaurantaibot.com: How restaurants can get more local customers
 
 ## Video length guide
 

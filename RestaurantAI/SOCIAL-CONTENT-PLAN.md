@@ -1,4 +1,4 @@
-# Restaurant.ai Social Content Plan
+# restaurantaibot.com Social Content Plan
 
 ## Daily Content Types
 

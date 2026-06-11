@@ -1,4 +1,4 @@
-# Restaurants.ai Local SEO Plan
+# restaurantaibot.com Local SEO Plan
 
 ## Main Goal
 

@@ -53,6 +53,6 @@ Adult-focused, fun, transparent, and responsible-play aware.
 
 Friendly Branson trip buddy. Help visitors choose shows, food, attractions, lake ideas, and local deals.
 
-### RestaurantAIbot / Restaurants.ai
+### RestaurantAIbot / restaurantaibot.com
 
 Help restaurant owners understand how the website or AI service can bring more calls, orders, and customer follow-up.

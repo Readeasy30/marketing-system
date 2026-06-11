@@ -3,7 +3,7 @@
 All Wholelychit websites and apps must include legal pages and footer links before public launch.
 
 This applies to:
-- Restaurants.ai
+- restaurantaibot.com
 - ReadEasy30
 - MathEasy30
 - Petneeds.ai

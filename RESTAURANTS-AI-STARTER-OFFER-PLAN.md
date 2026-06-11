@@ -1,18 +1,18 @@
-# Restaurants.ai / RestaurantAIbot Starter Offer Plan
+# restaurantaibot.com / RestaurantAIbot Starter Offer Plan
 
 Last updated: 2026-05-29
 
 ## Naming Rule
 
-Use `Restaurants.ai` for the live website/domain spelling.
+Use `restaurantaibot.com` for the live website/domain spelling.
 
 Use `RestaurantAIbot` as the product/service name only when describing the AI-assisted restaurant growth helper.
 
 Do not use older spellings:
 
 - reasturant.ai
-- restaurant.ai
-- restaurant.ai
+- restaurantaibot.com
+- restaurantaibot.com
 
 ## Purpose
 
@@ -114,7 +114,7 @@ Headline:
 
 Subheadline:
 
-> Restaurants.ai helps restaurant owners improve their website, menu copy, local visibility, social posts, and review responses without adding more confusion.
+> restaurantaibot.com helps restaurant owners improve their website, menu copy, local visibility, social posts, and review responses without adding more confusion.
 
 CTA:
 

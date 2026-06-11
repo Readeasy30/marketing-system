@@ -32,7 +32,7 @@ Personal investment or trading research does not belong in the marketing workflo
 | 1 | `Wholelychit/readeasy30.com` | ReadEasy30 | Reading practice for children, adults, ESL learners, and struggling readers | Protect stable non-React version, improve lessons, add assessment/progression, build trust pages, prepare printable resources. |
 | 2 | `Wholelychit/matheasy30.com` | MathEasy30 | Calm math learning and practice | Keep simple static stack, stabilize app flow, support worksheets and confidence-building practice. |
 | 3 | `Wholelychit/my-petneeds` | PetNeeds.ai | Pet information, pet categories, safety-aware pet guidance | Build trustworthy pet portal, common Q&A, rare/household pet sections, safe affiliate/local ad planning later. |
-| 4 | `Wholelychit/restaurantaibot.com` | Restaurants.ai / RestaurantAIbot | Restaurant discovery and restaurant-owner AI growth platform | Build owner value, local pages, lead capture, demo-safe AI/restaurant tools, local ad planning later. |
+| 4 | `Wholelychit/restaurantaibot.com` | restaurantaibot.com / RestaurantAIbot | Restaurant discovery and restaurant-owner AI growth platform | Build owner value, local pages, lead capture, demo-safe AI/restaurant tools, local ad planning later. |
 | 5 | `Wholelychit/slotsfreeusa.com` | SlotsFreeUSA | Free slots entertainment and review content | Keep compliance, honest risk language, beginner guides, Lucky Lou character content, future ad/affiliate planning with disclosure. |
 | 6 | `Wholelychit/bransonblastusa.com` | BransonBlastUSA | Branson visitor and local marketing site | Confirm deployment, add attractions/shows/restaurants/lake content, prepare local advertiser readiness later. |
 | 7 | `Wholelychit/my-ozarkwebmasters` | Ozark Webmasters | Possible local web services / agency brand | Park or develop later after core websites stabilize. |
@@ -110,7 +110,7 @@ Use these rules on public website repositories:
 | ReadEasy30 | Printable resources, parent guides, tutor/school outreach | Subscription, assessment reports, sponsored education resources. |
 | MathEasy30 | Printable worksheets, parent guides | Subscription, school/tutor partnerships. |
 | PetNeeds.ai | Affiliate product paths, local vet/store listings, sponsored guides | Display ads, newsletter, local marketplace. |
-| Restaurants.ai | Restaurant lead generation, owner pages, monthly AI marketing service | Sponsored listings, menu/content services, local ads. |
+| restaurantaibot.com | Restaurant lead generation, owner pages, monthly AI marketing service | Sponsored listings, menu/content services, local ads. |
 | SlotsFreeUSA | Display ads, compliant affiliate offers, email list | Sponsored reviews where legal and disclosed. |
 | BransonBlastUSA | Local visitor content and advertiser readiness | Local sponsorships, listings, travel/visitor partnerships. |
 

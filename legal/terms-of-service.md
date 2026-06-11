@@ -2,7 +2,7 @@
 
 Last Updated: May 2026
 
-By accessing or using any Wholelychit website, application, service, or platform, including Restaurants.ai, you agree to these Terms of Service.
+By accessing or using any Wholelychit website, application, service, or platform, including restaurantaibot.com, you agree to these Terms of Service.
 
 ## Informational Platform
 
@@ -22,7 +22,7 @@ Users assume all risks related to restaurant visits, purchases, travel, and inte
 
 ## Third-Party Businesses
 
-Restaurants.ai and affiliated websites are not owners, operators, employers, agents, or representatives of listed restaurants or advertisers.
+restaurantaibot.com and affiliated websites are not owners, operators, employers, agents, or representatives of listed restaurants or advertisers.
 
 ## AI-Generated Content
 

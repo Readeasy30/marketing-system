@@ -41,7 +41,7 @@ Use this simple rotation unless one project is urgent.
 | Week 1 | ReadEasy30 | Trust, practice habit, parent/helper clarity |
 | Week 2 | PetNeeds.ai | Pet questions, checklists, safe beginner advice |
 | Week 3 | SlotsFreeUSA | Beginner guides, honest risk language, entertainment |
-| Week 4 | Restaurants.ai | Local restaurant value, owner benefits, demo messaging |
+| Week 4 | restaurantaibot.com | Local restaurant value, owner benefits, demo messaging |
 | Week 5 | MathEasy30 | Simple math confidence and daily practice |
 
 Then repeat.
@@ -80,7 +80,7 @@ Each month, aim for:
 - What RTP means in plain English
 - Free slots checklist for beginners
 
-## Restaurants.ai Content Ideas
+## restaurantaibot.com Content Ideas
 
 - How restaurants can answer customer questions faster
 - Why local restaurant pages need simple mobile design
